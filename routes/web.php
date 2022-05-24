@@ -13,9 +13,9 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// Route::get('/', function () {
+//     return view('welcome');
+// });
 
 Auth::routes();
 
@@ -23,4 +23,4 @@ Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name
 
 Route::get('/index', 'App\Http\Controllers\WebGISController@index')->name('index');
 Route::get('/blog', 'App\Http\Controllers\WebGISController@blog')->name('blog');
-Route::get('/peta', 'App\Http\Controllers\WebGISController@peta')->name('peta');
+Route::get('/', 'App\Http\Controllers\WebGISController@peta')->name('peta');
