@@ -1,4 +1,4 @@
-@extends('WebGIS.Layouts.App');
+@extends('WebGIS.Layouts.AppPeta');
 
 @section('header')
 <!-- ======= Header ======= -->
@@ -12,12 +12,12 @@
 
         <nav id="navbar" class="navbar">
             <ul>
-                <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-                <li><a class="nav-link scrollto" href="#about">About</a></li>
-                <!-- <li><a class="nav-link scrollto" href="#services">Services</a></li> -->
-                <li><a class="nav-link scrollto" href="#portfolio">Galery</a></li>
-                <li><a class="nav-link scrollto" href="#team">Team</a></li>
-                <li><a href="{{ route('blog') }}">Media & Publikasi</a></li>
+                <li><a class="nav-link scrollto" href="{{ route('index') }}#hero">Home</a></li>
+                <li><a class="nav-link scrollto" href="{{ route('index') }}#about">About</a></li>
+                <!-- <li><a class="nav-link scrollto" href="{{ route('index') }}#services">Services</a></li> -->
+                <li><a class="nav-link scrollto" href="{{ route('index') }}#portfolio">Portfolio</a></li>
+                <li><a class="nav-link scrollto" href="{{ route('index') }}#team">Team</a></li>
+                <li><a class="nav-ling scrollto active" href="{{ route('blog') }}">Media & Publikasi</a></li>
                 <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
                     <ul>
                         <li><a href="#">Drop Down 1</a></li>
@@ -35,8 +35,8 @@
                         <li><a href="#">Drop Down 4</a></li>
                     </ul>
                 </li>
-                <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-                <li><a class="getstarted scrollto" href="#about">Jelajah Peta</a></li>
+                <li><a class="nav-link scrollto" href="{{ route('index') }}#contact">Contact</a></li>
+                <li><a class="getstarted scrollto" href="{{ route('peta') }}">Jelajah Peta</a></li>
             </ul>
             <i class="bi bi-list mobile-nav-toggle"></i>
         </nav><!-- .navbar -->
@@ -52,7 +52,7 @@
     <style>
         .embed-container {
             position: relative;
-            padding-bottom: 50%;
+            padding-bottom: 88%;
             height: 0;
             max-width: 100%;
         }
@@ -74,7 +74,6 @@
             margin-bottom: -15px;
         }
     </style>
-    <div class="embed-container"><small><a href="//beni07if.maps.arcgis.com/apps/Embed/index.html?webmap=46dc18914d91487eaad1b1134bd7c3de&extent=107.297,-4.1217,115.4104,0.4175&home=true&zoom=true&scale=true&search=true&searchextent=true&details=true&legend=true&active_panel=details&basemap_gallery=true&disable_scroll=true&theme=light" style="color:#0000FF;text-align:left" target="_blank">View larger map</a></small><br><iframe width="800" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="WebGIS PS Ketapang" src="//beni07if.maps.arcgis.com/apps/Embed/index.html?webmap=46dc18914d91487eaad1b1134bd7c3de&extent=107.297,-4.1217,115.4104,0.4175&home=true&zoom=true&previewImage=true&scale=true&search=true&searchextent=true&details=true&legend=true&active_panel=details&basemap_gallery=true&disable_scroll=true&theme=light"></iframe></div>
-
+    <div class="embed-container"><small><a href="//beni07if.maps.arcgis.com/apps/Embed/index.html?webmap=46dc18914d91487eaad1b1134bd7c3de&extent=107.2915,-3.9738,115.4049,0.5658&home=true&zoom=true&scale=true&search=true&searchextent=true&details=true&legendlayers=true&active_panel=details&basemap_gallery=true&disable_scroll=true&theme=light" style="color:#0000FF;text-align:left" target="_blank">View larger map</a></small><br><iframe width="800" height="700" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="WebGIS PS Ketapang" src="//beni07if.maps.arcgis.com/apps/Embed/index.html?webmap=46dc18914d91487eaad1b1134bd7c3de&extent=107.2915,-3.9738,115.4049,0.5658&home=true&zoom=true&previewImage=true&scale=true&search=true&searchextent=true&details=true&legendlayers=true&active_panel=details&basemap_gallery=true&disable_scroll=true&theme=light"></iframe></div>
 </main><!-- End #main -->
 @endsection

@@ -56,7 +56,7 @@
                 <h2 data-aos="fade-up" data-aos-delay="400">WebGIS PS Ketapang merupakan platform penyedia persebaran perhutanan sosial di Kabupaten Ketapang.</h2>
                 <div data-aos="fade-up" data-aos-delay="600">
                     <div class="text-center text-lg-start">
-                        <a href="#about" class="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center">
+                        <a href="{{ route('peta') }}" class="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center">
                             <span>Jelajah Peta</span>
                             <i class="bi bi-arrow-right"></i>
                         </a>

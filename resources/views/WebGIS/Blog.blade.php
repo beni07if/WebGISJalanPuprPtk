@@ -14,7 +14,7 @@
             <ul>
                 <li><a class="nav-link scrollto" href="{{ route('index') }}#hero">Home</a></li>
                 <li><a class="nav-link scrollto" href="{{ route('index') }}#about">About</a></li>
-                <li><a class="nav-link scrollto" href="{{ route('index') }}#services">Services</a></li>
+                <!-- <li><a class="nav-link scrollto" href="{{ route('index') }}#services">Services</a></li> -->
                 <li><a class="nav-link scrollto" href="{{ route('index') }}#portfolio">Portfolio</a></li>
                 <li><a class="nav-link scrollto" href="{{ route('index') }}#team">Team</a></li>
                 <li><a class="nav-ling scrollto active" href="{{ route('blog') }}">Media & Publikasi</a></li>
