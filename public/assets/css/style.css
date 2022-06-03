@@ -230,6 +230,7 @@ section {
 }
 .navbar .getstarted, .navbar .getstarted:focus {
   background: #4fd4c7;
+  /* outline: #4fd4c7; */
   padding: 8px 20px;
   margin-left: 30px;
   border-radius: 4px;

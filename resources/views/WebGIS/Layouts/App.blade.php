@@ -21,8 +21,8 @@
         <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
             <a href="{{ route('index') }}" class="logo d-flex align-items-center">
-                <img src="{{ asset('assets/img/logo.png') }}" alt="">
-                <span>PS KETAPANG</span>
+                <img src="{{ asset('assets/img/logo/aiden.png') }}" alt="">
+                <!-- <span>aid environment</span> -->
             </a>
 
             <nav id="navbar" class="navbar">
@@ -92,8 +92,8 @@
                 <div class="row gy-4">
                     <div class="col-lg-5 col-md-12 footer-info">
                         <a href="index.html" class="logo d-flex align-items-center">
-                            <img src="assets/img/logo.png" alt="">
-                            <span>PS Ketapang</span>
+                            <img src="assets/img/logo/aiden.png" alt="">
+                            <!-- <span>PS Ketapang</span> -->
                         </a>
                         <p>WebGIS PS Ketapang merupakan website yang menyediakan sebaran perhutanan sosial di Kabupaten Ketapang.</p>
                         <div class="social-links mt-3">

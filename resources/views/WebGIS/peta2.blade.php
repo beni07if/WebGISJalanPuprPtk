@@ -6,8 +6,8 @@
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
         <a href="{{ route('index') }}" class="logo d-flex align-items-center">
-            <img src="assets/img/logo.png" alt="">
-            <span>PS KETAPANG</span>
+            <img src="assets/img/logo/aiden.png" alt="">
+            <!-- <span>PS KETAPANG</span> -->
         </a>
 
         <nav id="navbar" class="navbar">
@@ -49,10 +49,11 @@
 <br><br><br>
 
 <main id="main">
+
     <style>
         .embed-container {
             position: relative;
-            padding-bottom: 88%;
+            padding-bottom: 50%;
             height: 0;
             max-width: 100%;
         }
@@ -74,6 +75,7 @@
             margin-bottom: -15px;
         }
     </style>
-    <div class="embed-container"><small><a href="//beni07if.maps.arcgis.com/apps/Embed/index.html?webmap=46dc18914d91487eaad1b1134bd7c3de&extent=107.2915,-3.9738,115.4049,0.5658&home=true&zoom=true&scale=true&search=true&searchextent=true&details=true&legendlayers=true&active_panel=details&basemap_gallery=true&disable_scroll=true&theme=light" style="color:#0000FF;text-align:left" target="_blank">View larger map</a></small><br><iframe width="800" height="700" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="WebGIS PS Ketapang" src="//beni07if.maps.arcgis.com/apps/Embed/index.html?webmap=46dc18914d91487eaad1b1134bd7c3de&extent=107.2915,-3.9738,115.4049,0.5658&home=true&zoom=true&previewImage=true&scale=true&search=true&searchextent=true&details=true&legendlayers=true&active_panel=details&basemap_gallery=true&disable_scroll=true&theme=light"></iframe></div>
+    <div class="embed-container"><small><a href="//beni07if.maps.arcgis.com/apps/Embed/index.html?webmap=46dc18914d91487eaad1b1134bd7c3de&extent=106.6646,-3.8056,114.778,0.4214&home=true&zoom=true&scale=true&search=true&searchextent=true&details=true&legendlayers=true&active_panel=details&basemap_gallery=true&disable_scroll=true&theme=light" style="color:#0000FF;text-align:left" target="_blank">View larger map</a></small><br><iframe width="800" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="WebGIS PS Ketapang" src="//beni07if.maps.arcgis.com/apps/Embed/index.html?webmap=46dc18914d91487eaad1b1134bd7c3de&extent=106.6646,-3.8056,114.778,0.4214&home=true&zoom=true&previewImage=true&scale=true&search=true&searchextent=true&details=true&legendlayers=true&active_panel=details&basemap_gallery=true&disable_scroll=true&theme=light"></iframe></div>
+
 </main><!-- End #main -->
 @endsection
