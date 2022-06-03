@@ -49,7 +49,7 @@
 <br><br><br>
 
 <main id="main">
-    <style>
+    <!-- <style>
         .embed-container {
             position: relative;
             padding-bottom: 88%;
@@ -74,6 +74,27 @@
             margin-bottom: -15px;
         }
     </style>
-    <div class="embed-container"><small><a href="//beni07if.maps.arcgis.com/apps/Embed/index.html?webmap=46dc18914d91487eaad1b1134bd7c3de&extent=107.2915,-3.9738,115.4049,0.5658&home=true&zoom=true&scale=true&search=true&searchextent=true&details=true&legendlayers=true&active_panel=details&basemap_gallery=true&disable_scroll=true&theme=light" style="color:#0000FF;text-align:left" target="_blank">View larger map</a></small><br><iframe width="800" height="700" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="WebGIS PS Ketapang" src="//beni07if.maps.arcgis.com/apps/Embed/index.html?webmap=46dc18914d91487eaad1b1134bd7c3de&extent=107.2915,-3.9738,115.4049,0.5658&home=true&zoom=true&previewImage=true&scale=true&search=true&searchextent=true&details=true&legendlayers=true&active_panel=details&basemap_gallery=true&disable_scroll=true&theme=light"></iframe></div>
-</main><!-- End #main -->
+    <div class="embed-container"><small><a href="//beni07if.maps.arcgis.com/apps/Embed/index.html?webmap=46dc18914d91487eaad1b1134bd7c3de&extent=107.2915,-3.9738,115.4049,0.5658&home=true&zoom=true&scale=true&search=true&searchextent=true&details=true&legendlayers=true&active_panel=details&basemap_gallery=true&disable_scroll=true&theme=light" style="color:#0000FF;text-align:left" target="_blank">View larger map</a></small><br><iframe width="800" height="700" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="WebGIS PS Ketapang" src="//beni07if.maps.arcgis.com/apps/Embed/index.html?webmap=46dc18914d91487eaad1b1134bd7c3de&extent=107.2915,-3.9738,115.4049,0.5658&home=true&zoom=true&previewImage=true&scale=true&search=true&searchextent=true&details=true&legendlayers=true&active_panel=details&basemap_gallery=true&disable_scroll=true&theme=light"></iframe></div> -->
+
+    <body>
+
+        <section id="about" class="about">
+
+            <div class="container" data-aos="fade-up">
+                <div class="row gx-0">
+
+                    <div class="col-lg-10 d-flex flex-column justify-content-center" data-aos-delay="200">
+                        <div id="viewDiv"></div>
+                    </div>
+
+                </div>
+            </div>
+
+            <br><br><br><br><br><br><br><br><br><br><br><br>
+
+        </section><!-- End About Section -->
+
+    </body>
+</main>
+<!-- End #main -->
 @endsection

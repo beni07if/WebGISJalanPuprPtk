@@ -90,4 +90,19 @@ class WebGISController extends Controller
     {
         return view('WebGIS.peta');
     }
+
+    public function petaJs()
+    {
+        return view('WebGIS.petaJs');
+    }
+
+    public function peta2()
+    {
+        return view('WebGIS.peta2');
+    }
+
+    public function peta3()
+    {
+        return view('WebGIS.peta3');
+    }
 }

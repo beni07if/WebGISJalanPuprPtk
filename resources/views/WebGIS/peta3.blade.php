@@ -1,0 +1,217 @@
+@extends('WebGIS.Layouts.AppPeta');
+
+@section('header')
+<!-- ======= Header ======= -->
+<header id="header" class="header fixed-top">
+    <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
+
+        <a href="{{ route('index') }}" class="logo d-flex align-items-center">
+            <img src="assets/img/logo.png" alt="">
+            <span>PS KETAPANG</span>
+        </a>
+
+        <nav id="navbar" class="navbar">
+            <ul>
+                <li><a class="nav-link scrollto" href="{{ route('index') }}#hero">Home</a></li>
+                <li><a class="nav-link scrollto" href="{{ route('index') }}#about">About</a></li>
+                <!-- <li><a class="nav-link scrollto" href="{{ route('index') }}#services">Services</a></li> -->
+                <li><a class="nav-link scrollto" href="{{ route('index') }}#portfolio">Portfolio</a></li>
+                <li><a class="nav-link scrollto" href="{{ route('index') }}#team">Team</a></li>
+                <li><a class="nav-ling scrollto active" href="{{ route('blog') }}">Media & Publikasi</a></li>
+                <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
+                    <ul>
+                        <li><a href="#">Drop Down 1</a></li>
+                        <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
+                            <ul>
+                                <li><a href="#">Deep Drop Down 1</a></li>
+                                <li><a href="#">Deep Drop Down 2</a></li>
+                                <li><a href="#">Deep Drop Down 3</a></li>
+                                <li><a href="#">Deep Drop Down 4</a></li>
+                                <li><a href="#">Deep Drop Down 5</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#">Drop Down 2</a></li>
+                        <li><a href="#">Drop Down 3</a></li>
+                        <li><a href="#">Drop Down 4</a></li>
+                    </ul>
+                </li>
+                <li><a class="nav-link scrollto" href="{{ route('index') }}#contact">Contact</a></li>
+                <li><a class="getstarted scrollto" href="{{ route('peta') }}">Jelajah Peta</a></li>
+            </ul>
+            <i class="bi bi-list mobile-nav-toggle"></i>
+        </nav><!-- .navbar -->
+
+    </div>
+</header><!-- End Header -->
+@endsection
+
+@section('content')
+<br><br><br>
+
+<main id="main">
+    <!-- <style>
+        .embed-container {
+            position: relative;
+            padding-bottom: 88%;
+            height: 0;
+            max-width: 100%;
+        }
+
+        .embed-container iframe,
+        .embed-container object,
+        .embed-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+
+        small {
+            position: absolute;
+            z-index: 40;
+            bottom: 0;
+            margin-bottom: -15px;
+        }
+    </style>
+    <div class="embed-container"><small><a href="//beni07if.maps.arcgis.com/apps/Embed/index.html?webmap=46dc18914d91487eaad1b1134bd7c3de&extent=107.2915,-3.9738,115.4049,0.5658&home=true&zoom=true&scale=true&search=true&searchextent=true&details=true&legendlayers=true&active_panel=details&basemap_gallery=true&disable_scroll=true&theme=light" style="color:#0000FF;text-align:left" target="_blank">View larger map</a></small><br><iframe width="800" height="700" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="WebGIS PS Ketapang" src="//beni07if.maps.arcgis.com/apps/Embed/index.html?webmap=46dc18914d91487eaad1b1134bd7c3de&extent=107.2915,-3.9738,115.4049,0.5658&home=true&zoom=true&previewImage=true&scale=true&search=true&searchextent=true&details=true&legendlayers=true&active_panel=details&basemap_gallery=true&disable_scroll=true&theme=light"></iframe></div> -->
+
+    <body>
+
+        <section id="about" class="about">
+
+            <div class="container" data-aos="fade-up">
+                <div class="row gx-0">
+
+                    <div class="col-lg-5">
+                        <!-- F.A.Q List 1-->
+                        <div class="accordion accordion-flush" id="faqlist1">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-1">
+                                        Peta Zonasi HPHD Kalibandung
+                                    </button>
+                                </h2>
+                                <div id="faq-content-1" class="accordion-collapse collapse" data-bs-parent="#faqlist1">
+                                    <div class="accordion-body">
+                                        Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+                                    </div>
+                                    <div class="accordion-body">
+                                        <a href="">Jelajah Peta --></a>
+                                    </div>
+
+
+                                </div>
+                            </div>
+
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-2">
+                                        Kubu Raya PES - Peat Emission Reduction Project Landscape
+                                    </button>
+                                </h2>
+                                <div id="faq-content-2" class="accordion-collapse collapse" data-bs-parent="#faqlist1">
+                                    <div class="accordion-body">
+                                        Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-3">
+                                        Lanskap Gambut Pesisir Delta Kapuas
+                                    </button>
+                                </h2>
+                                <div id="faq-content-3" class="accordion-collapse collapse" data-bs-parent="#faqlist1">
+                                    <div class="accordion-body">
+                                        Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-lg-6 d-flex flex-column justify-content-center" data-aos-delay="200">
+                        <div id="map"></div>
+                        <script>
+                            const apiKey = "AAPK7013ec3858fb45979339484afd97ad2c6TPvSLjLE4ZNOcuYKASPFeZTT6QiAW7sGKD3F9estU6FWI0udi8VRupDWzGODx7I";
+                            const basemapEnum = "ArcGIS:Streets";
+
+                            const map = L.map("map", {
+                                minZoom: 2
+                            }).setView([0.007193, 110.942957], 7);
+                            // setView [0.007193, 110.942957] -> untuk mengatur lokasi extend peta. 7 -> untuk mengatur jarak extend, semakin kecil semakin jauh.
+
+                            L.esri.Vector.vectorBasemapLayer(basemapEnum, {
+                                apiKey: apiKey
+                            }).addTo(map);
+
+                            // add vector tile
+                            L.esri.Vector.vectorTileLayer(
+                                "https://vectortileservices3.arcgis.com/GVgbJbqm8hXASVYi/arcgis/rest/services/Santa_Monica_Mountains_Parcels_VTL/VectorTileServer"
+                            ).addTo(map);
+                            // end add vector tile
+
+                            // change basemap
+                            const basemapLayers = {
+                                Streets: L.esri.Vector.vectorBasemapLayer("ArcGIS:Streets", {
+                                    apiKey: apiKey
+                                }).addTo(map),
+                                Navigation: L.esri.Vector.vectorBasemapLayer("ArcGIS:Navigation", {
+                                    apiKey: apiKey
+                                }).addTo(map),
+                                Topographic: L.esri.Vector.vectorBasemapLayer("ArcGIS:Topographic", {
+                                    apiKey: apiKey
+                                }).addTo(map),
+                                "Light Gray": L.esri.Vector.vectorBasemapLayer("ArcGIS:LightGray", {
+                                    apiKey: apiKey
+                                }).addTo(map),
+                                "Dark gray": L.esri.Vector.vectorBasemapLayer("ArcGIS:DarkGray", {
+                                    apiKey: apiKey
+                                }).addTo(map),
+                                "Streets Relief": L.esri.Vector.vectorBasemapLayer("ArcGIS:StreetsRelief", {
+                                    apiKey: apiKey
+                                }).addTo(map),
+                                Imagery: L.esri.Vector.vectorBasemapLayer("ArcGIS:Imagery", {
+                                    apiKey: apiKey
+                                }).addTo(map),
+                                ChartedTerritory: L.esri.Vector.vectorBasemapLayer("ArcGIS:ChartedTerritory", {
+                                    apiKey: apiKey
+                                }).addTo(map),
+                                ColoredPencil: L.esri.Vector.vectorBasemapLayer("ArcGIS:ColoredPencil", {
+                                    apiKey: apiKey
+                                }).addTo(map),
+                                Nova: L.esri.Vector.vectorBasemapLayer("ArcGIS:Nova", {
+                                    apiKey: apiKey
+                                }).addTo(map),
+                                Midcentury: L.esri.Vector.vectorBasemapLayer("ArcGIS:Midcentury", {
+                                    apiKey: apiKey
+                                }).addTo(map),
+                                OSM: L.esri.Vector.vectorBasemapLayer("OSM:Standard", {
+                                    apiKey: apiKey
+                                }).addTo(map),
+                                "OSM:Streets": L.esri.Vector.vectorBasemapLayer("OSM:Streets", {
+                                    apiKey: apiKey
+                                }).addTo(map)
+                            };
+
+                            L.control.layers(basemapLayers, null, {
+                                collapsed: false
+                            }).addTo(map);
+                            // end change basemap
+                        </script>
+                    </div>
+
+
+                </div>
+            </div>
+
+            <br><br><br><br><br><br><br><br><br><br><br><br>
+
+        </section><!-- End About Section -->
+
+    </body>
+</main>
+<!-- End #main -->
+@endsection
