@@ -52,9 +52,10 @@
                         </ul>
                     </li> -->
                     <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-                    <li><a class="getstarted scrollto" href="{{ route('peta') }}">Peta</a></li>
-                    <li><a class="getstarted scrollto" href="{{ route('peta2') }}">Peta 2</a></li>
-                    <li><a class="getstarted scrollto" href="{{ route('peta3') }}">Peta 3</a></li>
+                    <!-- <li><a class="getstarted scrollto" href="{{ route('peta') }}">Peta</a></li> -->
+                    <li><a class="getstarted scrollto" href="{{ route('peta2') }}">Peta</a></li>
+                    <!-- <li><a class="getstarted scrollto" href="{{ route('petaJs') }}">PetaJs</a></li> -->
+                    <!-- <li><a class="getstarted scrollto" href="{{ route('peta3') }}">Peta 3</a></li> -->
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav><!-- .navbar -->
