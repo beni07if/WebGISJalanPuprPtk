@@ -95,7 +95,7 @@
                             <img src="assets/img/logo/aiden.png" alt="">
                             <!-- <span>PS Ketapang</span> -->
                         </a>
-                        <p>WebGIS PS Ketapang merupakan website yang menyediakan sebaran perhutanan sosial di Kabupaten Ketapang.</p>
+                        <p>Website penyedia persebaran Perhutanan Sosial (HD dan HKm) di Kabupaten Ketapang..</p>
                         <div class="social-links mt-3">
                             <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
                             <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
@@ -104,18 +104,18 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-2 col-6 footer-links">
-                        <h4>Useful Links</h4>
+                    <div class="col-lg-3 col-6 footer-links">
+                        <h4>Our Service</h4>
                         <ul>
-                            <li><i class="bi bi-chevron-right"></i> <a href="#">Home</a></li>
-                            <li><i class="bi bi-chevron-right"></i> <a href="#">About us</a></li>
-                            <li><i class="bi bi-chevron-right"></i> <a href="#">Services</a></li>
-                            <li><i class="bi bi-chevron-right"></i> <a href="#">Terms of service</a></li>
-                            <li><i class="bi bi-chevron-right"></i> <a href="#">Privacy policy</a></li>
+                            <li><i class="bi bi-chevron-right"></i> <a href="{{ route('index') }}#hero">Home</a></li>
+                            <li><i class="bi bi-chevron-right"></i> <a href="{{ route('index') }}#about">About us</a></li>
+                            <li><i class="bi bi-chevron-right"></i> <a href="{{ route('index') }}#portfolio">Galery</a></li>
+                            <li><i class="bi bi-chevron-right"></i> <a href="{{ route('index') }}#team">Team</a></li>
+                            <li><i class="bi bi-chevron-right"></i> <a href="{{ route('peta2') }}">Peta Interaktif</a></li>
                         </ul>
                     </div>
 
-                    <div class="col-lg-2 col-6 footer-links">
+                    <!-- <div class="col-lg-2 col-6 footer-links">
                         <h4>Our Services</h4>
                         <ul>
                             <li><i class="bi bi-chevron-right"></i> <a href="#">Web Design</a></li>
@@ -124,16 +124,17 @@
                             <li><i class="bi bi-chevron-right"></i> <a href="#">Marketing</a></li>
                             <li><i class="bi bi-chevron-right"></i> <a href="#">Graphic Design</a></li>
                         </ul>
-                    </div>
+                    </div> -->
 
                     <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
                         <h4>Contact Us</h4>
                         <p>
-                            A108 Adam Street <br>
-                            New York, NY 535022<br>
-                            United States <br><br>
+                            Jalan.. <br>
+                            Ketapang, Indonesia<br>
+                            <!-- United States <br> -->
+                            <br>
                             <strong>Phone:</strong> +1 5589 55488 55<br>
-                            <strong>Email:</strong> info@example.com<br>
+                            <strong>Email:</strong> info@psketapang.com<br>
                         </p>
 
                     </div>

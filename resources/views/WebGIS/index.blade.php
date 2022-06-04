@@ -8,7 +8,7 @@
         <div class="row">
             <div class="col-lg-6 d-flex flex-column justify-content-center">
                 <h1 data-aos="fade-up">WebGIS PS Ketapang</h1>
-                <h2 data-aos="fade-up" data-aos-delay="400">WebGIS PS Ketapang merupakan website yang menyediakan sebaran perhutanan sosial di Kabupaten Ketapang.</h2>
+                <h2 data-aos="fade-up" data-aos-delay="400">Website penyedia persebaran Perhutanan Sosial (HD dan HKm) di Kabupaten Ketapang..</h2>
                 <div data-aos="fade-up" data-aos-delay="600">
                     <div class="text-center text-lg-start">
                         <a href="{{ route('peta2') }}" class="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center">
@@ -19,16 +19,12 @@
                 </div>
             </div>
             <div class="col-lg-6 hero-img" data-aos="zoom-out" data-aos-delay="200">
-                <img src="assets/img/hero-img.png" class="img-fluid" alt="">
+                <img src="assets/img/foto_ps/Peta_ketapang1.png" class="img-fluid" alt="">
             </div>
         </div>
     </div>
 
 </section><!-- End Hero -->
-
-<div>
-    <embed type="application/x-google-chrome-pdf" src="chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/f72e6e52-e719-48b9-9523-4a20d54dee30" original-url="https://panel.niagahoster.co.id/invoice/pdf/bf2228610c5228a23a979439d9ce635a2669f2e3" background-color="4283586137" javascript="allow" full-frame="">
-</div>
 
 <main id="main">
     <!-- ======= About Section ======= -->
@@ -42,19 +38,19 @@
                         <!-- <h3>Who We Are</h3> -->
                         <h2>About WebGIS PS Ketapang</h2>
                         <p>
-                            Quisquam vel ut sint cum eos hic dolores aperiam. Sed deserunt et. Inventore et et dolor consequatur itaque ut voluptate sed et. Magnam nam ipsum tenetur suscipit voluptatum nam et est corrupti.
+                            WebGIS PS Ketapang merupakan website berbasis GIS yang menyediakan sebaran perhutanan sosial (Hutan Desa dan Hutan Kemasyarakatan) di Kabupaten Ketapang.
                         </p>
-                        <div class="text-center text-lg-start">
+                        <!-- <div class="text-center text-lg-start">
                             <a href="#" class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
                                 <span>Read More</span>
                                 <i class="bi bi-arrow-right"></i>
                             </a>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
 
                 <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
-                    <img src="assets/img/about.jpg" class="img-fluid" alt="">
+                    <img src="assets/img/features-2.png" class="img-fluid" alt="">
                 </div>
 
             </div>
@@ -69,7 +65,7 @@
 
             <header class="section-header">
                 <!-- <h2>Our Values</h2> -->
-                <p>Other Information</p>
+                <p>Mitra Yang Terlibat</p>
             </header>
 
             <div class="row">
@@ -77,7 +73,7 @@
                 <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
                     <div class="box">
                         <img src="assets/img/values-1.png" class="img-fluid" alt="">
-                        <h3>Ad cupiditate sed est odio</h3>
+                        <h3>Goverment</h3>
                         <p>Eum ad dolor et. Autem aut fugiat debitis voluptatem consequuntur sit. Et veritatis id.</p>
                     </div>
                 </div>
@@ -85,7 +81,7 @@
                 <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="400">
                     <div class="box">
                         <img src="assets/img/values-2.png" class="img-fluid" alt="">
-                        <h3>Voluptatem voluptatum alias</h3>
+                        <h3>Private Sektor</h3>
                         <p>Repudiandae amet nihil natus in distinctio suscipit id. Doloremque ducimus ea sit non.</p>
                     </div>
                 </div>
@@ -93,7 +89,7 @@
                 <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="600">
                     <div class="box">
                         <img src="assets/img/values-3.png" class="img-fluid" alt="">
-                        <h3>Fugit cupiditate alias nobis.</h3>
+                        <h3>Civil Society Organitation</h3>
                         <p>Quam rem vitae est autem molestias explicabo debitis sint. Vero aliquid quidem commodi.</p>
                     </div>
                 </div>
@@ -161,8 +157,7 @@
 
         <div class="container" data-aos="fade-up">
 
-            <header class="section-header">
-                <!-- <h2>Features</h2> -->
+            <!-- <header class="section-header">
                 <p>Other Information</p>
             </header>
 
@@ -220,58 +215,105 @@
                     </div>
                 </div>
 
-            </div> <!-- / row -->
+            </div> -->
+            <!-- / row -->
 
             <!-- Feature Tabs -->
             <div class="row feture-tabs" data-aos="fade-up">
                 <div class="col-lg-6">
-                    <h3>Other Information</h3>
+                    <h3>Tentang Perhutanan Sosial (PS)</h3>
 
                     <!-- Tabs -->
                     <ul class="nav nav-pills mb-3">
                         <li>
-                            <a class="nav-link active" data-bs-toggle="pill" href="#tab1">Saepe fuga</a>
+                            <a class="nav-link active" data-bs-toggle="pill" href="#tab1">Perhutanan Sosial</a>
                         </li>
                         <li>
-                            <a class="nav-link" data-bs-toggle="pill" href="#tab2">Voluptates</a>
+                            <a class="nav-link" data-bs-toggle="pill" href="#tab2">Skema PS</a>
                         </li>
-                        <li>
+                        <!-- <li>
                             <a class="nav-link" data-bs-toggle="pill" href="#tab3">Corrupti</a>
-                        </li>
+                        </li> -->
                     </ul><!-- End Tabs -->
 
                     <!-- Tab Content -->
                     <div class="tab-content">
 
                         <div class="tab-pane fade show active" id="tab1">
-                            <p>Consequuntur inventore voluptates consequatur aut vel et. Eos doloribus expedita. Sapiente atque consequatur minima nihil quae aspernatur quo suscipit voluptatem.</p>
-                            <div class="d-flex align-items-center mb-2">
-                                <i class="bi bi-check2"></i>
-                                <h4>Repudiandae rerum velit modi et officia quasi facilis</h4>
+                            <p>Perhutanan sosial (PS) adalah sistem pengelolaan hutan lestari yang dilaksanakan dalam
+                                kawasan hutan negara atau hutan hak/hutan adat yang dilaksanakan oleh masyarakat
+                                setempat atau masyarakat hukum adat sebagai pelaku utama untuk meningkatkan
+                                kesejahteraannya, keseimbangan lingkungan dan dinamika sosial budaya dalam bentuk Hutan
+                                Desa, Hutan Kemasyarakatan, Hutan Tanaman Rakyat, Hutan Rakyat, Hutan Adat, dan
+                                Kemitraan Kehutanan.
+                            </p>
+                            <h4>Dokumen Terkait Perhutanan Sosial</h4>
+                            <div class="col-lg-12 mt-5 mt-lg-0 d-flex">
+                                <div class="row align-self-center gy-4">
+                                    <div class="col-md-6" data-aos="zoom-out" data-aos-delay="200">
+                                        <div class="feature-box d-flex align-items-center">
+                                            <i class="bi bi-check"></i>
+                                            <h4>PP No.9</h4>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6" data-aos="zoom-out" data-aos-delay="300">
+                                        <div class="feature-box d-flex align-items-center">
+                                            <i class="bi bi-check"></i>
+                                            <h4>PP No.23</h4>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6" data-aos="zoom-out" data-aos-delay="200">
+                                        <div class="feature-box d-flex align-items-center">
+                                            <i class="bi bi-check"></i>
+                                            <h4>PP No. ..</h4>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6" data-aos="zoom-out" data-aos-delay="300">
+                                        <div class="feature-box d-flex align-items-center">
+                                            <i class="bi bi-check"></i>
+                                            <h4>PP No. ..</h4>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
-                            <p>Laborum omnis voluptates voluptas qui sit aliquam blanditiis. Sapiente minima commodi dolorum non eveniet magni quaerat nemo et.</p>
-                            <div class="d-flex align-items-center mb-2">
-                                <i class="bi bi-check2"></i>
-                                <h4>Incidunt non veritatis illum ea ut nisi</h4>
-                            </div>
-                            <p>Non quod totam minus repellendus autem sint velit. Rerum debitis facere soluta tenetur. Iure molestiae assumenda sunt qui inventore eligendi voluptates nisi at. Dolorem quo tempora. Quia et perferendis.</p>
                         </div><!-- End Tab 1 Content -->
 
                         <div class="tab-pane fade show" id="tab2">
-                            <p>Consequuntur inventore voluptates consequatur aut vel et. Eos doloribus expedita. Sapiente atque consequatur minima nihil quae aspernatur quo suscipit voluptatem.</p>
+                            <p>Program Perhutanan Sosial memiliki berbagai skema yang memiliki inti yang masih sama. Skema yang
+                                diusung dalam program ini adalah Hutan Desa (HD), Hutan Kemasyarakatan (HKm), Hutan
+                                Tanaman Rakyat (HTR/IPHPS), Hutan Adat (HA), dan Kemitraan Kehutanan.</p>
                             <div class="d-flex align-items-center mb-2">
                                 <i class="bi bi-check2"></i>
-                                <h4>Repudiandae rerum velit modi et officia quasi facilis</h4>
+                                <h4>Hutan Desa (HD)</h4>
                             </div>
-                            <p>Laborum omnis voluptates voluptas qui sit aliquam blanditiis. Sapiente minima commodi dolorum non eveniet magni quaerat nemo et.</p>
+                            <p>Hutan Desa (HD) adalah hutan negara yang dalam pengelolaannya dilakukan oleh
+                                lembaga desa dengan tujuan untuk menyejahterakan suatu desa.</p>
                             <div class="d-flex align-items-center mb-2">
                                 <i class="bi bi-check2"></i>
-                                <h4>Incidunt non veritatis illum ea ut nisi</h4>
+                                <h4>Hutan Kemasyarakatan (HKm)</h4>
                             </div>
-                            <p>Non quod totam minus repellendus autem sint velit. Rerum debitis facere soluta tenetur. Iure molestiae assumenda sunt qui inventore eligendi voluptates nisi at. Dolorem quo tempora. Quia et perferendis.</p>
+                            <p>Hutan Kemasyarakatan (HKm) adalah hutan negara yang mana pengelolaannya dilakukan
+                                oleh masyarakat dengan tujuan untuk memberdayakan masyarakat sekitar agar tercipta
+                                kesejahteraan.</p>
+                            <div class="d-flex align-items-center mb-2">
+                                <i class="bi bi-check2"></i>
+                                <h4>Hutan Tanaman Rakyat (HTR)</h4>
+                            </div>
+                            <p>Hutan Tanaman Rakyat (HTR) adalah hutan tanaman pada hutan produksi yang dibangun
+                                oleh kelompok masyarakat untuk meningkatkan potensi dan kualitas hutan produksi dengan
+                                menerapkan sistem silvikultur untuk menjamin kelestarian hutan.
+                            </p>
+                            <div class="d-flex align-items-center mb-2">
+                                <i class="bi bi-check2"></i>
+                                <h4>Hutan Adat (HA)</h4>
+                            </div>
+                            <p>Hutan adat adalah hutan yang dimiliki oleh masyarakat adat yang sebelumnya merupakan
+                                hutan negara ataupun bukan hutan negara</p>
                         </div><!-- End Tab 2 Content -->
 
-                        <div class="tab-pane fade show" id="tab3">
+                        <!-- <div class="tab-pane fade show" id="tab3">
                             <p>Consequuntur inventore voluptates consequatur aut vel et. Eos doloribus expedita. Sapiente atque consequatur minima nihil quae aspernatur quo suscipit voluptatem.</p>
                             <div class="d-flex align-items-center mb-2">
                                 <i class="bi bi-check2"></i>
@@ -283,20 +325,21 @@
                                 <h4>Incidunt non veritatis illum ea ut nisi</h4>
                             </div>
                             <p>Non quod totam minus repellendus autem sint velit. Rerum debitis facere soluta tenetur. Iure molestiae assumenda sunt qui inventore eligendi voluptates nisi at. Dolorem quo tempora. Quia et perferendis.</p>
-                        </div><!-- End Tab 3 Content -->
+                        </div> -->
+                        <!-- End Tab 3 Content -->
 
                     </div>
 
                 </div>
 
                 <div class="col-lg-6">
-                    <img src="assets/img/features-2.png" class="img-fluid" alt="">
+                    <img src="assets/img/about.jpg" class="img-fluid" alt="">
                 </div>
 
             </div><!-- End Feature Tabs -->
 
             <!-- Feature Icons -->
-            <div class="row feature-icons" data-aos="fade-up">
+            <!-- <div class="row feature-icons" data-aos="fade-up">
                 <h3>Other Information</h3>
 
                 <div class="row">
@@ -361,11 +404,213 @@
 
                 </div>
 
-            </div><!-- End Feature Icons -->
+            </div> -->
+            <!-- End Feature Icons -->
 
+            <!-- Hutan Desa -->
+            <div class="row feature-icons" data-aos="fade-up">
+                <h3>Hutan Desa (HD) dampingan aid environment di Kab. Ketapang</h3>
+
+                <div class="row">
+
+                    <!-- <div class="col-xl-4 text-center" data-aos="fade-right" data-aos-delay="100">
+                        <img src="assets/img/features-3.png" class="img-fluid p-4" alt="">
+                    </div> -->
+
+                    <div class="col-xl-12 d-flex content">
+                        <div class="row align-self-center gy-4">
+
+                            <div class="col-md-4 icon-box" data-aos="fade-up">
+                                <i class="ri-line-chart-line"></i>
+                                <div>
+                                    <h4>Hutan Desa A</h4>
+                                    <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="100">
+                                <i class="ri-stack-line"></i>
+                                <div>
+                                    <h4>Hutan Desa B</h4>
+                                    <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="200">
+                                <i class="ri-brush-4-line"></i>
+                                <div>
+                                    <h4>Hutan Desa C</h4>
+                                    <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="300">
+                                <i class="ri-magic-line"></i>
+                                <div>
+                                    <h4>Hutan Desa D</h4>
+                                    <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="400">
+                                <i class="ri-command-line"></i>
+                                <div>
+                                    <h4>Hutan Desa E</h4>
+                                    <p>Et fuga et deserunt et enim. Dolorem architecto ratione tensa raptor marte</p>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="500">
+                                <i class="ri-radar-line"></i>
+                                <div>
+                                    <h4>Hutan Desa F</h4>
+                                    <p>Est autem dicta beatae suscipit. Sint veritatis et sit quasi ab aut inventore</p>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 icon-box" data-aos="fade-up">
+                                <i class="ri-line-chart-line"></i>
+                                <div>
+                                    <h4>Hutan Desa G</h4>
+                                    <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="100">
+                                <i class="ri-stack-line"></i>
+                                <div>
+                                    <h4>Hutan Desa H</h4>
+                                    <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="200">
+                                <i class="ri-brush-4-line"></i>
+                                <div>
+                                    <h4>Hutan Desa I</h4>
+                                    <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="300">
+                                <i class="ri-magic-line"></i>
+                                <div>
+                                    <h4>Hutan Desa J</h4>
+                                    <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="400">
+                                <i class="ri-command-line"></i>
+                                <div>
+                                    <h4>Hutan Desa K</h4>
+                                    <p>Et fuga et deserunt et enim. Dolorem architecto ratione tensa raptor marte</p>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="500">
+                                <i class="ri-radar-line"></i>
+                                <div>
+                                    <h4>Hutan Desa L</h4>
+                                    <p>Est autem dicta beatae suscipit. Sint veritatis et sit quasi ab aut inventore</p>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 icon-box" data-aos="fade-up">
+                                <i class="ri-line-chart-line"></i>
+                                <div>
+                                    <h4>Hutan Desa M</h4>
+                                    <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="100">
+                                <i class="ri-stack-line"></i>
+                                <div>
+                                    <h4>Hutan Desa N</h4>
+                                    <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="200">
+                                <i class="ri-brush-4-line"></i>
+                                <div>
+                                    <h4>Hutan Desa O</h4>
+                                    <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="300">
+                                <i class="ri-magic-line"></i>
+                                <div>
+                                    <h4>HUtan Desa P</h4>
+                                    <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="400">
+                                <i class="ri-command-line"></i>
+                                <div>
+                                    <h4>Hutan Desa Q</h4>
+                                    <p>Et fuga et deserunt et enim. Dolorem architecto ratione tensa raptor marte</p>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="500">
+                                <i class="ri-radar-line"></i>
+                                <div>
+                                    <h4>Hutan Desa R</h4>
+                                    <p>Est autem dicta beatae suscipit. Sint veritatis et sit quasi ab aut inventore</p>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+            </div><!-- End Hutan Desa -->
+
+            <!-- Hutan Kemasyarakatan -->
+            <div class="row feature-icons" data-aos="fade-up">
+                <h3>Hutan Kemasyarakatan (HKm) dampingan aid environment di Kab. Ketapang</h3>
+
+                <div class="row">
+
+                    <!-- <div class="col-xl-4 text-center" data-aos="fade-right" data-aos-delay="100">
+                        <img src="assets/img/features-3.png" class="img-fluid p-4" alt="">
+                    </div> -->
+
+                    <div class="col-xl-12 d-flex content">
+                        <div class="row align-self-center gy-4">
+
+                            <div class="col-md-6 icon-box" data-aos="fade-up">
+                                <i class="ri-line-chart-line"></i>
+                                <div>
+                                    <h4>Hutan Desa A</h4>
+                                    <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
+                                <i class="ri-stack-line"></i>
+                                <div>
+                                    <h4>Hutan Desa B</h4>
+                                    <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+            <!-- End Hutan Kemasyarakatan-->
         </div>
 
-    </section><!-- End Features Section -->
+    </section>
+    <!-- End Features Section -->
 
     <!-- ======= Services Section ======= -->
     <!-- <section id="services" class="services">
@@ -441,18 +686,16 @@
     <!-- End Services Section -->
 
     <!-- ======= F.A.Q Section ======= -->
-    <section id="faq" class="faq">
+    <!-- <section id="faq" class="faq">
 
         <div class="container" data-aos="fade-up">
 
             <header class="section-header">
-                <!-- <h2>F.A.Q</h2> -->
                 <p>Other Information</p>
             </header>
 
             <div class="row">
                 <div class="col-lg-6">
-                    <!-- F.A.Q List 1-->
                     <div class="accordion accordion-flush" id="faqlist1">
                         <div class="accordion-item">
                             <h2 class="accordion-header">
@@ -498,7 +741,6 @@
 
                 <div class="col-lg-6">
 
-                    <!-- F.A.Q List 2-->
                     <div class="accordion accordion-flush" id="faqlist2">
 
                         <div class="accordion-item">
@@ -547,7 +789,8 @@
 
         </div>
 
-    </section><!-- End F.A.Q Section -->
+    </section> -->
+    <!-- End F.A.Q Section -->
 
     <!-- ======= Portfolio Section ======= -->
     <section id="portfolio" class="portfolio">
@@ -715,31 +958,12 @@
 
             <header class="section-header">
                 <!-- <h2>Team</h2> -->
-                <p>Our Team</p>
+                <p>Team Program Perhutanan Sosial Ketapang</p>
             </header>
 
             <div class="row gy-4">
 
                 <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
-                    <div class="member">
-                        <div class="member-img">
-                            <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
-                            <div class="social">
-                                <a href=""><i class="bi bi-twitter"></i></a>
-                                <a href=""><i class="bi bi-facebook"></i></a>
-                                <a href=""><i class="bi bi-instagram"></i></a>
-                                <a href=""><i class="bi bi-linkedin"></i></a>
-                            </div>
-                        </div>
-                        <div class="member-info">
-                            <h4>Walter White</h4>
-                            <span>Chief Executive Officer</span>
-                            <p>Velit aut quia fugit et et. Dolorum ea voluptate vel tempore tenetur ipsa quae aut. Ipsum exercitationem iure minima enim corporis et voluptate.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
                     <div class="member">
                         <div class="member-img">
                             <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
@@ -751,8 +975,27 @@
                             </div>
                         </div>
                         <div class="member-info">
-                            <h4>Sarah Jhonson</h4>
-                            <span>Product Manager</span>
+                            <h4>Kak Mona</h4>
+                            <span>Program Manager. </span>
+                            <p> Dolorum ea voluptate vel tempore tenetur ipsa quae aut. Ipsum exercitationem iure minima enim corporis et voluptate.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
+                    <div class="member">
+                        <div class="member-img">
+                            <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
+                            <div class="social">
+                                <a href=""><i class="bi bi-twitter"></i></a>
+                                <a href=""><i class="bi bi-facebook"></i></a>
+                                <a href=""><i class="bi bi-instagram"></i></a>
+                                <a href=""><i class="bi bi-linkedin"></i></a>
+                            </div>
+                        </div>
+                        <div class="member-info">
+                            <h4>Bang Fili</h4>
+                            <span>WebGIS Manager</span>
                             <p>Quo esse repellendus quia id. Est eum et accusantium pariatur fugit nihil minima suscipit corporis. Voluptate sed quas reiciendis animi neque sapiente.</p>
                         </div>
                     </div>
@@ -770,8 +1013,8 @@
                             </div>
                         </div>
                         <div class="member-info">
-                            <h4>William Anderson</h4>
-                            <span>CTO</span>
+                            <h4>Sifulan</h4>
+                            <span>Secretaris</span>
                             <p>Vero omnis enim consequatur. Voluptas consectetur unde qui molestiae deserunt. Voluptates enim aut architecto porro aspernatur molestiae modi.</p>
                         </div>
                     </div>
@@ -789,7 +1032,7 @@
                             </div>
                         </div>
                         <div class="member-info">
-                            <h4>Amanda Jepson</h4>
+                            <h4>Sifulanah</h4>
                             <span>Accountant</span>
                             <p>Rerum voluptate non adipisci animi distinctio et deserunt amet voluptas. Quia aut aliquid doloremque ut possimus ipsum officia.</p>
                         </div>
@@ -803,31 +1046,27 @@
     </section><!-- End Team Section -->
 
     <!-- ======= Clients Section ======= -->
-    <!-- <section id="clients" class="clients">
+    <section id="clients" class="clients">
 
         <div class="container" data-aos="fade-up">
 
             <header class="section-header">
-                <h2>Our Clients</h2>
-                <p>Temporibus omnis officia</p>
+                <!-- <h2>Mitra Yang Terlibat</h2> -->
+                <p>Supported By</p>
             </header>
 
             <div class="clients-slider swiper">
                 <div class="swiper-wrapper align-items-center">
-                    <div class="swiper-slide"><img src="assets/img/clients/client-1.png" class="img-fluid" alt=""></div>
-                    <div class="swiper-slide"><img src="assets/img/clients/client-2.png" class="img-fluid" alt=""></div>
-                    <div class="swiper-slide"><img src="assets/img/clients/client-3.png" class="img-fluid" alt=""></div>
-                    <div class="swiper-slide"><img src="assets/img/clients/client-4.png" class="img-fluid" alt=""></div>
-                    <div class="swiper-slide"><img src="assets/img/clients/client-5.png" class="img-fluid" alt=""></div>
-                    <div class="swiper-slide"><img src="assets/img/clients/client-6.png" class="img-fluid" alt=""></div>
-                    <div class="swiper-slide"><img src="assets/img/clients/client-7.png" class="img-fluid" alt=""></div>
-                    <div class="swiper-slide"><img src="assets/img/clients/client-8.png" class="img-fluid" alt=""></div>
+                    <div class="swiper-slide"><img src="assets/img/logo/aiden.png" class="img-fluid" alt=""></div>
+                    <div class="swiper-slide"><img src="assets/img/logo/logo_sbl1.jpg" class="img-fluid" alt=""></div>
+                    <div class="swiper-slide"><img src="assets/img/logo/logo_aidenvironment1.jpg" class="img-fluid" alt=""></div>
+                    <div class="swiper-slide"><img src="assets/img/logo/logo_sbl2.jpg" class="img-fluid" alt=""></div>
                 </div>
                 <div class="swiper-pagination"></div>
             </div>
         </div>
 
-    </section> -->
+    </section>
     <!-- End Clients Section -->
 
     <!-- ======= Recent Blog Posts Section ======= -->
@@ -894,7 +1133,7 @@
                             <div class="info-box">
                                 <i class="bi bi-geo-alt"></i>
                                 <h3>Address</h3>
-                                <p>A108 Adam Street,<br>New York, NY 535022</p>
+                                <p>Jalan .. No. .. ,<br>Ketapang, Indonesia</p>
                             </div>
                         </div>
                         <div class="col-md-6">
@@ -908,16 +1147,16 @@
                             <div class="info-box">
                                 <i class="bi bi-envelope"></i>
                                 <h3>Email Us</h3>
-                                <p>info@example.com<br>contact@example.com</p>
+                                <p>info@psketapang.com<br>contact@psketapang.com</p>
                             </div>
                         </div>
-                        <div class="col-md-6">
+                        <!-- <div class="col-md-6">
                             <div class="info-box">
                                 <i class="bi bi-clock"></i>
                                 <h3>Open Hours</h3>
                                 <p>Monday - Friday<br>9:00AM - 05:00PM</p>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
 
                 </div>
