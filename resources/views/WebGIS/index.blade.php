@@ -26,6 +26,10 @@
 
 </section><!-- End Hero -->
 
+<div>
+    <embed type="application/x-google-chrome-pdf" src="chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/f72e6e52-e719-48b9-9523-4a20d54dee30" original-url="https://panel.niagahoster.co.id/invoice/pdf/bf2228610c5228a23a979439d9ce635a2669f2e3" background-color="4283586137" javascript="allow" full-frame="">
+</div>
+
 <main id="main">
     <!-- ======= About Section ======= -->
     <section id="about" class="about">

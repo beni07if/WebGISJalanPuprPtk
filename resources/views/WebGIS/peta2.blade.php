@@ -15,10 +15,10 @@
                 <li><a class="nav-link scrollto" href="{{ route('index') }}#hero">Home</a></li>
                 <li><a class="nav-link scrollto" href="{{ route('index') }}#about">About</a></li>
                 <!-- <li><a class="nav-link scrollto" href="{{ route('index') }}#services">Services</a></li> -->
-                <li><a class="nav-link scrollto" href="{{ route('index') }}#portfolio">Portfolio</a></li>
+                <li><a class="nav-link scrollto" href="{{ route('index') }}#portfolio">Galery</a></li>
                 <li><a class="nav-link scrollto" href="{{ route('index') }}#team">Team</a></li>
-                <li><a class="nav-ling scrollto active" href="{{ route('blog') }}">Media & Publikasi</a></li>
-                <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
+                <!-- <li><a class="nav-ling scrollto active" href="{{ route('blog') }}">Media & Publikasi</a></li> -->
+                <!-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
                     <ul>
                         <li><a href="#">Drop Down 1</a></li>
                         <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
@@ -34,9 +34,9 @@
                         <li><a href="#">Drop Down 3</a></li>
                         <li><a href="#">Drop Down 4</a></li>
                     </ul>
-                </li>
+                </li> -->
                 <li><a class="nav-link scrollto" href="{{ route('index') }}#contact">Contact</a></li>
-                <li><a class="getstarted scrollto" href="{{ route('peta') }}">Jelajah Peta</a></li>
+                <li><a class="getstarted scrollto" href="{{ route('peta2') }}">Jelajah Peta</a></li>
             </ul>
             <i class="bi bi-list mobile-nav-toggle"></i>
         </nav><!-- .navbar -->
