@@ -333,7 +333,7 @@
                 </div>
 
                 <div class="col-lg-6">
-                    <img src="assets/img/foto_ps/piaps_indonesia.jpg" class="img-fluid" alt="">
+                    <img src="assets/img/foto_ps/piaps_indonesia.JPG" class="img-fluid" alt="">
                 </div>
 
             </div><!-- End Feature Tabs -->
