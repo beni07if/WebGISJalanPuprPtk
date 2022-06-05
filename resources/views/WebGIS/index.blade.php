@@ -50,7 +50,7 @@
                 </div>
 
                 <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
-                    <img src="assets/img/features-2.png" class="img-fluid" alt="">
+                    <img src="assets/img/foto_ps/peta.PNG" class="img-fluid" alt="">
                 </div>
 
             </div>
@@ -72,7 +72,7 @@
 
                 <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
                     <div class="box">
-                        <img src="assets/img/values-1.png" class="img-fluid" alt="">
+                        <img src="assets/img/foto/1.PNG" class="img-fluid" alt="">
                         <h3>Goverment</h3>
                         <p>Eum ad dolor et. Autem aut fugiat debitis voluptatem consequuntur sit. Et veritatis id.</p>
                     </div>
@@ -80,7 +80,7 @@
 
                 <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="400">
                     <div class="box">
-                        <img src="assets/img/values-2.png" class="img-fluid" alt="">
+                        <img src="assets/img/foto/2.PNG" class="img-fluid" alt="">
                         <h3>Private Sektor</h3>
                         <p>Repudiandae amet nihil natus in distinctio suscipit id. Doloremque ducimus ea sit non.</p>
                     </div>
@@ -88,7 +88,7 @@
 
                 <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="600">
                     <div class="box">
-                        <img src="assets/img/values-3.png" class="img-fluid" alt="">
+                        <img src="assets/img/foto/3.PNG" class="img-fluid" alt="">
                         <h3>Civil Society Organitation</h3>
                         <p>Quam rem vitae est autem molestias explicabo debitis sint. Vero aliquid quidem commodi.</p>
                     </div>
@@ -253,27 +253,36 @@
                                     <div class="col-md-6" data-aos="zoom-out" data-aos-delay="200">
                                         <div class="feature-box d-flex align-items-center">
                                             <i class="bi bi-check"></i>
-                                            <h4>PP No.9</h4>
+                                            <a href="https://peraturan.bpk.go.id/Home/Details/161839/pp-no-9-tahun-2021#:~:text=Peraturan%20Pemerintah%20(PP)%20NO.,go.id%20%3A%2039%20hlm.&text=ABSTRAK%3A,Perpajakan%20untuk%20Mendukung%20Kemudahan%20Berusaha.">
+                                                <h4>PermenLHK No.9 Tahun 2021</h4>
+                                            </a>
                                         </div>
                                     </div>
 
                                     <div class="col-md-6" data-aos="zoom-out" data-aos-delay="300">
                                         <div class="feature-box d-flex align-items-center">
                                             <i class="bi bi-check"></i>
-                                            <h4>PP No.23</h4>
+                                            <a href="https://jdih.setkab.go.id/PUUdoc/176365/PP_Nomor_23_Tahun_2021.pdf">
+                                                <h4>PP No. 23 Tahun 2021</h4>
+                                            </a>
                                         </div>
                                     </div>
                                     <div class="col-md-6" data-aos="zoom-out" data-aos-delay="200">
                                         <div class="feature-box d-flex align-items-center">
                                             <i class="bi bi-check"></i>
-                                            <h4>PP No. ..</h4>
+                                            <a href="#">
+                                                <h4>PerBup..</h4>
+                                            </a>
+
                                         </div>
                                     </div>
 
                                     <div class="col-md-6" data-aos="zoom-out" data-aos-delay="300">
                                         <div class="feature-box d-flex align-items-center">
                                             <i class="bi bi-check"></i>
-                                            <h4>PP No. ..</h4>
+                                            <a href="#">
+                                                <h4>PP Lainnya..</h4>
+                                            </a>
                                         </div>
                                     </div>
                                 </div>
@@ -333,7 +342,7 @@
                 </div>
 
                 <div class="col-lg-6">
-                    <img src="assets/img/foto_ps/piaps_indonesia.JPG" class="img-fluid" alt="">
+                    <img src="assets/img/foto/hutan.PNG" class="img-fluid" alt="">
                 </div>
 
             </div><!-- End Feature Tabs -->
@@ -817,13 +826,13 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/galery/1.PNG" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4>App 1</h4>
                             <p>App</p>
                             <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="App 1"><i class="bi bi-plus"></i></a>
-                                <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
+                                <a href="assets/img/galery/1.PNG" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Sungai"><i class="bi bi-plus"></i></a>
+                                <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
                     </div>
@@ -831,13 +840,13 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-web">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/galery/2.PNG" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4>Web 3</h4>
                             <p>Web</p>
                             <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Web 3"><i class="bi bi-plus"></i></a>
-                                <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
+                                <a href="assets/img/galery/2.PNG" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Kebun Sawit><i class=" bi bi-plus"></i></a>
+                                <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
                     </div>
@@ -845,13 +854,13 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/galery/3.PNG" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4>App 2</h4>
                             <p>App</p>
                             <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="App 2"><i class="bi bi-plus"></i></a>
-                                <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
+                                <a href="assets/img/galery/3.PNG" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Ladang"><i class="bi bi-plus"></i></a>
+                                <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
                     </div>
@@ -859,13 +868,13 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-card">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/galery/4.PNG" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4>Card 2</h4>
                             <p>Card</p>
                             <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Card 2"><i class="bi bi-plus"></i></a>
-                                <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
+                                <a href="assets/img/galery/4.PNG" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Kerajinan"><i class="bi bi-plus"></i></a>
+                                <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
                     </div>
@@ -873,13 +882,13 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-web">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/galery/5.PNG" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4>Web 2</h4>
                             <p>Web</p>
                             <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Web 2"><i class="bi bi-plus"></i></a>
-                                <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
+                                <a href="assets/img/galery/5.PNG" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Tanaman padi"><i class="bi bi-plus"></i></a>
+                                <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
                     </div>
@@ -887,13 +896,13 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/galery/6.PNG" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4>App 3</h4>
                             <p>App</p>
                             <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="App 3"><i class="bi bi-plus"></i></a>
-                                <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
+                                <a href="assets/img/galery/6.PNG" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Tanaman sayuran><i class=" bi bi-plus"></i></a>
+                                <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
                     </div>
@@ -901,13 +910,13 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-card">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/galery/7.PNG" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4>Card 1</h4>
                             <p>Card</p>
                             <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Card 1"><i class="bi bi-plus"></i></a>
-                                <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
+                                <a href="assets/img/galery/7.PNG" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Hutan"><i class="bi bi-plus"></i></a>
+                                <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
                     </div>
@@ -915,13 +924,13 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-card">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/galery/8.PNG" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4>Card 3</h4>
                             <p>Card</p>
-                            <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Card 3"><i class="bi bi-plus"></i></a>
-                                <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
+                            <div class="portfolio-links">JPG
+                                <a href="assets/img/galery/8.PNG" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Bibit agroforestry"><i class="bi bi-plus"></i></a>
+                                <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
                     </div>
@@ -929,13 +938,13 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-web">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/galery/9.PNG" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4>Web 3</h4>
                             <p>Web</p>
                             <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Web 3"><i class="bi bi-plus"></i></a>
-                                <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
+                                <a href="assets/img/galery/9.PNG" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Tanaman padi"><i class="bi bi-plus"></i></a>
+                                <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
                     </div>
@@ -966,7 +975,7 @@
                 <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
                     <div class="member">
                         <div class="member-img">
-                            <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
+                            <img src="assets/img/foto/mona.PNG" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -977,7 +986,7 @@
                         <div class="member-info">
                             <h4>Kak Mona</h4>
                             <span>Program Manager. </span>
-                            <p> Dolorum ea voluptate vel tempore tenetur ipsa quae aut. Ipsum exercitationem iure minima enim corporis et voluptate.</p>
+                            <!-- <p> Dolorum ea voluptate vel tempore tenetur ipsa quae aut. Ipsum exercitationem iure minima enim corporis et voluptate.</p> -->
                         </div>
                     </div>
                 </div>
@@ -985,7 +994,7 @@
                 <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
                     <div class="member">
                         <div class="member-img">
-                            <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
+                            <img src="assets/img/foto/fili.PNG" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -996,7 +1005,7 @@
                         <div class="member-info">
                             <h4>Bang Fili</h4>
                             <span>WebGIS Manager</span>
-                            <p>Quo esse repellendus quia id. Est eum et accusantium pariatur fugit nihil minima suscipit corporis. Voluptate sed quas reiciendis animi neque sapiente.</p>
+                            <!-- <p>Quo esse repellendus quia id. Est eum et accusantium pariatur fugit nihil minima suscipit corporis. Voluptate sed quas reiciendis animi neque sapiente.</p> -->
                         </div>
                     </div>
                 </div>
@@ -1015,7 +1024,7 @@
                         <div class="member-info">
                             <h4>Sifulan</h4>
                             <span>Secretaris</span>
-                            <p>Vero omnis enim consequatur. Voluptas consectetur unde qui molestiae deserunt. Voluptates enim aut architecto porro aspernatur molestiae modi.</p>
+                            <!-- <p>Vero omnis enim consequatur. Voluptas consectetur unde qui molestiae deserunt. Voluptates enim aut architecto porro aspernatur molestiae modi.</p> -->
                         </div>
                     </div>
                 </div>
@@ -1034,7 +1043,7 @@
                         <div class="member-info">
                             <h4>Sifulanah</h4>
                             <span>Accountant</span>
-                            <p>Rerum voluptate non adipisci animi distinctio et deserunt amet voluptas. Quia aut aliquid doloremque ut possimus ipsum officia.</p>
+                            <!-- <p>Rerum voluptate non adipisci animi distinctio et deserunt amet voluptas. Quia aut aliquid doloremque ut possimus ipsum officia.</p> -->
                         </div>
                     </div>
                 </div>
