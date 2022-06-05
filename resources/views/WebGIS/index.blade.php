@@ -74,7 +74,7 @@
                     <div class="box">
                         <img src="assets/img/foto/1.png" class="img-fluid" alt="">
                         <h3>Goverment</h3>
-                        <p>Eum ad dolor et. Autem aut fugiat debitis voluptatem consequuntur sit. Et veritatis id.</p>
+                        <p>Partners from supporting government sector and social forestry programs with Aidenvironment in Ketapang District.</p>
                     </div>
                 </div>
 
@@ -82,7 +82,7 @@
                     <div class="box">
                         <img src="assets/img/foto/2.png" class="img-fluid" alt="">
                         <h3>Private Sektor</h3>
-                        <p>Repudiandae amet nihil natus in distinctio suscipit id. Doloremque ducimus ea sit non.</p>
+                        <p>Supporting private sector partners and social forestry program with Aidenvironment in Ketapang District.</p>
                     </div>
                 </div>
 
@@ -90,7 +90,7 @@
                     <div class="box">
                         <img src="assets/img/foto/3.png" class="img-fluid" alt="">
                         <h3>Civil Society Organitation</h3>
-                        <p>Quam rem vitae est autem molestias explicabo debitis sint. Vero aliquid quidem commodi.</p>
+                        <p>Supporting CSO partners and social forestry program with Aidenvironment in Ketapang District.</p>
                     </div>
                 </div>
 
@@ -418,7 +418,7 @@
 
             <!-- Hutan Desa -->
             <div class="row feature-icons" data-aos="fade-up">
-                <h3>Hutan Desa (HD) dampingan aid environment di Kab. Ketapang</h3>
+                <h3>Hutan Desa (HD) dampingan Aidenvironment di Kab. Ketapang</h3>
 
                 <div class="row">
 
@@ -582,7 +582,7 @@
 
             <!-- Hutan Kemasyarakatan -->
             <div class="row feature-icons" data-aos="fade-up">
-                <h3>Hutan Kemasyarakatan (HKm) dampingan aid environment di Kab. Ketapang</h3>
+                <h3>Hutan Kemasyarakatan (HKm) dampingan Aidenvironment di Kab. Ketapang</h3>
 
                 <div class="row">
 

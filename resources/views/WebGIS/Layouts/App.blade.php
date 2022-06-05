@@ -22,7 +22,7 @@
 
             <a href="{{ route('index') }}" class="logo d-flex align-items-center">
                 <img src="{{ asset('assets/img/logo/aiden.png') }}" alt="">
-                <!-- <span>aid environment</span> -->
+                <!-- <span>Aidenvironment</span> -->
             </a>
 
             <nav id="navbar" class="navbar">
