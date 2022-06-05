@@ -31,6 +31,6 @@ Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name
 // Route::get('/peta3', 'App\Http\Controllers\WebGISController@peta3')->name('peta3');
 
 
-// Admin route
+// Admin routes
 Route::get('/dashboard', 'App\Http\Controllers\DashboardController@index')->name('dashboard');
 // End Admin route
