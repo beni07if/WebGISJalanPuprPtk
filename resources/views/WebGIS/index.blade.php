@@ -928,7 +928,7 @@
                         <div class="portfolio-info">
                             <h4>Card 3</h4>
                             <p>Card</p>
-                            <div class="portfolio-links">JPG
+                            <div class="portfolio-links">jpg
                                 <a href="assets/img/galery/8.png" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Bibit agroforestry"><i class="bi bi-plus"></i></a>
                                 <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
