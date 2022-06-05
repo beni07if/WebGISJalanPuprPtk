@@ -50,7 +50,7 @@
                 </div>
 
                 <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
-                    <img src="assets/img/foto_ps/peta.PNG" class="img-fluid" alt="">
+                    <img src="assets/img/foto_ps/peta.png" class="img-fluid" alt="">
                 </div>
 
             </div>
@@ -72,7 +72,7 @@
 
                 <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
                     <div class="box">
-                        <img src="assets/img/foto/1.PNG" class="img-fluid" alt="">
+                        <img src="assets/img/foto/1.png" class="img-fluid" alt="">
                         <h3>Goverment</h3>
                         <p>Eum ad dolor et. Autem aut fugiat debitis voluptatem consequuntur sit. Et veritatis id.</p>
                     </div>
@@ -80,7 +80,7 @@
 
                 <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="400">
                     <div class="box">
-                        <img src="assets/img/foto/2.PNG" class="img-fluid" alt="">
+                        <img src="assets/img/foto/2.png" class="img-fluid" alt="">
                         <h3>Private Sektor</h3>
                         <p>Repudiandae amet nihil natus in distinctio suscipit id. Doloremque ducimus ea sit non.</p>
                     </div>
@@ -88,7 +88,7 @@
 
                 <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="600">
                     <div class="box">
-                        <img src="assets/img/foto/3.PNG" class="img-fluid" alt="">
+                        <img src="assets/img/foto/3.png" class="img-fluid" alt="">
                         <h3>Civil Society Organitation</h3>
                         <p>Quam rem vitae est autem molestias explicabo debitis sint. Vero aliquid quidem commodi.</p>
                     </div>
@@ -342,7 +342,7 @@
                 </div>
 
                 <div class="col-lg-6">
-                    <img src="assets/img/foto/hutan.PNG" class="img-fluid" alt="">
+                    <img src="assets/img/foto/hutan.png" class="img-fluid" alt="">
                 </div>
 
             </div><!-- End Feature Tabs -->
@@ -826,12 +826,12 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/galery/1.PNG" class="img-fluid" alt="">
+                        <img src="assets/img/galery/1.png" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4>App 1</h4>
                             <p>App</p>
                             <div class="portfolio-links">
-                                <a href="assets/img/galery/1.PNG" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Sungai"><i class="bi bi-plus"></i></a>
+                                <a href="assets/img/galery/1.png" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Sungai"><i class="bi bi-plus"></i></a>
                                 <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
@@ -840,12 +840,12 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-web">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/galery/2.PNG" class="img-fluid" alt="">
+                        <img src="assets/img/galery/2.png" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4>Web 3</h4>
                             <p>Web</p>
                             <div class="portfolio-links">
-                                <a href="assets/img/galery/2.PNG" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Kebun Sawit><i class=" bi bi-plus"></i></a>
+                                <a href="assets/img/galery/2.png" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Kebun Sawit><i class=" bi bi-plus"></i></a>
                                 <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
@@ -854,12 +854,12 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/galery/3.PNG" class="img-fluid" alt="">
+                        <img src="assets/img/galery/3.png" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4>App 2</h4>
                             <p>App</p>
                             <div class="portfolio-links">
-                                <a href="assets/img/galery/3.PNG" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Ladang"><i class="bi bi-plus"></i></a>
+                                <a href="assets/img/galery/3.png" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Ladang"><i class="bi bi-plus"></i></a>
                                 <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
@@ -868,12 +868,12 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-card">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/galery/4.PNG" class="img-fluid" alt="">
+                        <img src="assets/img/galery/4.png" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4>Card 2</h4>
                             <p>Card</p>
                             <div class="portfolio-links">
-                                <a href="assets/img/galery/4.PNG" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Kerajinan"><i class="bi bi-plus"></i></a>
+                                <a href="assets/img/galery/4.png" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Kerajinan"><i class="bi bi-plus"></i></a>
                                 <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
@@ -882,12 +882,12 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-web">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/galery/5.PNG" class="img-fluid" alt="">
+                        <img src="assets/img/galery/5.png" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4>Web 2</h4>
                             <p>Web</p>
                             <div class="portfolio-links">
-                                <a href="assets/img/galery/5.PNG" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Tanaman padi"><i class="bi bi-plus"></i></a>
+                                <a href="assets/img/galery/5.png" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Tanaman padi"><i class="bi bi-plus"></i></a>
                                 <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
@@ -896,12 +896,12 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/galery/6.PNG" class="img-fluid" alt="">
+                        <img src="assets/img/galery/6.png" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4>App 3</h4>
                             <p>App</p>
                             <div class="portfolio-links">
-                                <a href="assets/img/galery/6.PNG" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Tanaman sayuran><i class=" bi bi-plus"></i></a>
+                                <a href="assets/img/galery/6.png" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Tanaman sayuran><i class=" bi bi-plus"></i></a>
                                 <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
@@ -910,12 +910,12 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-card">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/galery/7.PNG" class="img-fluid" alt="">
+                        <img src="assets/img/galery/7.png" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4>Card 1</h4>
                             <p>Card</p>
                             <div class="portfolio-links">
-                                <a href="assets/img/galery/7.PNG" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Hutan"><i class="bi bi-plus"></i></a>
+                                <a href="assets/img/galery/7.png" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Hutan"><i class="bi bi-plus"></i></a>
                                 <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
@@ -924,12 +924,12 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-card">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/galery/8.PNG" class="img-fluid" alt="">
+                        <img src="assets/img/galery/8.png" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4>Card 3</h4>
                             <p>Card</p>
                             <div class="portfolio-links">JPG
-                                <a href="assets/img/galery/8.PNG" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Bibit agroforestry"><i class="bi bi-plus"></i></a>
+                                <a href="assets/img/galery/8.png" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Bibit agroforestry"><i class="bi bi-plus"></i></a>
                                 <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
@@ -938,12 +938,12 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-web">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/galery/9.PNG" class="img-fluid" alt="">
+                        <img src="assets/img/galery/9.png" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4>Web 3</h4>
                             <p>Web</p>
                             <div class="portfolio-links">
-                                <a href="assets/img/galery/9.PNG" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Tanaman padi"><i class="bi bi-plus"></i></a>
+                                <a href="assets/img/galery/9.png" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Tanaman padi"><i class="bi bi-plus"></i></a>
                                 <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
@@ -975,7 +975,7 @@
                 <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
                     <div class="member">
                         <div class="member-img">
-                            <img src="assets/img/foto/mona.PNG" class="img-fluid" alt="">
+                            <img src="assets/img/foto/mona.png" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -994,7 +994,7 @@
                 <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
                     <div class="member">
                         <div class="member-img">
-                            <img src="assets/img/foto/fili.PNG" class="img-fluid" alt="">
+                            <img src="assets/img/foto/fili.png" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
