@@ -23,12 +23,12 @@ Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 
-Route::get('/index', 'App\Http\Controllers\WebGISController@index')->name('index');
-Route::get('/blog', 'App\Http\Controllers\WebGISController@blog')->name('blog');
-Route::get('/peta', 'App\Http\Controllers\WebGISController@peta')->name('peta');
-Route::get('/petaJs', 'App\Http\Controllers\WebGISController@petaJs')->name('petaJs');
-Route::get('/peta2', 'App\Http\Controllers\WebGISController@peta2')->name('peta2');
-Route::get('/peta3', 'App\Http\Controllers\WebGISController@peta3')->name('peta3');
+// Route::get('/index', 'App\Http\Controllers\WebGISController@index')->name('index');
+// Route::get('/blog', 'App\Http\Controllers\WebGISController@blog')->name('blog');
+// Route::get('/peta', 'App\Http\Controllers\WebGISController@peta')->name('peta');
+// Route::get('/petaJs', 'App\Http\Controllers\WebGISController@petaJs')->name('petaJs');
+// Route::get('/peta2', 'App\Http\Controllers\WebGISController@peta2')->name('peta2');
+// Route::get('/peta3', 'App\Http\Controllers\WebGISController@peta3')->name('peta3');
 
 
 // Admin route

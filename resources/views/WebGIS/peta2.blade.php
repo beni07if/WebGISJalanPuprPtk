@@ -1,4 +1,4 @@
-@extends('WebGIS.Layouts.AppPeta');
+@extends('WebGIS.Layouts.AppPeta')
 
 @section('header')
 <!-- ======= Header ======= -->
