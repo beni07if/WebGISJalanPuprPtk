@@ -71,6 +71,13 @@ section {
 .footer .footer-top .footer-links {
   display: none;
 }
+.footer .footer-top .footer-contact {
+  display: none;
+}
+
+#main .embed-container iframe{
+  height: 600px;
+}
 }
 
 /*--------------------------------------------------------------
