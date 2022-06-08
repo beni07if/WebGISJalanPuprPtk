@@ -33,7 +33,7 @@
         <div class="footer-top">
             <div class="container">
                 <div class="row gy-4">
-                    <!-- <div class="col-lg-5 col-md-12 footer-info">
+                    <div class="col-lg-5 col-md-12 footer-info">
                         <a href="index.html" class="logo d-flex align-items-center">
                             <img src="assets/img/logo/aiden.png" alt="">
                             <span>PS Ketapang</span>
@@ -45,7 +45,7 @@
                             <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
                             <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
                         </div>
-                    </div> -->
+                    </div>
 
                     <!-- <div class="col-lg-4 col-6 footer-links">
                         <h4>Useful Links</h4>
@@ -58,7 +58,7 @@
                         </ul>
                     </div> -->
 
-                    <!-- <div class="col-lg-3 col-6 footer-links">
+                    <div class="col-lg-3 col-6 footer-links">
                         <h4>Our Service</h4>
                         <ul>
                             <li><i class="bi bi-chevron-right"></i> <a href="{{ route('index') }}#hero">Home</a></li>
@@ -67,7 +67,7 @@
                             <li><i class="bi bi-chevron-right"></i> <a href="{{ route('index') }}#team">Team</a></li>
                             <li><i class="bi bi-chevron-right"></i> <a href="{{ route('peta2') }}">Peta Interaktif</a></li>
                         </ul>
-                    </div> -->
+                    </div>
 
                     <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
                         <h4>Contact Us</h4>

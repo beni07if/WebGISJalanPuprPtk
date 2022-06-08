@@ -64,6 +64,13 @@ section {
     font-size: 28px;
     line-height: 32px;
   }
+
+  .footer .footer-top .footer-info {
+  display: none;
+}
+.footer .footer-top .footer-links {
+  display: none;
+}
 }
 
 /*--------------------------------------------------------------
