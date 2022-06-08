@@ -77,7 +77,7 @@
                             <!-- United States <br> -->
                             <br>
                             <strong>Phone:</strong> +1 5589 55488 55<br>
-                            <strong>Email:</strong> info@psketapang.com<br>
+                            <strong>Email:</strong> info@webgis-psketapang.co.id<br>
                         </p>
 
                     </div>

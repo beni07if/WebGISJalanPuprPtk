@@ -1156,7 +1156,7 @@
                             <div class="info-box">
                                 <i class="bi bi-envelope"></i>
                                 <h3>Email Us</h3>
-                                <p>info@psketapang.com<br>contact@psketapang.com</p>
+                                <p>info@webgis-psketapang.co.id</p>
                             </div>
                         </div>
                         <!-- <div class="col-md-6">
