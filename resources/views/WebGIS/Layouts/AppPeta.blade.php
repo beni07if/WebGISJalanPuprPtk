@@ -36,7 +36,7 @@
                     <div class="col-lg-5 col-md-12 footer-info">
                         <a href="index.html" class="logo d-flex align-items-center">
                             <img src="assets/img/logo/aiden.png" alt="">
-                            <span>PS Ketapang</span>
+                            <!-- <span>PS Ketapang</span> -->
                         </a>
                         <p>Website penyedia persebaran Perhutanan Sosial (HD dan HKm) di Kabupaten Ketapang..</p>
                         <div class="social-links mt-3">
