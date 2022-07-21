@@ -19,7 +19,7 @@
                 </div>
             </div>
             <div class="col-lg-6 hero-img" data-aos="zoom-out" data-aos-delay="200">
-                <img src="assets/img/foto_ps/Peta_ketapang1.png" class="img-fluid" alt="">
+                <img src="assets/img/foto/ps-ktp/peta-indonesia.PNG" class="img-fluid" alt="">
             </div>
         </div>
     </div>
@@ -27,44 +27,54 @@
 </section><!-- End Hero -->
 
 <main id="main">
-    <!-- ======= About Section ======= -->
-    <section id="about" class="about">
-
+    <!-- ======= Counts Section ======= -->
+    <section id="counts" class="counts">
         <div class="container" data-aos="fade-up">
-            <div class="row gx-0">
 
-                <div class="col-lg-6 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
-                    <div class="content">
-                        <!-- <h3>Who We Are</h3> -->
-                        <h2>WebGIS PS Ketapang</h2>
-                        <p>
-                            WebGIS PS Ketapang merupakan website berbasis GIS yang menyediakan sebaran perhutanan sosial (Hutan Desa dan Hutan Kemasyarakatan) di Kabupaten Ketapang.
-                        </p>
-                        <!-- <div class="text-center text-lg-start">
-                            <a href="#" class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
-                                <span>Read More</span>
-                                <i class="bi bi-arrow-right"></i>
-                            </a>
-                        </div> -->
+            <div class="row gy-4">
+
+                <div class="col-lg-4 col-md-6">
+                    <div class="count-box">
+                        <i class="bi bi-journal-richtext" style="color: #15be56;"></i>
+                        <div>
+                            <span data-purecounter-start="0" data-purecounter-end="18" data-purecounter-duration="1" class="purecounter"></span>
+                            <p>Hutan Desa</p>
+                        </div>
                     </div>
                 </div>
 
-                <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
-                    <img src="assets/img/foto_ps/peta.png" class="img-fluid" alt="">
+                <div class="col-lg-4 col-md-6">
+                    <div class="count-box">
+                        <i class="bi bi-journal-richtext" style="color: #ee6c20;"></i>
+                        <div>
+                            <span data-purecounter-start="0" data-purecounter-end="2" data-purecounter-duration="1" class="purecounter"></span>
+                            <p>Hutan Kemasyarakatan</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <div class="count-box">
+                        <i class="bi bi-journal-richtext" style="color: #15be56;"></i>
+                        <div>
+                            <span data-purecounter-start="0" data-purecounter-end="20" data-purecounter-duration="1" class="purecounter"></span>
+                            <p>PIAPS</p>
+                        </div>
+                    </div>
                 </div>
 
             </div>
-        </div>
 
-    </section><!-- End About Section -->
+        </div>
+    </section><!-- End Counts Section -->
 
     <!-- ======= Values Section ======= -->
-    <section id="values" class="values">
+    <!-- <section id="values" class="values">
 
         <div class="container" data-aos="fade-up">
 
             <header class="section-header">
-                <!-- <h2>Our Values</h2> -->
+                <h2>Our Values</h2>
                 <p>Mitra Yang Terlibat</p>
             </header>
 
@@ -98,7 +108,8 @@
 
         </div>
 
-    </section><!-- End Values Section -->
+    </section> -->
+    <!-- End Values Section -->
 
     <!-- ======= Counts Section ======= -->
     <!-- <section id="counts" class="counts">
@@ -245,7 +256,7 @@
                                 setempat atau masyarakat hukum adat sebagai pelaku utama untuk meningkatkan
                                 kesejahteraannya, keseimbangan lingkungan dan dinamika sosial budaya dalam bentuk Hutan
                                 Desa, Hutan Kemasyarakatan, Hutan Tanaman Rakyat, Hutan Rakyat, Hutan Adat, dan
-                                Kemitraan Kehutanan.
+                                Kemitraan Kehutanan. Sampai dengan 25 Januari 2022, PS sudah menjangkau luasan 4,9 juta hektar, dari total alokasi 12,7 juta hektar. Jumlah persetujuan yang sudah dikeluarkan oleh Kementerian LHK menaungi lebih dari 1 juta KK (Dewi, 2022).
                             </p>
                             <h4>Dokumen Terkait Perhutanan Sosial</h4>
                             <div class="col-lg-12 mt-5 mt-lg-0 d-flex">
@@ -253,7 +264,7 @@
                                     <div class="col-md-6" data-aos="zoom-out" data-aos-delay="200">
                                         <div class="feature-box d-flex align-items-center">
                                             <i class="bi bi-check"></i>
-                                            <a href="https://peraturan.bpk.go.id/Home/Details/161839/pp-no-9-tahun-2021#:~:text=Peraturan%20Pemerintah%20(PP)%20NO.,go.id%20%3A%2039%20hlm.&text=ABSTRAK%3A,Perpajakan%20untuk%20Mendukung%20Kemudahan%20Berusaha.">
+                                            <a href="https://jdih.maritim.go.id/en/peraturan-menteri-lingkungan-hidup-dan-kehutanan-no-9-tahun-2021" target="_blank">
                                                 <h4>PermenLHK No.9 Tahun 2021</h4>
                                             </a>
                                         </div>
@@ -262,26 +273,8 @@
                                     <div class="col-md-6" data-aos="zoom-out" data-aos-delay="300">
                                         <div class="feature-box d-flex align-items-center">
                                             <i class="bi bi-check"></i>
-                                            <a href="https://jdih.setkab.go.id/PUUdoc/176365/PP_Nomor_23_Tahun_2021.pdf">
+                                            <a href="https://jdih.setkab.go.id/PUUdoc/176365/PP_Nomor_23_Tahun_2021.pdf" target="_blank">
                                                 <h4>PP No. 23 Tahun 2021</h4>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6" data-aos="zoom-out" data-aos-delay="200">
-                                        <div class="feature-box d-flex align-items-center">
-                                            <i class="bi bi-check"></i>
-                                            <a href="#">
-                                                <h4>PerBup..</h4>
-                                            </a>
-
-                                        </div>
-                                    </div>
-
-                                    <div class="col-md-6" data-aos="zoom-out" data-aos-delay="300">
-                                        <div class="feature-box d-flex align-items-center">
-                                            <i class="bi bi-check"></i>
-                                            <a href="#">
-                                                <h4>PP Lainnya..</h4>
                                             </a>
                                         </div>
                                     </div>
@@ -342,7 +335,7 @@
                 </div>
 
                 <div class="col-lg-6">
-                    <img src="assets/img/foto/hutan.png" class="img-fluid" alt="">
+                    <img src="assets/img/foto/ps-ktp/skema-ps.PNG" class="img-fluid" alt="">
                 </div>
 
             </div><!-- End Feature Tabs -->
@@ -415,207 +408,6 @@
 
             </div> -->
             <!-- End Feature Icons -->
-
-            <!-- Hutan Desa -->
-            <div class="row feature-icons" data-aos="fade-up">
-                <h3>Hutan Desa (HD) dampingan Aidenvironment di Kab. Ketapang</h3>
-
-                <div class="row">
-
-                    <!-- <div class="col-xl-4 text-center" data-aos="fade-right" data-aos-delay="100">
-                        <img src="assets/img/features-3.png" class="img-fluid p-4" alt="">
-                    </div> -->
-
-                    <div class="col-xl-12 d-flex content">
-                        <div class="row align-self-center gy-4">
-
-                            <div class="col-md-4 icon-box" data-aos="fade-up">
-                                <i class="ri-line-chart-line"></i>
-                                <div>
-                                    <h4>Hutan Desa A</h4>
-                                    <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
-                                </div>
-                            </div>
-
-                            <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="100">
-                                <i class="ri-stack-line"></i>
-                                <div>
-                                    <h4>Hutan Desa B</h4>
-                                    <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
-                                </div>
-                            </div>
-
-                            <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="200">
-                                <i class="ri-brush-4-line"></i>
-                                <div>
-                                    <h4>Hutan Desa C</h4>
-                                    <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
-                                </div>
-                            </div>
-
-                            <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="300">
-                                <i class="ri-magic-line"></i>
-                                <div>
-                                    <h4>Hutan Desa D</h4>
-                                    <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
-                                </div>
-                            </div>
-
-                            <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="400">
-                                <i class="ri-command-line"></i>
-                                <div>
-                                    <h4>Hutan Desa E</h4>
-                                    <p>Et fuga et deserunt et enim. Dolorem architecto ratione tensa raptor marte</p>
-                                </div>
-                            </div>
-
-                            <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="500">
-                                <i class="ri-radar-line"></i>
-                                <div>
-                                    <h4>Hutan Desa F</h4>
-                                    <p>Est autem dicta beatae suscipit. Sint veritatis et sit quasi ab aut inventore</p>
-                                </div>
-                            </div>
-
-                            <div class="col-md-4 icon-box" data-aos="fade-up">
-                                <i class="ri-line-chart-line"></i>
-                                <div>
-                                    <h4>Hutan Desa G</h4>
-                                    <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
-                                </div>
-                            </div>
-
-                            <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="100">
-                                <i class="ri-stack-line"></i>
-                                <div>
-                                    <h4>Hutan Desa H</h4>
-                                    <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
-                                </div>
-                            </div>
-
-                            <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="200">
-                                <i class="ri-brush-4-line"></i>
-                                <div>
-                                    <h4>Hutan Desa I</h4>
-                                    <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
-                                </div>
-                            </div>
-
-                            <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="300">
-                                <i class="ri-magic-line"></i>
-                                <div>
-                                    <h4>Hutan Desa J</h4>
-                                    <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
-                                </div>
-                            </div>
-
-                            <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="400">
-                                <i class="ri-command-line"></i>
-                                <div>
-                                    <h4>Hutan Desa K</h4>
-                                    <p>Et fuga et deserunt et enim. Dolorem architecto ratione tensa raptor marte</p>
-                                </div>
-                            </div>
-
-                            <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="500">
-                                <i class="ri-radar-line"></i>
-                                <div>
-                                    <h4>Hutan Desa L</h4>
-                                    <p>Est autem dicta beatae suscipit. Sint veritatis et sit quasi ab aut inventore</p>
-                                </div>
-                            </div>
-
-                            <div class="col-md-4 icon-box" data-aos="fade-up">
-                                <i class="ri-line-chart-line"></i>
-                                <div>
-                                    <h4>Hutan Desa M</h4>
-                                    <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
-                                </div>
-                            </div>
-
-                            <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="100">
-                                <i class="ri-stack-line"></i>
-                                <div>
-                                    <h4>Hutan Desa N</h4>
-                                    <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
-                                </div>
-                            </div>
-
-                            <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="200">
-                                <i class="ri-brush-4-line"></i>
-                                <div>
-                                    <h4>Hutan Desa O</h4>
-                                    <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
-                                </div>
-                            </div>
-
-                            <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="300">
-                                <i class="ri-magic-line"></i>
-                                <div>
-                                    <h4>HUtan Desa P</h4>
-                                    <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
-                                </div>
-                            </div>
-
-                            <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="400">
-                                <i class="ri-command-line"></i>
-                                <div>
-                                    <h4>Hutan Desa Q</h4>
-                                    <p>Et fuga et deserunt et enim. Dolorem architecto ratione tensa raptor marte</p>
-                                </div>
-                            </div>
-
-                            <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="500">
-                                <i class="ri-radar-line"></i>
-                                <div>
-                                    <h4>Hutan Desa R</h4>
-                                    <p>Est autem dicta beatae suscipit. Sint veritatis et sit quasi ab aut inventore</p>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-
-                </div>
-
-            </div><!-- End Hutan Desa -->
-
-            <!-- Hutan Kemasyarakatan -->
-            <div class="row feature-icons" data-aos="fade-up">
-                <h3>Hutan Kemasyarakatan (HKm) dampingan Aidenvironment di Kab. Ketapang</h3>
-
-                <div class="row">
-
-                    <!-- <div class="col-xl-4 text-center" data-aos="fade-right" data-aos-delay="100">
-                        <img src="assets/img/features-3.png" class="img-fluid p-4" alt="">
-                    </div> -->
-
-                    <div class="col-xl-12 d-flex content">
-                        <div class="row align-self-center gy-4">
-
-                            <div class="col-md-6 icon-box" data-aos="fade-up">
-                                <i class="ri-line-chart-line"></i>
-                                <div>
-                                    <h4>Hutan Desa A</h4>
-                                    <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
-                                </div>
-                            </div>
-
-                            <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
-                                <i class="ri-stack-line"></i>
-                                <div>
-                                    <h4>Hutan Desa B</h4>
-                                    <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-            <!-- End Hutan Kemasyarakatan-->
         </div>
 
     </section>
@@ -799,260 +591,6 @@
         </div>
 
     </section> -->
-    <!-- End F.A.Q Section -->
-
-    <!-- ======= Portfolio Section ======= -->
-    <section id="portfolio" class="portfolio">
-
-        <div class="container" data-aos="fade-up">
-
-            <header class="section-header">
-                <!-- <h2>Portfolio</h2> -->
-                <p>Galery</p>
-            </header>
-
-            <!-- <div class="row" data-aos="fade-up" data-aos-delay="100">
-                <div class="col-lg-12 d-flex justify-content-center">
-                    <ul id="portfolio-flters">
-                        <li data-filter="*" class="filter-active">All</li>
-                        <li data-filter=".filter-app">App</li>
-                        <li data-filter=".filter-card">Card</li>
-                        <li data-filter=".filter-web">Web</li>
-                    </ul>
-                </div>
-            </div> -->
-
-            <div class="row gy-4 portfolio-container" data-aos="fade-up" data-aos-delay="200">
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <div class="portfolio-wrap">
-                        <img src="assets/img/galery/1.png" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <h4>App 1</h4>
-                            <p>App</p>
-                            <div class="portfolio-links">
-                                <a href="assets/img/galery/1.png" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Sungai"><i class="bi bi-plus"></i></a>
-                                <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <div class="portfolio-wrap">
-                        <img src="assets/img/galery/2.png" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <h4>Web 3</h4>
-                            <p>Web</p>
-                            <div class="portfolio-links">
-                                <a href="assets/img/galery/2.png" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Kebun Sawit><i class=" bi bi-plus"></i></a>
-                                <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <div class="portfolio-wrap">
-                        <img src="assets/img/galery/3.png" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <h4>App 2</h4>
-                            <p>App</p>
-                            <div class="portfolio-links">
-                                <a href="assets/img/galery/3.png" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Ladang"><i class="bi bi-plus"></i></a>
-                                <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <div class="portfolio-wrap">
-                        <img src="assets/img/galery/4.png" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <h4>Card 2</h4>
-                            <p>Card</p>
-                            <div class="portfolio-links">
-                                <a href="assets/img/galery/4.png" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Kerajinan"><i class="bi bi-plus"></i></a>
-                                <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <div class="portfolio-wrap">
-                        <img src="assets/img/galery/5.png" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <h4>Web 2</h4>
-                            <p>Web</p>
-                            <div class="portfolio-links">
-                                <a href="assets/img/galery/5.png" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Tanaman padi"><i class="bi bi-plus"></i></a>
-                                <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <div class="portfolio-wrap">
-                        <img src="assets/img/galery/6.png" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <h4>App 3</h4>
-                            <p>App</p>
-                            <div class="portfolio-links">
-                                <a href="assets/img/galery/6.png" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Tanaman sayuran><i class=" bi bi-plus"></i></a>
-                                <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <div class="portfolio-wrap">
-                        <img src="assets/img/galery/7.png" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <h4>Card 1</h4>
-                            <p>Card</p>
-                            <div class="portfolio-links">
-                                <a href="assets/img/galery/7.png" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Hutan"><i class="bi bi-plus"></i></a>
-                                <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <div class="portfolio-wrap">
-                        <img src="assets/img/galery/8.png" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <h4>Card 3</h4>
-                            <p>Card</p>
-                            <div class="portfolio-links">jpg
-                                <a href="assets/img/galery/8.png" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Bibit agroforestry"><i class="bi bi-plus"></i></a>
-                                <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <div class="portfolio-wrap">
-                        <img src="assets/img/galery/9.png" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <h4>Web 3</h4>
-                            <p>Web</p>
-                            <div class="portfolio-links">
-                                <a href="assets/img/galery/9.png" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Tanaman padi"><i class="bi bi-plus"></i></a>
-                                <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-        </div>
-
-    </section><!-- End Portfolio Section -->
-
-    <!-- ======= Testimonials Section ======= -->
-
-    <!-- End Testimonials Section -->
-
-    <!-- ======= Team Section ======= -->
-    <section id="team" class="team">
-
-        <div class="container" data-aos="fade-up">
-
-            <header class="section-header">
-                <!-- <h2>Team</h2> -->
-                <p>Team Program Perhutanan Sosial Ketapang</p>
-            </header>
-
-            <div class="row gy-4">
-
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
-                    <div class="member">
-                        <div class="member-img">
-                            <img src="assets/img/foto/mona.png" class="img-fluid" alt="">
-                            <div class="social">
-                                <a href=""><i class="bi bi-twitter"></i></a>
-                                <a href=""><i class="bi bi-facebook"></i></a>
-                                <a href=""><i class="bi bi-instagram"></i></a>
-                                <a href=""><i class="bi bi-linkedin"></i></a>
-                            </div>
-                        </div>
-                        <div class="member-info">
-                            <h4>Kak Mona</h4>
-                            <span>Program Manager. </span>
-                            <!-- <p> Dolorum ea voluptate vel tempore tenetur ipsa quae aut. Ipsum exercitationem iure minima enim corporis et voluptate.</p> -->
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
-                    <div class="member">
-                        <div class="member-img">
-                            <img src="assets/img/foto/fili.png" class="img-fluid" alt="">
-                            <div class="social">
-                                <a href=""><i class="bi bi-twitter"></i></a>
-                                <a href=""><i class="bi bi-facebook"></i></a>
-                                <a href=""><i class="bi bi-instagram"></i></a>
-                                <a href=""><i class="bi bi-linkedin"></i></a>
-                            </div>
-                        </div>
-                        <div class="member-info">
-                            <h4>Bang Fili</h4>
-                            <span>WebGIS Manager</span>
-                            <!-- <p>Quo esse repellendus quia id. Est eum et accusantium pariatur fugit nihil minima suscipit corporis. Voluptate sed quas reiciendis animi neque sapiente.</p> -->
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
-                    <div class="member">
-                        <div class="member-img">
-                            <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
-                            <div class="social">
-                                <a href=""><i class="bi bi-twitter"></i></a>
-                                <a href=""><i class="bi bi-facebook"></i></a>
-                                <a href=""><i class="bi bi-instagram"></i></a>
-                                <a href=""><i class="bi bi-linkedin"></i></a>
-                            </div>
-                        </div>
-                        <div class="member-info">
-                            <h4>Sifulan</h4>
-                            <span>Secretaris</span>
-                            <!-- <p>Vero omnis enim consequatur. Voluptas consectetur unde qui molestiae deserunt. Voluptates enim aut architecto porro aspernatur molestiae modi.</p> -->
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
-                    <div class="member">
-                        <div class="member-img">
-                            <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
-                            <div class="social">
-                                <a href=""><i class="bi bi-twitter"></i></a>
-                                <a href=""><i class="bi bi-facebook"></i></a>
-                                <a href=""><i class="bi bi-instagram"></i></a>
-                                <a href=""><i class="bi bi-linkedin"></i></a>
-                            </div>
-                        </div>
-                        <div class="member-info">
-                            <h4>Sifulanah</h4>
-                            <span>Accountant</span>
-                            <!-- <p>Rerum voluptate non adipisci animi distinctio et deserunt amet voluptas. Quia aut aliquid doloremque ut possimus ipsum officia.</p> -->
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-        </div>
-
-    </section><!-- End Team Section -->
 
     <!-- ======= Clients Section ======= -->
     <section id="clients" class="clients">
@@ -1061,15 +599,17 @@
 
             <header class="section-header">
                 <!-- <h2>Mitra Yang Terlibat</h2> -->
-                <p>Supported By</p>
+                <p>Didukung oleh</p>
             </header>
 
             <div class="clients-slider swiper">
                 <div class="swiper-wrapper align-items-center">
-                    <div class="swiper-slide"><img src="assets/img/logo/aiden.png" class="img-fluid" alt=""></div>
-                    <div class="swiper-slide"><img src="assets/img/logo/logo_sbl1.jpg" class="img-fluid" alt=""></div>
-                    <div class="swiper-slide"><img src="assets/img/logo/logo_aidenvironment1.jpg" class="img-fluid" alt=""></div>
-                    <div class="swiper-slide"><img src="assets/img/logo/logo_sbl2.jpg" class="img-fluid" alt=""></div>
+                    <div class="swiper-slide"><img src="assets/img/logo/logo-mitra/klhk.PNG" class="img-fluid" alt=""></div>
+                    <div class="swiper-slide"><img src="assets/img/logo/logo-mitra/kabupaten-ketapang.PNG" class="img-fluid" alt=""></div>
+                    <div class="swiper-slide"><img src="assets/img/logo/logo-mitra/kph.PNG" class="img-fluid" alt=""></div>
+                    <div class="swiper-slide"><img src="assets/img/logo/logo-mitra/aid.PNG" class="img-fluid" alt=""></div>
+                    <div class="swiper-slide"><img src="assets/img/logo/logo-mitra/sbl.PNG" class="img-fluid" alt=""></div>
+                    <div class="swiper-slide"><img src="assets/img/logo/logo-mitra/jari.PNG" class="img-fluid" alt=""></div>
                 </div>
                 <div class="swiper-pagination"></div>
             </div>
@@ -1130,7 +670,7 @@
 
             <header class="section-header">
                 <!-- <h2>Contact</h2> -->
-                <p>Contact Us</p>
+                <p>Kontak Kami</p>
             </header>
 
             <div class="row gy-4">
@@ -1141,28 +681,28 @@
                         <div class="col-md-6">
                             <div class="info-box">
                                 <i class="bi bi-geo-alt"></i>
-                                <h3>Address</h3>
+                                <h3>Alamat</h3>
                                 <p>Jalan .. No. .. ,<br>Ketapang, Indonesia</p>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="info-box">
                                 <i class="bi bi-telephone"></i>
-                                <h3>Call Us</h3>
-                                <p>+1 5589 55488 55<br>+1 6678 254445 41</p>
+                                <h3>Telephone</h3>
+                                <p>+62 813-4744-4794</p>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="info-box">
                                 <i class="bi bi-envelope"></i>
-                                <h3>Email Us</h3>
+                                <h3>Email</h3>
                                 <p>info@webgis-psketapang.co.id</p>
                             </div>
                         </div>
                         <!-- <div class="col-md-6">
                             <div class="info-box">
                                 <i class="bi bi-clock"></i>
-                                <h3>Open Hours</h3>
+                                <h3>Open Hourss</h3>
                                 <p>Monday - Friday<br>9:00AM - 05:00PM</p>
                             </div>
                         </div> -->
@@ -1175,19 +715,19 @@
                         <div class="row gy-4">
 
                             <div class="col-md-6">
-                                <input type="text" name="name" class="form-control" placeholder="Your Name" required>
+                                <input type="text" name="name" class="form-control" placeholder="Nama Anda" required>
                             </div>
 
                             <div class="col-md-6 ">
-                                <input type="email" class="form-control" name="email" placeholder="Your Email" required>
+                                <input type="email" class="form-control" name="email" placeholder="Email" required>
                             </div>
 
-                            <div class="col-md-12">
-                                <input type="text" class="form-control" name="subject" placeholder="Subject" required>
-                            </div>
+                            <!-- <div class="col-md-12">
+                                <input type="text" class="form-control" name="subject" placeholder="Judul" required>
+                            </div> -->
 
                             <div class="col-md-12">
-                                <textarea class="form-control" name="message" rows="6" placeholder="Message" required></textarea>
+                                <textarea class="form-control" name="message" rows="6" placeholder="Isi pesan" required></textarea>
                             </div>
 
                             <div class="col-md-12 text-center">
@@ -1195,7 +735,7 @@
                                 <div class="error-message"></div>
                                 <div class="sent-message">Your message has been sent. Thank you!</div>
 
-                                <button type="submit">Send Message</button>
+                                <button type="submit">Kirim pesan</button>
                             </div>
 
                         </div>

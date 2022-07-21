@@ -10,9 +10,6 @@
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
 
-    <!-- tambahan peta js -->
-    <!-- end tambahan peta js -->
-
 </head>
 
 <body>
@@ -27,31 +24,12 @@
 
             <nav id="navbar" class="navbar">
                 <ul>
-                    <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-                    <li><a class="nav-link scrollto" href="#about">About</a></li>
-                    <li><a class="nav-link scrollto" href="#portfolio">Galery</a></li>
+                    <li><a class="nav-link scrollto active" href="{{ route('index') }}">Beranda</a></li>
+                    <li><a class="nav-link scrollto" href="{{ route('tentang') }}">Tentang PS Ketapang</a></li>
+                    <li><a class="nav-link scrollto" href="{{ route('galery') }}">Galery</a></li>
                     <!-- <li><a class="nav-link scrollto" href="#services">Services</a></li> -->
-                    <li><a class="nav-link scrollto" href="#team">Team</a></li>
-                    <!-- <li><a class="nav-link scrollto" href="#recent-blog-posts">Media & Publikasi</a></li> -->
-                    <!-- <li><a href="blog.html">Blog</a></li> -->
-                    <!-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
-                        <ul>
-                            <li><a href="#">Drop Down 1</a></li>
-                            <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
-                                <ul>
-                                    <li><a href="#">Deep Drop Down 1</a></li>
-                                    <li><a href="#">Deep Drop Down 2</a></li>
-                                    <li><a href="#">Deep Drop Down 3</a></li>
-                                    <li><a href="#">Deep Drop Down 4</a></li>
-                                    <li><a href="#">Deep Drop Down 5</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="#">Drop Down 2</a></li>
-                            <li><a href="#">Drop Down 3</a></li>
-                            <li><a href="#">Drop Down 4</a></li>
-                        </ul>
-                    </li> -->
-                    <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+                    <!-- <li><a class="nav-link scrollto" href="#team">Team</a></li> -->
+                    <li><a class="nav-link scrollto" href="#contact">Kontak Kami</a></li>
                     <!-- <li><a class="getstarted scrollto" href="{{ route('peta') }}">Peta</a></li> -->
                     <li><a class="getstarted scrollto" href="{{ route('peta2') }}">Peta</a></li>
                     <!-- <li><a class="getstarted scrollto" href="{{ route('petaJs') }}">PetaJs</a></li> -->
@@ -105,12 +83,12 @@
                     </div>
 
                     <div class="col-lg-3 col-6 footer-links">
-                        <h4>Our Service</h4>
+                        <h4>Layanan Kami</h4>
                         <ul>
-                            <li><i class="bi bi-chevron-right"></i> <a href="{{ route('index') }}#hero">Home</a></li>
-                            <li><i class="bi bi-chevron-right"></i> <a href="{{ route('index') }}#about">About us</a></li>
+                            <li><i class="bi bi-chevron-right"></i> <a href="{{ route('index') }}#hero">Beranda</a></li>
+                            <li><i class="bi bi-chevron-right"></i> <a href="{{ route('index') }}#about">Tentang PS Ketapang</a></li>
                             <li><i class="bi bi-chevron-right"></i> <a href="{{ route('index') }}#portfolio">Galery</a></li>
-                            <li><i class="bi bi-chevron-right"></i> <a href="{{ route('index') }}#team">Team</a></li>
+                            <li><i class="bi bi-chevron-right"></i> <a href="{{ route('index') }}#team">Kontak Kami</a></li>
                             <li><i class="bi bi-chevron-right"></i> <a href="{{ route('peta2') }}">Peta Interaktif</a></li>
                         </ul>
                     </div>
@@ -127,14 +105,14 @@
                     </div> -->
 
                     <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
-                        <h4>Contact Us</h4>
+                        <h4>Kontak Kami</h4>
                         <p>
                             Jalan.. <br>
                             Ketapang, Indonesia<br>
                             <!-- United States <br> -->
                             <br>
-                            <strong>Phone:</strong> +1 5589 55488 55<br>
-                            <strong>Email:</strong> info@webgis-psketapang.co.id<br>
+                            <strong>Phone:</strong> +62 813-4744-4794<br>
+                            <strong>Email:</strong> info@webgis-psketapang.or.id<br>
                         </p>
 
                     </div>
@@ -143,20 +121,21 @@
             </div>
         </div>
 
-        <div class="container">
+        <!-- <div class="container">
             <div class="copyright">
                 &copy; Copyright <strong><span>FlexStart</span></strong>. All Rights Reserved
             </div>
             <div class="credits">
-                <!-- All the links in the footer should remain intact. -->
-                <!-- You can delete the links only if you purchased the pro version. -->
-                <!-- Licensing information: https://bootstrapmade.com/license/ -->
-                <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/flexstart-bootstrap-startup-template/ -->
-                <!-- Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> -->
+                All the links in the footer should remain intact.
+                You can delete the links only if you purchased the pro version.
+                Licensing information: https://bootstrapmade.com/license/
+                Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/flexstart-bootstrap-startup-template/
+                Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
                 Designed by <a href="">BootstrapMade</a>
             </div>
-        </div>
-    </footer><!-- End Footer -->
+        </div> -->
+    </footer>
+    <!-- End Footer -->
 
     <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 

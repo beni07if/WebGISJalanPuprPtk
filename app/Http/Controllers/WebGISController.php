@@ -105,4 +105,12 @@ class WebGISController extends Controller
     {
         return view('WebGIS.peta3');
     }
+    public function tentang()
+    {
+        return view('WebGIS.tentang');
+    }
+    public function galery()
+    {
+        return view('WebGIS.galery');
+    }
 }
