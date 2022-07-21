@@ -19,7 +19,7 @@
                 </div>
             </div>
             <div class="col-lg-6 hero-img" data-aos="zoom-out" data-aos-delay="200">
-                <img src="assets/img/foto/ps-ktp/peta-indonesia.PNG" class="img-fluid" alt="">
+                <img src="assets/img/foto/ps-ktp/peta-indonesia.png" class="img-fluid" alt="">
             </div>
         </div>
     </div>
@@ -335,7 +335,7 @@
                 </div>
 
                 <div class="col-lg-6">
-                    <img src="assets/img/foto/ps-ktp/skema-ps.PNG" class="img-fluid" alt="">
+                    <img src="assets/img/foto/ps-ktp/skema-ps.png" class="img-fluid" alt="">
                 </div>
 
             </div><!-- End Feature Tabs -->
@@ -604,12 +604,12 @@
 
             <div class="clients-slider swiper">
                 <div class="swiper-wrapper align-items-center">
-                    <div class="swiper-slide"><img src="assets/img/logo/logo-mitra/klhk.PNG" class="img-fluid" alt=""></div>
-                    <div class="swiper-slide"><img src="assets/img/logo/logo-mitra/kabupaten-ketapang.PNG" class="img-fluid" alt=""></div>
-                    <div class="swiper-slide"><img src="assets/img/logo/logo-mitra/kph.PNG" class="img-fluid" alt=""></div>
-                    <div class="swiper-slide"><img src="assets/img/logo/logo-mitra/aid.PNG" class="img-fluid" alt=""></div>
-                    <div class="swiper-slide"><img src="assets/img/logo/logo-mitra/sbl.PNG" class="img-fluid" alt=""></div>
-                    <div class="swiper-slide"><img src="assets/img/logo/logo-mitra/jari.PNG" class="img-fluid" alt=""></div>
+                    <div class="swiper-slide"><img src="assets/img/logo/logo-mitra/klhk.png" class="img-fluid" alt=""></div>
+                    <div class="swiper-slide"><img src="assets/img/logo/logo-mitra/kabupaten-ketapang.png" class="img-fluid" alt=""></div>
+                    <div class="swiper-slide"><img src="assets/img/logo/logo-mitra/kph.png" class="img-fluid" alt=""></div>
+                    <div class="swiper-slide"><img src="assets/img/logo/logo-mitra/aid.png" class="img-fluid" alt=""></div>
+                    <div class="swiper-slide"><img src="assets/img/logo/logo-mitra/sbl.png" class="img-fluid" alt=""></div>
+                    <div class="swiper-slide"><img src="assets/img/logo/logo-mitra/jari.png" class="img-fluid" alt=""></div>
                 </div>
                 <div class="swiper-pagination"></div>
             </div>

@@ -34,7 +34,7 @@
                 </div>
 
                 <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
-                    <img src="assets/img/foto/ps-ktp/ps-ktp.PNG" style="width: 80%;" class="img-fluid" alt="">
+                    <img src="assets/img/foto/ps-ktp/ps-ktp.png" style="width: 80%;" class="img-fluid" alt="">
                 </div>
 
             </div>
@@ -294,10 +294,10 @@
                     </div> -->
 
                     <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
-                        <img src="assets/img/foto/ps-ktp/grafik1.PNG" style="width: 80%;" class="img-fluid" alt="">
+                        <img src="assets/img/foto/ps-ktp/grafik1.png" style="width: 80%;" class="img-fluid" alt="">
                     </div>
                     <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
-                        <img src="assets/img/foto/ps-ktp/grafik2.PNG" style="width: 80%;" class="img-fluid" alt="">
+                        <img src="assets/img/foto/ps-ktp/grafik2.png" style="width: 80%;" class="img-fluid" alt="">
                     </div>
 
                 </div>
