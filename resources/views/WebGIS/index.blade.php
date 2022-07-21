@@ -36,7 +36,7 @@
                 <div class="col-lg-6 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
                     <div class="content">
                         <!-- <h3>Who We Are</h3> -->
-                        <h2>About WebGIS PS Ketapang</h2>
+                        <h2>WebGIS PS Ketapang</h2>
                         <p>
                             WebGIS PS Ketapang merupakan website berbasis GIS yang menyediakan sebaran perhutanan sosial (Hutan Desa dan Hutan Kemasyarakatan) di Kabupaten Ketapang.
                         </p>
