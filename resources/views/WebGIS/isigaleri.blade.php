@@ -70,7 +70,7 @@
                         <img src="assets/img/galery/gema/4.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <!-- <h4>App 1</h4>
-                            <p>App</p> -->
+                            <p>Apps</p> -->
                             <div class="portfolio-links">
                                 <a href="assets/img/galery/gema/4.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
                                 <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
