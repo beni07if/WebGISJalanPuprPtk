@@ -54,7 +54,7 @@
 
             <!-- Hutan Desa -->
             <div class="row feature-icons" data-aos="fade-up">
-                <h3>Perhutanan Sosial di Kabupaten Ketapang</h3>
+                <h3>Skema Perhutanan Sosial Ketapang</h3>
 
                 <div class="row">
 
