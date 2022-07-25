@@ -539,7 +539,7 @@
 @endsection
 
 @section('IndexJs')
-<!-- Vendor JS Files -->
+<!-- Vendor JS Filess -->
 <script src="{{ asset('assets/vendor/purecounter/purecounter.js') }}"></script>
 <script src="{{ asset('assets/vendor/aos/aos.js') }}"></script>
 <script src="{{ asset('assets/vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
