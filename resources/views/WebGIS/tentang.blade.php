@@ -12,7 +12,7 @@
     <!-- End Counts Section -->
 
     <!-- ======= About Section ======= -->
-    <section id="about" class="about">
+    <section id="about portfolio" class="about portfolio">
 
         <div class="container" data-aos="fade-up">
             <div class="row gx-0">
@@ -33,9 +33,35 @@
                     </div>
                 </div>
 
-                <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
+                <!-- <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
                     <img src="assets/img/foto/ps-ktp/ps-ktp.png" style="width: 80%;" class="img-fluid" alt="">
+                </div> -->
+                <div class="col-lg-6 d-flex align-items-center col-md-6" data-aos="zoom-out fade-up" data-aos-delay="200">
+                    <div class="portfolio-wrap">
+                        <img src="assets/img/foto/ps-ktp/ps-ktp.png" style="width: 80%;" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+
+                            <div class="portfolio-links">
+                                <a href="assets/img/foto/ps-ktp/ps-ktp2.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
+                <!-- <div class="row gy-6 portfolio-container" data-aos="fade-up" data-aos-delay="200">
+
+                    <div class="col-lg-4 col-md-6 portfolio-item gema">
+                        <div class="portfolio-wrap">
+                            <img src="{{ asset('assets/img/galery/gema/1.jpg') }}" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+
+                                <div class="portfolio-links">
+                                    <a href="{{ asset('assets/img/galery/gema/1.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> -->
 
             </div>
         </div>
