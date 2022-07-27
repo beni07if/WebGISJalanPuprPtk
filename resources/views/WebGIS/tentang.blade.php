@@ -80,7 +80,7 @@
 
             <!-- Hutan Desa -->
             <div class="row feature-icons" data-aos="fade-up">
-                <h3>Skema Perhutanan Sosial Ketapang</h3>
+                <h3>Skema Perhutanan Sosial Ketapang (HD dan HKm)</h3>
 
                 <div class="row">
 
