@@ -3,7 +3,7 @@
         <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
             <a href="{{ route('index') }}" class="logo d-flex align-items-center">
-                <img src="assets/img/logo/aiden.png" alt="">
+                <img src="{{ asset('assets/img/logo/logo-webgis.png') }}" alt="">
                 <!-- <span>Aidenvironment</span> -->
             </a>
 
