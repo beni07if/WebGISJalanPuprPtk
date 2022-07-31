@@ -336,16 +336,16 @@
                     </div> -->
 
                     <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
-                        <img src="assets/img/foto/ps-ktp/grafik1.PNG" style="width: 100%;" class="img-fluid" alt="">
+                        <img src="assets/img/foto/ps-ktp/grafik1.png" style="width: 100%;" class="img-fluid" alt="">
                     </div>
                     <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
-                        <img src="assets/img/foto/ps-ktp/grafik2.PNG" style="width: 100%;" class="img-fluid" alt="">
+                        <img src="assets/img/foto/ps-ktp/grafik2.png" style="width: 100%;" class="img-fluid" alt="">
                     </div>
 
                 </div>
                 <img style="text-align: justify;" src="assets/img/logo/logo-mitra/mitra.png" style="width: 60%;" alt="">
 
-            </div><!-- End Hutan Desa -->
+            </div><!-- End Hutan Desas -->
         </div>
 
     </section>
