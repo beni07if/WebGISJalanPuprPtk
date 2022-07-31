@@ -42,7 +42,7 @@
         </nav><!-- .navbar -->
 
     </div>
-</header><!-- End Header -->
+</header><!-- End dfdHeader -->
 @endsection
 
 @section('content')

@@ -44,7 +44,7 @@
                         <!-- <div class="col-md-6">
                             <div class="info-box">
                                 <i class="bi bi-clock"></i>
-                                <h3>Open Hourss</h3>
+                                <h3>Open Hourssss</h3>
                                 <p>Monday - Friday<br>9:00AM - 05:00PM</p>
                             </div>
                         </div> -->
