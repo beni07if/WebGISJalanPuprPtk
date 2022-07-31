@@ -1,7 +1,7 @@
 @extends('WebGIS.Layouts.App')
 
 @section('Content')
-<!-- ======= Hero SectionS ======= -->
+<!-- ======= Hero SectionSs ======= -->
 <section id="hero" class="hero d-flex align-items-center">
 
     <div class="container">
@@ -19,7 +19,7 @@
                 </div>
             </div>
             <div class="col-lg-6 hero-img" data-aos="zoom-out" data-aos-delay="200">
-                <img src="assets/img/foto/ps-ktp/peta-indonesia2.PNG" class="img-fluid" alt="">
+                <img src="assets/img/foto/ps-ktp/peta-indonesia2.png" class="img-fluid" alt="">
             </div>
         </div>
     </div>
