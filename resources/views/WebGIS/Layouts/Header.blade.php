@@ -4,7 +4,7 @@
 
             <a href="{{ route('index') }}" class="logo d-flex align-items-center">
                 <!-- <img src="{{ asset('assets/img/logo/logo-webgis.png') }}" alt=""> -->
-                <span>Aidenvironment</span>
+                <span>WebGIS PS Ketapang</span>
             </a>
 
             <nav id="navbar" class="navbar">

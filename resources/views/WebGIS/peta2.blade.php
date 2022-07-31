@@ -6,8 +6,8 @@
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
         <a href="{{ route('index') }}" class="logo d-flex align-items-center">
-            <img src="assets/img/logo/logo-webgis-psktp.png" alt="">
-            <!-- <span>PS KETAPANG</span> -->
+            <!-- <img src="assets/img/logo/logo-webgis-psktp.png" alt=""> -->
+            <span>WebGIS PS Ketapang</span>
         </a>
 
         <nav id="navbar" class="navbar">
