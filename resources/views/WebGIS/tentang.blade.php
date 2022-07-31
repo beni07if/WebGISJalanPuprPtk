@@ -38,7 +38,7 @@
                 </div> -->
                 <div class="col-lg-6 d-flex align-items-center col-md-6" data-aos="zoom-out fade-up" data-aos-delay="200">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/foto/ps-ktp/ps-ktp2.jpg" style="width: 80%;" class="img-fluid" alt="">
+                        <img src="assets/img/foto/ps-ktp/ps-ktp2.jpg" style="width: 100%;" class="img-fluid" alt="">
                         <div class="portfolio-info">
 
                             <div class="portfolio-links">
