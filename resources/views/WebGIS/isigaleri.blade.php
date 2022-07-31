@@ -4,7 +4,7 @@
         <div class="container" data-aos="fade-up">
 
             <header class="section-header" style="padding-top: 150px;">
-                <!-- <h2>Portfolio</h2> -->
+                <!-- <h2>Portfolios</h2> -->
                 <p>Galery Perhutanan Sosial di Kabupaten Ketapang</p>
             </header>
 
