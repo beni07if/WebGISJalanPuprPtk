@@ -309,7 +309,7 @@
             </header> -->
             <!-- / row -->
 
-            <!-- Hutan Desa -->
+            <!-- Hutan Desas -->
             <div class="row feature-icons" data-aos="fade-up">
                 <h3>Infografis PS Ketapang</h3>
 

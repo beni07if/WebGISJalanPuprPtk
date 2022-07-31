@@ -23,7 +23,7 @@
 
             <div class="row gy-4 portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
-                <!-- gema starss  -->
+                <!-- gema starsss  -->
                 <div class="col-lg-4 col-md-6 portfolio-item gema">
                     <div class="portfolio-wrap">
                         <img src="{{ asset('assets/img/galery/gema/1.jpg') }}" class="img-fluid" alt="">
