@@ -18,13 +18,13 @@
         <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
             <a href="{{ route('index') }}" class="logo d-flex align-items-center">
-                <img src="{{ asset('assets/img/logo/aiden.png') }}" alt="">
-                <!-- <span>Aidenvironment</span> -->
+                <img src="{{ asset('assets/img/logo/logo-webgis.png') }}" alt="">
+                <!-- <span>WebGIS PS Ketapang</span> -->
             </a>
 
             <nav id="navbar" class="navbar">
                 <ul>
-                    <li><a class="nav-link scrollto active" href="{{ route('index') }}">Beranda</a></li>
+                    <li><a class="nav-link scrollto" href="{{ route('index') }}">Beranda</a></li>
                     <li><a class="nav-link scrollto" href="{{ route('tentang') }}">Tentang PS Ketapang</a></li>
                     <li><a class="nav-link scrollto" href="{{ route('galery') }}">Galery</a></li>
                     <!-- <li><a class="nav-link scrollto" href="#services">Services</a></li> -->
@@ -69,11 +69,11 @@
             <div class="container">
                 <div class="row gy-4">
                     <div class="col-lg-5 col-md-12 footer-info">
-                        <a href="index.html" class="logo d-flex align-items-center">
+                        <!-- <a href="index.html" class="logo d-flex align-items-center">
                             <img src="assets/img/logo/aiden.png" alt="">
-                            <!-- <span>PS Ketapang</span> -->
+                            <span>PS Ketapang</span>
                         </a>
-                        <p>Website penyedia persebaran Perhutanan Sosial (HD dan HKm) di Kabupaten Ketapang..</p>
+                        <p>Website penyedia persebaran Perhutanan Sosial (HD dan HKm) di Kabupaten Ketapang..</p> -->
                         <div class="social-links mt-3">
                             <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
                             <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>

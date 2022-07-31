@@ -94,7 +94,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up">
                                 <!-- <i class="ri-line-chart-line"></i> -->
                                 <div>
-                                    <h4>Hutan Desa Rimak Koling Raya</h4>
+                                    <h4><a href="https://drive.google.com/drive/folders/1j8kf_IVm3nOLtB_xkZTDFGc93zU78WjI?usp=sharing" target="_blank">Hutan Desa Rimak Koling Raya</a> </h4>
                                     <p>Nomor SK: 6233/MenLHK-PSKL/PKPS/PSL.0/9/2018</p>
                                 </div>
                             </div>
@@ -102,7 +102,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="100">
                                 <!-- <i class="ri-stack-line"></i> -->
                                 <div>
-                                    <h4>Hutan Desa Pangkalan Telok</h4>
+                                    <h4><a href="https://drive.google.com/drive/folders/1KaK0e8J06hpKNMrC38VQxmODBa-ef3hI?usp=sharing" target="_blank">Hutan Desa Pangkalan Telok</a></h4>
                                     <p>Nomor SK: 3802/MenLHK-PSKL/PKPS/PSL.0/4/2019</p>
                                 </div>
                             </div>
@@ -110,7 +110,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="200">
                                 <!-- <i class="ri-brush-4-line"></i> -->
                                 <div>
-                                    <h4>Hutan Desa Lemmanis</h4>
+                                    <h4><a href="https://drive.google.com/drive/folders/1G5UWTaCsiAi9Br72_Qc1EWpit1Lif__t?usp=sharing" target="_blank">Hutan Desa Lemmanis</a></h4>
                                     <p>Nomor SK: 1538/MenLHK-PSKL/PKPS/PSL.0/3/2021</p>
                                 </div>
                             </div>
@@ -118,7 +118,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="300">
                                 <!-- <i class="ri-magic-line"></i> -->
                                 <div>
-                                    <h4>Hutan Desa Bukit Layang</h4>
+                                    <h4><a href="https://drive.google.com/drive/folders/12LngVzI35i7tYgFpz4_goVp-yuN1egHQ?usp=sharing" target="_blank">Hutan Desa Bukit Layang</a></h4>
                                     <p>Nomor SK: 6682/MenLHK-PSKL/PKPS/PSL.0/13/2017</p>
                                 </div>
                             </div>
@@ -126,7 +126,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="400">
                                 <!-- <i class="ri-command-line"></i> -->
                                 <div>
-                                    <h4>Hutan Desa Cuhai</h4>
+                                    <h4><a href="https://drive.google.com/drive/folders/1VucteZmG3Z_khpSOVx2oedaq8redmMqq?usp=sharing" target="_blank">Hutan Desa Cuhai</a></h4>
                                     <p>Nomor SK: 6572/MenLHK-PSKL/PKPS/PSL.0/12/2017</p>
                                 </div>
                             </div>
@@ -134,7 +134,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="500">
                                 <!-- <i class="ri-radar-line"></i> -->
                                 <div>
-                                    <h4>Hutan Desa Batu Bolah</h4>
+                                    <h4><a href="https://drive.google.com/drive/folders/1KiWysPRcedXC4Oy147tUCjC21XoJLNG9?usp=sharing" target="_blank">Hutan Desa Batu Batoah</a></h4>
                                     <p>Nomor SK: 6704/MenLHK-PSKL/PKPS/PSL.0/7/2017</p>
                                 </div>
                             </div>
@@ -142,7 +142,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up">
                                 <!-- <i class="ri-line-chart-line"></i> -->
                                 <div>
-                                    <h4>Hutan Desa Belaban Rayak</h4>
+                                    <h4><a href="https://drive.google.com/drive/folders/1J50AeB_m25VlyKToNY1VjEukkmRYPFaZ?usp=sharing" target="_blank">Hutan Desa Belaban Rayak</a></h4>
                                     <p>Nomor SK: 4670/MenLHK-PSKL/PKPS/PSL.0/7/2018</p>
                                 </div>
                             </div>
@@ -150,7 +150,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="100">
                                 <!-- <i class="ri-stack-line"></i> -->
                                 <div>
-                                    <h4>Hutan Kemasyarakatan Gapoktan Sumber Karya</h4>
+                                    <h4><a href="https://drive.google.com/drive/folders/1ArsEIXmQ4TRi6zwvYuKnfciIITPFxW-b?usp=sharing" target="_blank">Hutan Kemasyarakatan Gapoktan Sumber Karya</a></h4>
                                     <p>Nomor SK: 1652/MenLHK-PSKL/PKPS/PSL.0/3/2019</p>
                                 </div>
                             </div>
@@ -158,7 +158,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="200">
                                 <!-- <i class="ri-brush-4-line"></i> -->
                                 <div>
-                                    <h4>Hutan Desa Danau Paluh Lestari</h4>
+                                    <h4><a href="https://drive.google.com/drive/folders/12oaVt-wccEaso1eMry15OE3Jczlknz3U?usp=sharing" target="_blank">Hutan Desa Danau Paluh Lestari</a></h4>
                                     <p>Nomor SK: 1540/MenLHK-PSKL/PKPS/PSL.0/3/2021</p>
                                 </div>
                             </div>
@@ -166,7 +166,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="300">
                                 <!-- <i class="ri-magic-line"></i> -->
                                 <div>
-                                    <h4>Hutan Kemasyarakatan Serba Usaha Bersama</h4>
+                                    <h4><a href="https://drive.google.com/drive/folders/12wqLEB7Sz_sYRkAkPQWPvbH5JgP_rVwC?usp=sharing" target="_blank">Hutan Kemasyarakatan Serba Usaha Bersama</a></h4>
                                     <p>Nomor SK: 5864/MenLHK-PSKL/PKPS/PSL.0/10/2017</p>
                                 </div>
                             </div>
@@ -174,7 +174,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="400">
                                 <!-- <i class="ri-command-line"></i> -->
                                 <div>
-                                    <h4>Hutan Desa Sunan Bersatu</h4>
+                                    <h4><a href="https://drive.google.com/drive/folders/1qOA4bZfP8CObprDMsI4FNrtGC6fYsnhm?usp=sharing" target="_blank">Hutan Desa Sunan Bersatu</a></h4>
                                     <p>Nomor SK: 1030/MenLHK-PSKL/PKPS/PSL.0/3/2021</p>
                                 </div>
                             </div>
@@ -182,7 +182,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="500">
                                 <!-- <i class="ri-radar-line"></i> -->
                                 <div>
-                                    <h4>Hutan Desa Pematang Gadung</h4>
+                                    <h4><a href="https://drive.google.com/drive/folders/1Jqhi6Yve1avPqBCoZkfxshJo6I-gw5Zw?usp=sharing" target="_blank">Hutan Desa Pematang Gadung</a></h4>
                                     <p>Nomor SK: 896/MenLHK-PSKL/PKPS/PSL.0/3/2021</p>
                                 </div>
                             </div>
@@ -190,7 +190,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up">
                                 <!-- <i class="ri-line-chart-line"></i> -->
                                 <div>
-                                    <h4>Hutan Desa Rawa Gambut</h4>
+                                    <h4><a href="https://drive.google.com/drive/folders/1cJvJ3PFmaLparMiI5Hzluwfh4RxNYDA2?usp=sharing" target="_blank">Hutan Desa Rawa Gambut</a></h4>
                                     <p>Nomor SK: 5883/MenLHK-PSKL/PKPS/PSL.0/10/2017</p>
                                 </div>
                             </div>
@@ -198,7 +198,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="100">
                                 <!-- <i class="ri-stack-line"></i> -->
                                 <div>
-                                    <h4>Hutan Desa Wana Gambut</h4>
+                                    <h4><a href="https://drive.google.com/drive/folders/1FYbRV76Op4F0A-4_Xm3lQCLXh0CfAl8b?usp=sharing" target="_blank">Hutan Desa Wana Gambut</a></h4>
                                     <p>Nomor SK: 6688/MenLHK-PSKL/PKPS/PSL.0/12/2017</p>
                                 </div>
                             </div>
@@ -206,7 +206,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="200">
                                 <!-- <i class="ri-brush-4-line"></i> -->
                                 <div>
-                                    <h4>Hutan Desa Rimbak Sangiang</h4>
+                                    <h4><a href="https://drive.google.com/drive/folders/1TS_aRHR38DMhM-_HQJrFAFVLmWfro42k?usp=sharing" target="_blank">Hutan Desa Rimbak Sangiang</a></h4>
                                     <p>Nomor SK: 1539/MenLHK-PSKL/PKPS/PSL.0/3/2021</p>
                                 </div>
                             </div>
@@ -214,7 +214,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="300">
                                 <!-- <i class="ri-magic-line"></i> -->
                                 <div>
-                                    <h4>HUtan Desa Sembelangaan</h4>
+                                    <h4><a href="https://drive.google.com/drive/folders/18lQ4VOnbfVGGe3wMYakbhMVDKYAeY0DE?usp=sharing" target="_blank">Hutan Desa Sembelangaan</a></h4>
                                     <p>Nomor SK: 5973/MenLHK-PSKL/PKPS/PSL.0/12/2017</p>
                                 </div>
                             </div>
@@ -222,7 +222,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="400">
                                 <!-- <i class="ri-command-line"></i> -->
                                 <div>
-                                    <h4>Hutan Desa Manjau</h4>
+                                    <h4><a href="https://drive.google.com/drive/folders/1Gf16L78YDIdXSG0JZ2Bxq8TdHW6RgQTw?usp=sharing" target="_blank">Hutan Desa Manjau</a></h4>
                                     <p>Nomor SK: 6573/MenLHK-PSKL/PKPS/PSL.0/3/2021</p>
                                 </div>
                             </div>
@@ -230,7 +230,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="500">
                                 <!-- <i class="ri-radar-line"></i> -->
                                 <div>
-                                    <h4>Hutan Desa Bukit Banjar</h4>
+                                    <h4><a href="https://drive.google.com/drive/folders/1bFdL4LPTVp2SaczqtNVveuBIERBqdZuD?usp=sharing" target="_blank">Hutan Desa Bukit Banjar</a></h4>
                                     <p>Nomor SK: 6188/MenLHK-PSKL/PKPS/PSL.0/9/2018</p>
                                 </div>
                             </div>
@@ -238,7 +238,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="400">
                                 <!-- <i class="ri-command-line"></i> -->
                                 <div>
-                                    <h4>Hutan Desa Mio Lestari</h4>
+                                    <h4><a href="https://drive.google.com/drive/folders/1gn_im5hsytAmJmbuVxUhQMFKpFGwSrwI?usp=sharing" target="_blank">Hutan Desa Mio Lestari</a></h4>
                                     <p>Nomor SK: 1027/MenLHK-PSKL/PKPS/PSL.0/3/2021</p>
                                 </div>
                             </div>
@@ -246,7 +246,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="500">
                                 <!-- <i class="ri-radar-line"></i> -->
                                 <div>
-                                    <h4>Hutan Desa Tanoeh Menjuakng</h4>
+                                    <h4><a href="https://drive.google.com/drive/folders/1YcO4wekHukYKnZ6CmnEG88K_ubY74r7t?usp=sharing" target="_blank">Hutan Desa Tanoeh Menjuakng</a></h4>
                                     <p>Nomor SK: 5913/MenLHK-PSKL/PKPS/PSL.0/9/2018</p>
                                 </div>
                             </div>
@@ -311,7 +311,7 @@
 
             <!-- Hutan Desa -->
             <div class="row feature-icons" data-aos="fade-up">
-                <h3>Info Grafis PS Ketapang</h3>
+                <h3>Infografis PS Ketapang</h3>
 
                 <div class="row">
 
@@ -320,13 +320,20 @@
                     </div> -->
 
                     <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
-                        <img src="assets/img/foto/ps-ktp/grafik1.png" style="width: 80%;" class="img-fluid" alt="">
+                        <img src="assets/img/foto/infografis/1.png" style="width: 100%;" class="img-fluid" alt="">
                     </div>
                     <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
-                        <img src="assets/img/foto/ps-ktp/grafik2.png" style="width: 80%;" class="img-fluid" alt="">
+                        <img src="assets/img/foto/infografis/2.png" style="width: 100%;" class="img-fluid" alt="">
+                    </div>
+                    <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
+                        <img src="assets/img/foto/infografis/3.png" style="width: 100%;" class="img-fluid" alt="">
+                    </div>
+                    <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
+                        <img src="assets/img/foto/infografis/4.png" style="width: 100%;" class="img-fluid" alt="">
                     </div>
 
                 </div>
+                <img style="text-align: justify;" src="assets/img/logo/logo-mitra/mitra.png" style="width: 60%;" alt="">
 
             </div><!-- End Hutan Desa -->
         </div>
@@ -340,10 +347,10 @@
 
             <div class="section-title">
                 <h2>Sejarah Perhutanan Sosial</h2>
-                <p>Sejarah Perhutanan Sosial (PS) diawali dengan perubahan paradigma pengelolaan hutan dari pengelolaan hutan oleh negara ke arah pengelolaan hutan bersama masyarakat, yaitu pengelolaan hutan yang harus melibatkan dan mensejahterakan masyarakat sekitar hutan.</p>
+                <p style="text-align: justify;">Sejarah Perhutanan Sosial (PS) diawali dengan perubahan paradigma pengelolaan hutan dari pengelolaan hutan oleh negara ke arah pengelolaan hutan bersama masyarakat, yaitu pengelolaan hutan yang harus melibatkan dan mensejahterakan masyarakat sekitar hutan.</p>
             </div>
 
-            <div class="row content">
+            <div class="row content" style="text-align: justify;">
                 <div class="col-lg-6">
                     <p>
                         Sistem pengelolaan Hutan lestari yang dilaksanakan dalam Kawasan Hutan Negara atau Hutan Hak/Hutan Adat yang dilaksanakan oleh masyarakat setempat atau masyarakat hukum adat sebagai pelaku utama untuk meningkatkan kesejahteraannya, keseimbangan lingkungan dan dinamika sosial budaya (PP. 23 Tahun 2021 tentang Penyelenggaraan Kehutanan Ps. 1). Sampai dengan 25 Januari 2022, PS sudah menjangkau luasan 4,9 juta hektar, dari total alokasi 12,7 juta hektar. Jumlah persetujuan yang sudah dikeluarkan oleh Kementerian LHK menaungi lebih dari 1 juta KK (Dewi, 2022).
@@ -366,7 +373,7 @@
                 </div>
             </div>
 
-            <div class="row content">
+            <div class="row content" style="text-align: justify;">
                 <p>
                     Program perhutanan sosial merupakan salah satu upaya pemerintah memberikan ruang akses kepada masyarakat dan desa terutama yang berada di dalam dan disekitar kawasan hutan untuk dapat mengelola dan memanfaatkan potensi sumber daya alam yang terdapat dalam kawasan hutan guna untuk peningkatan ekonomi dan kesejahteraan masyarakat. Akses kelola tersebut diusulkan oleh masyarakat dan pemerintah desa melalui sebuah lembaga desa yang disampaikan kepada Kementerian Lingkungan Hidup dan Kehutanan selaku kementerian terkait dalam pengelolaan dan perizinan pengelolaan kawasan hutan.
                 </p>
@@ -379,7 +386,7 @@
                 <p>
                     Pada Tahun 2017, 3 desa memperoleh SK dari Kementerian Lingkungan Hidup dan Kehutanan. Dua desa merupakan desa yang sudah memperoleh SK PAK sebelumnya, dan satu desa baru dengan skema pengelolaan Hutan Desa. Bentuk hak/izin yang diberikan berupa Hak Pengelolaan Hutan Desa (HPHD). Desa Laman Satong nomor SK : 6573/MENLHK-PSKL/PKPS/PSL.0/12/2017 dengan luas ± 1070 Hektar. Desa Sebadak Raya nomor SK : 6572/MENLHK-PSKL/PKPS/PSL.0/12/2017 dengan luas ±1645 Hektar. Desa Sungai Pelang nomor SK:6688/MENLHK-PSKL/PKPS/PSL.0/12/2017. Untuk Desa Pematang Gadung karena ada perubahan luas hutan desa, SK terbarunya dikeluarkan pada tahun 2021 dengan penetapan luas yang baru. </p>
                 <p>
-                    Kementerian Lingkungan Hidup dan Kehutanan telah mengeluarkan 20 SK untuk areal perhutanan sosial di Kabupaten Ketapang dengan skema Hutan Desa (18 SK) yang memiliki luas 63.425 hektar dan Hutan Kemasyarakatan (2 SK) yang memiliki luas 1.778 hektar. Total luasan Perhutanan Sosial di Kabupaten Ketapang sebesar 65.203 Hektar (sumber data UPT KPH Wilayah Ketapang Selatan dan UPT KPH Wilayah Ketapang Utara).
+                    Kementerian Lingkungan Hidup dan Kehutanan telah mengeluarkan 20 izin kelola PS untuk areal perhutanan sosial di Kabupaten Ketapang dengan skema Hutan Desa (18 izin) yang memiliki luas 63.425 hektar dan Hutan Kemasyarakatan (2 izin) yang memiliki luas 1.778 hektar. Total luasan Perhutanan Sosial di Kabupaten Ketapang sebesar 65.203 Hektar (sumber data UPT KPH Wilayah Ketapang Selatan dan UPT KPH Wilayah Ketapang Utara).
                 </p>
                 <!-- <p>
                     Hutan Desa yang sudah ada SK dari Kementrian Lingkungan Hidup dan Kehutanan ada 20 Hutan Desa. 2 dengan skema Hutan Kemasyarakatan dengan luas 1.778 hektar, luasan 18 Hutan Desa sebesar 63.425 Hektar. Total luasan Perhutanan Sosial di Kabupaten Ketapang sebesar 65.203 Hektar (sumber data UPT KPH Wilayah Ketapang Selatan dan UPT KPH Wilayah Ketapang Utara).

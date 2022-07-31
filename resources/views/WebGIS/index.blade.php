@@ -19,7 +19,7 @@
                 </div>
             </div>
             <div class="col-lg-6 hero-img" data-aos="zoom-out" data-aos-delay="200">
-                <img src="assets/img/foto/ps-ktp/peta-indonesia2.png" class="img-fluid" alt="">
+                <img src="assets/img/foto/ps-ktp/indonesian-map.png" class="img-fluid" alt="">
             </div>
         </div>
     </div>
@@ -30,6 +30,10 @@
     <!-- ======= Counts Section ======= -->
     <section id="counts" class="counts">
         <div class="container" data-aos="fade-up">
+            <header class="section-header">
+                <!-- <h2>Contact</h2> -->
+                <p>Skema Perhutanan Sosial Ketapang</p>
+            </header>
 
             <div class="row gy-4">
 
@@ -57,8 +61,8 @@
                     <div class="count-box">
                         <i class="bi bi-journal-richtext" style="color: #15be56;"></i>
                         <div>
-                            <span data-purecounter-start="0" data-purecounter-end="20" data-purecounter-duration="1" class="purecounter"></span>
-                            <p>PIAPS</p>
+                            <span>PIAPS</span>
+                            <p>Peta Indikatif Areal Perhutanan Sosial</p>
                         </div>
                     </div>
                 </div>
@@ -251,7 +255,7 @@
                     <div class="tab-content">
 
                         <div class="tab-pane fade show active" id="tab1">
-                            <p>Perhutanan sosial (PS) adalah sistem pengelolaan hutan lestari yang dilaksanakan dalam
+                            <p style="text-align: justify;">Perhutanan sosial (PS) adalah sistem pengelolaan hutan lestari yang dilaksanakan dalam
                                 kawasan hutan negara atau hutan hak/hutan adat yang dilaksanakan oleh masyarakat
                                 setempat atau masyarakat hukum adat sebagai pelaku utama untuk meningkatkan
                                 kesejahteraannya, keseimbangan lingkungan dan dinamika sosial budaya dalam bentuk Hutan
@@ -278,41 +282,58 @@
                                             </a>
                                         </div>
                                     </div>
+                                    <h4 style="padding-top: 50px;">Policy Breaf</h4>
+                                    <div class="col-md-6" data-aos="zoom-out" data-aos-delay="300">
+                                        <div class="feature-box d-flex align-items-center">
+                                            <i class="bi bi-check"></i>
+                                            <a href="https://drive.google.com/file/d/1910ShsJZ7MzndhRweBFmThgGrGp6hIKv/view?usp=sharing" target="_blank">
+                                                <h4>Final Policy Paper Nov 2021</h4>
+                                            </a>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div><!-- End Tab 1 Content -->
 
                         <div class="tab-pane fade show" id="tab2">
-                            <p>Program Perhutanan Sosial memiliki berbagai skema yang memiliki inti yang masih sama. Skema yang
+                            <p style="text-align: justify;">Program Perhutanan Sosial memiliki berbagai skema yang memiliki inti yang masih sama. Skema yang
                                 diusung dalam program ini adalah Hutan Desa (HD), Hutan Kemasyarakatan (HKm), Hutan
                                 Tanaman Rakyat (HTR/IPHPS), Hutan Adat (HA), dan Kemitraan Kehutanan.</p>
                             <div class="d-flex align-items-center mb-2">
                                 <i class="bi bi-check2"></i>
-                                <h4>Hutan Desa (HD)</h4>
+                                <h4><a href="https://drive.google.com/file/d/1910ShsJZ7MzndhRweBFmThgGrGp6hIKv/view?usp=sharing" target="_blank">Hutan Desa (HD)</a> </h4>
                             </div>
-                            <p>Hutan Desa (HD) adalah hutan negara yang dalam pengelolaannya dilakukan oleh
+                            <p style="text-align: justify;">Hutan Desa (HD) adalah hutan negara yang dalam pengelolaannya dilakukan oleh
                                 lembaga desa dengan tujuan untuk menyejahterakan suatu desa.</p>
                             <div class="d-flex align-items-center mb-2">
                                 <i class="bi bi-check2"></i>
-                                <h4>Hutan Kemasyarakatan (HKm)</h4>
+                                <h4><a href="https://drive.google.com/file/d/1910ShsJZ7MzndhRweBFmThgGrGp6hIKv/view?usp=sharing" target="_blank">Hutan Kemasyarakatan (HKm)</a> </h4>
                             </div>
-                            <p>Hutan Kemasyarakatan (HKm) adalah hutan negara yang mana pengelolaannya dilakukan
+                            <p style="text-align: justify;">Hutan Kemasyarakatan (HKm) adalah hutan negara yang mana pengelolaannya dilakukan
                                 oleh masyarakat dengan tujuan untuk memberdayakan masyarakat sekitar agar tercipta
                                 kesejahteraan.</p>
                             <div class="d-flex align-items-center mb-2">
                                 <i class="bi bi-check2"></i>
-                                <h4>Hutan Tanaman Rakyat (HTR)</h4>
+                                <h4><a href="https://drive.google.com/file/d/1910ShsJZ7MzndhRweBFmThgGrGp6hIKv/view?usp=sharing" target="_blank">Hutan Tanaman Rakyat (HTR)</a> </h4>
                             </div>
-                            <p>Hutan Tanaman Rakyat (HTR) adalah hutan tanaman pada hutan produksi yang dibangun
+                            <p style="text-align: justify;">Hutan Tanaman Rakyat (HTR) adalah hutan tanaman pada hutan produksi yang dibangun
                                 oleh kelompok masyarakat untuk meningkatkan potensi dan kualitas hutan produksi dengan
                                 menerapkan sistem silvikultur untuk menjamin kelestarian hutan.
                             </p>
                             <div class="d-flex align-items-center mb-2">
                                 <i class="bi bi-check2"></i>
-                                <h4>Hutan Adat (HA)</h4>
+                                <h4><a href="https://drive.google.com/file/d/1910ShsJZ7MzndhRweBFmThgGrGp6hIKv/view?usp=sharing" target="_blank">Hutan Adat (HA)</a> </h4>
                             </div>
-                            <p>Hutan adat adalah hutan yang dimiliki oleh masyarakat adat yang sebelumnya merupakan
-                                hutan negara ataupun bukan hutan negara</p>
+                            <p style="text-align: justify;">Hutan adat adalah hutan yang dimiliki oleh masyarakat adat yang sebelumnya merupakan
+                                hutan negara ataupun bukan hutan negara
+                            </p>
+                            <div class="d-flex align-items-center mb-2">
+                                <i class="bi bi-check2"></i>
+                                <h4><a href="https://drive.google.com/file/d/1910ShsJZ7MzndhRweBFmThgGrGp6hIKv/view?usp=sharing" target="_blank">Kemitraan Kehutanan (KK)</a> </h4>
+                            </div>
+                            <p style="text-align: justify;">Kemitraan kehutanan (KK) adalah bentuk kerja sama antara masyarakat dengan pihak tertentu yang memiliki/memegang hak pengelolaan hutan/hak pengusahaan hutan/hak pemanfaatan hutan maupun pemegang izin pinjam pakai kawasan hutan/izin usaha industri hasil hutan.
+                                Misalnya suatu daerah dimana ada perusahaan hutan tanaman industri bentuk kemitraannya dapat berupa kerja sama menampung kayu hasil tanaman warga untuk dibantu dipasarkan, atau bisa juga bentuk kerja samanya menjadikan masyarakat sebagai tenaga tanam tanaman tertentu yang menjadi komoditas perusahaan pemegang hak kelola ataupun izin atas kawasan hutan tersebut.
+                            </p>
                         </div><!-- End Tab 2 Content -->
 
                         <!-- <div class="tab-pane fade show" id="tab3">

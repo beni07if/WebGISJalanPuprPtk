@@ -9,10 +9,10 @@
 
             <nav id="navbar" class="navbar">
                 <ul>
-                    <li><a class="nav-link scrollto active" href="{{ route('index') }}">Beranda</a></li>
+                    <li><a class="nav-link scrollto" href="{{ route('index') }}">Beranda</a></li>
                     <li><a class="nav-link scrollto" href="{{ route('tentang') }}">Tentang PS Ketapang</a></li>
                     <li><a class="nav-link scrollto" href="{{ route('galery') }}">Galery</a></li>
-                    <li><a class="nav-link scrollto" href="#contact">Kontak Kami</a></li>
+                    <li><a class="nav-link scrollto" href="{{ route('index') }} #contact">Kontak Kami</a></li>
                     <li><a class="getstarted scrollto" href="{{ route('peta2') }}">Peta</a></li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>

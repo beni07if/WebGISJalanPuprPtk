@@ -27,6 +27,13 @@ a:hover {
   text-decoration: none;
 }
 
+.features .feature-icons .content h4 a {
+  color: #087880;
+}
+.features .feature-icons .content h4 a:hover {
+  color: #4fd4c7;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: "Nunito", sans-serif;
 }
@@ -406,6 +413,7 @@ section {
   width: 100%;
   height: 100vh;
   background: url(../img/hero-bg.png) top center no-repeat;
+  /* background: url(../img/foto/ps-ktp/indonesian-map.png) top center no-repeat;   */
   background-size: cover;
 }
 .hero h1 {
@@ -685,6 +693,7 @@ section {
   margin: 0 0 10px 0;
   color: #087880;
 }
+
 .features .feature-icons .content .icon-box i {
   font-size: 44px;
   line-height: 44px;

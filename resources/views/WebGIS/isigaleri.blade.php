@@ -14,7 +14,7 @@
                         <li data-filter="*" class="filter-active">All</li>
                         <li data-filter=".benua-krio">Benua Krio</li>
                         <li data-filter=".gema">Gema</li>
-                        <li data-filter=".pangkalan-teluk">Pangkalan Teluk</li>
+                        <li data-filter=".pangkalan-telok">Pangkalan Telok</li>
                         <li data-filter=".satong">Laman Satong</li>
                         <li data-filter=".pelang"> Pelang</li>
                     </ul>
@@ -359,274 +359,274 @@
 
 
                 <!-- pangkalan teluk start  -->
-                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-teluk">
+                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-telok">
                     <div class="portfolio-wrap">
-                        <img src="{{ asset('assets/img/galery/pangkalan-teluk/1.jpg') }}" class="img-fluid" alt="">
+                        <img src="{{ asset('assets/img/galery/pangkalan-telok/1.jpg') }}" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <!-- <h4>App 1</h4>
                             <p>App</p> -->
                             <div class="portfolio-links">
-                                <a href="{{ asset('assets/img/galery/pangkalan-teluk/1.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
+                                <a href="{{ asset('assets/img/galery/pangkalan-telok/1.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
                                 <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-teluk">
+                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-telok">
                     <div class="portfolio-wrap">
-                        <img src="{{ asset('assets/img/galery/pangkalan-teluk/2.jpg') }}" class="img-fluid" alt="">
+                        <img src="{{ asset('assets/img/galery/pangkalan-telok/2.jpg') }}" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <!-- <h4>Web 3</h4>
                             <p>Web</p> -->
                             <div class="portfolio-links">
-                                <a href="{{ asset('assets/img/galery/pangkalan-teluk/2.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title="><i class=" bi bi-plus"></i></a>
+                                <a href="{{ asset('assets/img/galery/pangkalan-telok/2.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title="><i class=" bi bi-plus"></i></a>
                                 <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-teluk">
+                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-telok">
                     <div class="portfolio-wrap">
-                        <img src="{{ asset('assets/img/galery/pangkalan-teluk/3.jpg') }}" class="img-fluid" alt="">
+                        <img src="{{ asset('assets/img/galery/pangkalan-telok/3.jpg') }}" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <!-- <h4>App 2</h4>
                             <p>App</p> -->
                             <div class="portfolio-links">
-                                <a href="{{ asset('assets/img/galery/pangkalan-teluk/3.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
+                                <a href="{{ asset('assets/img/galery/pangkalan-telok/3.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
                                 <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-teluk">
+                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-telok">
                     <div class="portfolio-wrap">
-                        <img src="{{ asset('assets/img/galery/pangkalan-teluk/4.jpg') }}" class="img-fluid" alt="">
+                        <img src="{{ asset('assets/img/galery/pangkalan-telok/4.jpg') }}" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <!-- <h4>App 1</h4>
                             <p>App</p> -->
                             <div class="portfolio-links">
-                                <a href="{{ asset('assets/img/galery/pangkalan-teluk/4.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
+                                <a href="{{ asset('assets/img/galery/pangkalan-telok/4.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
                                 <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-teluk">
+                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-telok">
                     <div class="portfolio-wrap">
-                        <img src="{{ asset('assets/img/galery/pangkalan-teluk/5.jpg') }}" class="img-fluid" alt="">
+                        <img src="{{ asset('assets/img/galery/pangkalan-telok/5.jpg') }}" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <!-- <h4>Web 3</h4>
                             <p>Web</p> -->
                             <div class="portfolio-links">
-                                <a href="{{ asset('assets/img/galery/pangkalan-teluk/5.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title="><i class=" bi bi-plus"></i></a>
+                                <a href="{{ asset('assets/img/galery/pangkalan-telok/5.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title="><i class=" bi bi-plus"></i></a>
                                 <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-teluk">
+                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-telok">
                     <div class="portfolio-wrap">
-                        <img src="{{ asset('assets/img/galery/pangkalan-teluk/6.jpg') }}" class="img-fluid" alt="">
+                        <img src="{{ asset('assets/img/galery/pangkalan-telok/6.jpg') }}" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <!-- <h4>App 2</h4>
                             <p>App</p> -->
                             <div class="portfolio-links">
-                                <a href="{{ asset('assets/img/galery/pangkalan-teluk/6.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
+                                <a href="{{ asset('assets/img/galery/pangkalan-telok/6.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
                                 <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-teluk">
+                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-telok">
                     <div class="portfolio-wrap">
-                        <img src="{{ asset('assets/img/galery/pangkalan-teluk/7.jpg') }}" class="img-fluid" alt="">
+                        <img src="{{ asset('assets/img/galery/pangkalan-telok/7.jpg') }}" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <!-- <h4>App 1</h4>
                             <p>App</p> -->
                             <div class="portfolio-links">
-                                <a href="{{ asset('assets/img/galery/pangkalan-teluk/7.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
+                                <a href="{{ asset('assets/img/galery/pangkalan-telok/7.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
                                 <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-teluk">
+                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-telok">
                     <div class="portfolio-wrap">
-                        <img src="{{ asset('assets/img/galery/pangkalan-teluk/8.jpg') }}" class="img-fluid" alt="">
+                        <img src="{{ asset('assets/img/galery/pangkalan-telok/8.jpg') }}" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <!-- <h4>Web 3</h4>
                             <p>Web</p> -->
                             <div class="portfolio-links">
-                                <a href="{{ asset('assets/img/galery/pangkalan-teluk/8.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title="><i class=" bi bi-plus"></i></a>
+                                <a href="{{ asset('assets/img/galery/pangkalan-telok/8.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title="><i class=" bi bi-plus"></i></a>
                                 <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-teluk">
+                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-telok">
                     <div class="portfolio-wrap">
-                        <img src="{{ asset('assets/img/galery/pangkalan-teluk/9.jpg') }}" class="img-fluid" alt="">
+                        <img src="{{ asset('assets/img/galery/pangkalan-telok/9.jpg') }}" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <!-- <h4>App 2</h4>
                             <p>App</p> -->
                             <div class="portfolio-links">
-                                <a href="{{ asset('assets/img/galery/pangkalan-teluk/9.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
+                                <a href="{{ asset('assets/img/galery/pangkalan-telok/9.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
                                 <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-teluk">
+                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-telok">
                     <div class="portfolio-wrap">
-                        <img src="{{ asset('assets/img/galery/pangkalan-teluk/10.jpg') }}" class="img-fluid" alt="">
+                        <img src="{{ asset('assets/img/galery/pangkalan-telok/10.jpg') }}" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <!-- <h4>App 1</h4>
                             <p>App</p> -->
                             <div class="portfolio-links">
-                                <a href="{{ asset('assets/img/galery/pangkalan-teluk/10.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
+                                <a href="{{ asset('assets/img/galery/pangkalan-telok/10.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
                                 <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-teluk">
+                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-telok">
                     <div class="portfolio-wrap">
-                        <img src="{{ asset('assets/img/galery/pangkalan-teluk/11.jpg') }}" class="img-fluid" alt="">
+                        <img src="{{ asset('assets/img/galery/pangkalan-telok/11.jpg') }}" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <!-- <h4>Web 3</h4>
                             <p>Web</p> -->
                             <div class="portfolio-links">
-                                <a href="{{ asset('assets/img/galery/pangkalan-teluk/11.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title="><i class=" bi bi-plus"></i></a>
+                                <a href="{{ asset('assets/img/galery/pangkalan-telok/11.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title="><i class=" bi bi-plus"></i></a>
                                 <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-teluk">
+                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-telok">
                     <div class="portfolio-wrap">
-                        <img src="{{ asset('assets/img/galery/pangkalan-teluk/12.jpg') }}" class="img-fluid" alt="">
+                        <img src="{{ asset('assets/img/galery/pangkalan-telok/12.jpg') }}" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <!-- <h4>App 2</h4>
                             <p>App</p> -->
                             <div class="portfolio-links">
-                                <a href="{{ asset('assets/img/galery/pangkalan-teluk/12.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
+                                <a href="{{ asset('assets/img/galery/pangkalan-telok/12.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
                                 <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-teluk">
+                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-telok">
                     <div class="portfolio-wrap">
-                        <img src="{{ asset('assets/img/galery/pangkalan-teluk/13.jpg') }}" class="img-fluid" alt="">
+                        <img src="{{ asset('assets/img/galery/pangkalan-telok/13.jpg') }}" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <!-- <h4>App 2</h4>
                             <p>App</p> -->
                             <div class="portfolio-links">
-                                <a href="{{ asset('assets/img/galery/pangkalan-teluk/13.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
+                                <a href="{{ asset('assets/img/galery/pangkalan-telok/13.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
                                 <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-teluk">
+                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-telok">
                     <div class="portfolio-wrap">
-                        <img src="{{ asset('assets/img/galery/pangkalan-teluk/14.jpg') }}" class="img-fluid" alt="">
+                        <img src="{{ asset('assets/img/galery/pangkalan-telok/14.jpg') }}" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <!-- <h4>App 1</h4>
                             <p>App</p> -->
                             <div class="portfolio-links">
-                                <a href="{{ asset('assets/img/galery/pangkalan-teluk/14.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
+                                <a href="{{ asset('assets/img/galery/pangkalan-telok/14.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
                                 <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-teluk">
+                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-telok">
                     <div class="portfolio-wrap">
-                        <img src="{{ asset('assets/img/galery/pangkalan-teluk/15.jpg') }}" class="img-fluid" alt="">
+                        <img src="{{ asset('assets/img/galery/pangkalan-telok/15.jpg') }}" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <!-- <h4>Web 3</h4>
                             <p>Web</p> -->
                             <div class="portfolio-links">
-                                <a href="{{ asset('assets/img/galery/pangkalan-teluk/15.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title="><i class=" bi bi-plus"></i></a>
+                                <a href="{{ asset('assets/img/galery/pangkalan-telok/15.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title="><i class=" bi bi-plus"></i></a>
                                 <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-teluk">
+                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-telok">
                     <div class="portfolio-wrap">
-                        <img src="{{ asset('assets/img/galery/pangkalan-teluk/16.jpg') }}" class="img-fluid" alt="">
+                        <img src="{{ asset('assets/img/galery/pangkalan-telok/16.jpg') }}" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <!-- <h4>App 2</h4>
                             <p>App</p> -->
                             <div class="portfolio-links">
-                                <a href="{{ asset('assets/img/galery/pangkalan-teluk/16.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
+                                <a href="{{ asset('assets/img/galery/pangkalan-telok/16.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
                                 <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-teluk">
+                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-telok">
                     <div class="portfolio-wrap">
-                        <img src="{{ asset('assets/img/galery/pangkalan-teluk/17.jpg') }}" class="img-fluid" alt="">
+                        <img src="{{ asset('assets/img/galery/pangkalan-telok/17.jpg') }}" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <!-- <h4>App 1</h4>
                             <p>App</p> -->
                             <div class="portfolio-links">
-                                <a href="{{ asset('assets/img/galery/pangkalan-teluk/17.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
+                                <a href="{{ asset('assets/img/galery/pangkalan-telok/17.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
                                 <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-teluk">
+                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-telok">
                     <div class="portfolio-wrap">
-                        <img src="{{ asset('assets/img/galery/pangkalan-teluk/18.jpg') }}" class="img-fluid" alt="">
+                        <img src="{{ asset('assets/img/galery/pangkalan-telok/18.jpg') }}" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <!-- <h4>Web 3</h4>
                             <p>Web</p> -->
                             <div class="portfolio-links">
-                                <a href="{{ asset('assets/img/galery/pangkalan-teluk/18.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title="><i class=" bi bi-plus"></i></a>
+                                <a href="{{ asset('assets/img/galery/pangkalan-telok/18.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title="><i class=" bi bi-plus"></i></a>
                                 <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-teluk">
+                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-telok">
                     <div class="portfolio-wrap">
-                        <img src="{{ asset('assets/img/galery/pangkalan-teluk/19.jpg') }}" class="img-fluid" alt="">
+                        <img src="{{ asset('assets/img/galery/pangkalan-telok/19.jpg') }}" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <!-- <h4>App 2</h4>
                             <p>App</p> -->
                             <div class="portfolio-links">
-                                <a href="{{ asset('assets/img/galery/pangkalan-teluk/19.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
+                                <a href="{{ asset('assets/img/galery/pangkalan-telok/19.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
                                 <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-teluk">
+                <div class="col-lg-4 col-md-6 portfolio-item pangkalan-telok">
                     <div class="portfolio-wrap">
-                        <img src="{{ asset('assets/img/galery/pangkalan-teluk/20.jpg') }}" class="img-fluid" alt="">
+                        <img src="{{ asset('assets/img/galery/pangkalan-telok/20.jpg') }}" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <!-- <h4>App 2</h4>
                             <p>App</p> -->
                             <div class="portfolio-links">
-                                <a href="{{ asset('assets/img/galery/pangkalan-teluk/20.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
+                                <a href="{{ asset('assets/img/galery/pangkalan-telok/20.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
                                 <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                             </div>
                         </div>
