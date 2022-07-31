@@ -316,10 +316,13 @@
                 <div class="row">
 
                     <!-- <div class="col-xl-4 text-center" data-aos="fade-right" data-aos-delay="100">
-                        <img src="assets/img/features-3.png" class="img-fluid p-4" alt="">
+                        <img src="assets/img/foto/ps-ktp/grafik1.PNG" class="img-fluid p-4" alt="">
+                    </div>
+                    <div class="col-xl-4 text-center" data-aos="fade-right" data-aos-delay="100">
+                        <img src="assets/img/foto/ps-ktp/grafik2.PNG" class="img-fluid p-4" alt="">
                     </div> -->
 
-                    <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
+                    <!-- <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
                         <img src="assets/img/foto/infografis/grafis/1.PNG" style="width: 100%;" class="img-fluid" alt="">
                     </div>
                     <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
@@ -330,6 +333,13 @@
                     </div>
                     <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
                         <img src="assets/img/foto/infografis/grafis/4.PNG" style="width: 100%;" class="img-fluid" alt="">
+                    </div> -->
+
+                    <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
+                        <img src="assets/img/foto/ps-ktp/grafik1.PNG" style="width: 100%;" class="img-fluid" alt="">
+                    </div>
+                    <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
+                        <img src="assets/img/foto/ps-ktp/grafik2.PNG" style="width: 100%;" class="img-fluid" alt="">
                     </div>
 
                 </div>
