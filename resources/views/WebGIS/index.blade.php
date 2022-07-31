@@ -24,7 +24,7 @@
         </div>
     </div>
 
-</section><!-- End Heros -->
+</section><!-- End Heross -->
 
 <main id="main">
     <!-- ======= Counts Section ======= -->
