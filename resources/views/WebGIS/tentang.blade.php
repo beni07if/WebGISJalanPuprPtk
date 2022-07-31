@@ -309,7 +309,7 @@
             </header> -->
             <!-- / row -->
 
-            <!-- Hutan Dessass -->
+            <!-- Hutan DeSssass -->
             <div class="row feature-icons" data-aos="fade-up">
                 <h3>Infografis PS Ketapang</h3>
 
@@ -320,16 +320,16 @@
                     </div> -->
 
                     <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
-                        <img src="assets/img/foto/infografis/grafis/1.png" style="width: 100%;" class="img-fluid" alt="">
+                        <img src="assets/img/foto/infografis/grafis/1.PNG" style="width: 100%;" class="img-fluid" alt="">
                     </div>
                     <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
-                        <img src="assets/img/foto/infografis/grafis/2.png" style="width: 100%;" class="img-fluid" alt="">
+                        <img src="assets/img/foto/infografis/grafis/2.PNG" style="width: 100%;" class="img-fluid" alt="">
                     </div>
                     <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
-                        <img src="assets/img/foto/infografis/grafis/3.png" style="width: 100%;" class="img-fluid" alt="">
+                        <img src="assets/img/foto/infografis/grafis/3.PNG" style="width: 100%;" class="img-fluid" alt="">
                     </div>
                     <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
-                        <img src="assets/img/foto/infografis/grafis/4.png" style="width: 100%;" class="img-fluid" alt="">
+                        <img src="assets/img/foto/infografis/grafis/4.PNG" style="width: 100%;" class="img-fluid" alt="">
                     </div>
 
                 </div>
