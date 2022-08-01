@@ -39,10 +39,10 @@
                 <source src="assets/img/video/sicomel.mp4" type="video/mp4" />
             </video> -->
 
-            <!-- <video controls>
+            <video controls>
                 <source src="assets/img/video/sicomel.mp4" type="video/mp4" />
                 Browsermu tidak mendukung tag ini, upgrade donk!
-            </video> -->
+            </video>
 
         </div>
     </section>

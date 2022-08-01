@@ -31,7 +31,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up">
                                 <!-- <i class="ri-line-chart-line"></i> -->
                                 <div>
-                                    <h4><a href="https://drive.google.com/drive/folders/1j8kf_IVm3nOLtB_xkZTDFGc93zU78WjI?usp=sharing" target="_blank">Hutan Desa Rimak Koling Raya</a> </h4>
+                                    <h4><a href="https://drive.google.com/file/d/1F2E37CmWvc5qooiAStk8QeRMAQodTiZR/view?usp=sharing" target="_blank">Hutan Desa Rimak Koling Raya</a> </h4>
                                     <p>Nomor SK: 6233/MenLHK-PSKL/PKPS/PSL.0/9/2018</p>
                                 </div>
                             </div>
@@ -39,7 +39,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="100">
                                 <!-- <i class="ri-stack-line"></i> -->
                                 <div>
-                                    <h4><a href="https://drive.google.com/drive/folders/1KaK0e8J06hpKNMrC38VQxmODBa-ef3hI?usp=sharing" target="_blank">Hutan Desa Pangkalan Telok</a></h4>
+                                    <h4><a href="https://drive.google.com/file/d/1rAWwq5UrFyeVEEUZuJoW_4_l2KPtlH9K/view?usp=sharing" target="_blank">Hutan Desa Pangkalan Telok</a></h4>
                                     <p>Nomor SK: 3802/MenLHK-PSKL/PKPS/PSL.0/4/2019</p>
                                 </div>
                             </div>
@@ -47,7 +47,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="200">
                                 <!-- <i class="ri-brush-4-line"></i> -->
                                 <div>
-                                    <h4><a href="https://drive.google.com/drive/folders/1G5UWTaCsiAi9Br72_Qc1EWpit1Lif__t?usp=sharing" target="_blank">Hutan Desa Lemmanis</a></h4>
+                                    <h4><a href="https://drive.google.com/file/d/1gMMhCpr3-xgJB1vUibGQkVftqNQ7-qmf/view?usp=sharing" target="_blank">Hutan Desa Lemmanis</a></h4>
                                     <p>Nomor SK: 1538/MenLHK-PSKL/PKPS/PSL.0/3/2021</p>
                                 </div>
                             </div>
@@ -55,7 +55,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="300">
                                 <!-- <i class="ri-magic-line"></i> -->
                                 <div>
-                                    <h4><a href="https://drive.google.com/drive/folders/12LngVzI35i7tYgFpz4_goVp-yuN1egHQ?usp=sharing" target="_blank">Hutan Desa Bukit Layang</a></h4>
+                                    <h4><a href="https://drive.google.com/file/d/1LqYlmePnjQN_BtYhG1-UmRlfnYQibNLs/view?usp=sharing" target="_blank">Hutan Desa Bukit Layang</a></h4>
                                     <p>Nomor SK: 6682/MenLHK-PSKL/PKPS/PSL.0/13/2017</p>
                                 </div>
                             </div>
@@ -63,7 +63,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="400">
                                 <!-- <i class="ri-command-line"></i> -->
                                 <div>
-                                    <h4><a href="https://drive.google.com/drive/folders/1VucteZmG3Z_khpSOVx2oedaq8redmMqq?usp=sharing" target="_blank">Hutan Desa Cuhai</a></h4>
+                                    <h4><a href="https://drive.google.com/file/d/1HgQOGNUbGPi4tUAWPE7dl9Nh07UIt50g/view?usp=sharing" target="_blank">Hutan Desa Cuhai</a></h4>
                                     <p>Nomor SK: 6572/MenLHK-PSKL/PKPS/PSL.0/12/2017</p>
                                 </div>
                             </div>
@@ -71,7 +71,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="500">
                                 <!-- <i class="ri-radar-line"></i> -->
                                 <div>
-                                    <h4><a href="https://drive.google.com/drive/folders/1KiWysPRcedXC4Oy147tUCjC21XoJLNG9?usp=sharing" target="_blank">Hutan Desa Batu Batoah</a></h4>
+                                    <h4><a href="https://drive.google.com/file/d/1ZE1d321_i6Z_zBCYRq_y097Tk6CnrfkM/view?usp=sharing" target="_blank">Hutan Desa Batu Batoah</a></h4>
                                     <p>Nomor SK: 6704/MenLHK-PSKL/PKPS/PSL.0/7/2017</p>
                                 </div>
                             </div>
@@ -79,7 +79,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up">
                                 <!-- <i class="ri-line-chart-line"></i> -->
                                 <div>
-                                    <h4><a href="https://drive.google.com/drive/folders/1J50AeB_m25VlyKToNY1VjEukkmRYPFaZ?usp=sharing" target="_blank">Hutan Desa Belaban Rayak</a></h4>
+                                    <h4><a href="https://drive.google.com/file/d/1l4jvAofSaPWWHCp4HmVHce7eCV02eo71/view?usp=sharing" target="_blank">Hutan Desa Belaban Rayak</a></h4>
                                     <p>Nomor SK: 4670/MenLHK-PSKL/PKPS/PSL.0/7/2018</p>
                                 </div>
                             </div>
@@ -87,7 +87,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="100">
                                 <!-- <i class="ri-stack-line"></i> -->
                                 <div>
-                                    <h4><a href="https://drive.google.com/drive/folders/1ArsEIXmQ4TRi6zwvYuKnfciIITPFxW-b?usp=sharing" target="_blank">Hutan Kemasyarakatan Gapoktan Sumber Karya</a></h4>
+                                    <h4><a href="https://drive.google.com/file/d/1tmoJGVL8AIZ-sZ1AwE7vKdWtg_er17_Q/view?usp=sharing" target="_blank">Hutan Kemasyarakatan Gapoktan Sumber Karya</a></h4>
                                     <p>Nomor SK: 1652/MenLHK-PSKL/PKPS/PSL.0/3/2019</p>
                                 </div>
                             </div>
@@ -95,7 +95,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="200">
                                 <!-- <i class="ri-brush-4-line"></i> -->
                                 <div>
-                                    <h4><a href="https://drive.google.com/drive/folders/12oaVt-wccEaso1eMry15OE3Jczlknz3U?usp=sharing" target="_blank">Hutan Desa Danau Paluh Lestari</a></h4>
+                                    <h4><a href="https://drive.google.com/file/d/1ImsJR88f40gZTu2sUU37aJR_-M4BrOoi/view?usp=sharing" target="_blank">Hutan Desa Danau Paluh Lestari</a></h4>
                                     <p>Nomor SK: 1540/MenLHK-PSKL/PKPS/PSL.0/3/2021</p>
                                 </div>
                             </div>
@@ -103,7 +103,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="300">
                                 <!-- <i class="ri-magic-line"></i> -->
                                 <div>
-                                    <h4><a href="https://drive.google.com/drive/folders/12wqLEB7Sz_sYRkAkPQWPvbH5JgP_rVwC?usp=sharing" target="_blank">Hutan Kemasyarakatan Serba Usaha Bersama</a></h4>
+                                    <h4><a href="https://drive.google.com/file/d/1-nXptMB7cYL5OpM3PXA570EgmSyLiSnz/view?usp=sharing" target="_blank">Hutan Kemasyarakatan Serba Usaha Bersama</a></h4>
                                     <p>Nomor SK: 5864/MenLHK-PSKL/PKPS/PSL.0/10/2017</p>
                                 </div>
                             </div>
@@ -111,7 +111,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="400">
                                 <!-- <i class="ri-command-line"></i> -->
                                 <div>
-                                    <h4><a href="https://drive.google.com/drive/folders/1qOA4bZfP8CObprDMsI4FNrtGC6fYsnhm?usp=sharing" target="_blank">Hutan Desa Sunan Bersatu</a></h4>
+                                    <h4><a href="https://drive.google.com/file/d/1c5nvmiuqFCEhI7KmFopkjYByE-3BRsBS/view?usp=sharing" target="_blank">Hutan Desa Sunan Bersatu</a></h4>
                                     <p>Nomor SK: 1030/MenLHK-PSKL/PKPS/PSL.0/3/2021</p>
                                 </div>
                             </div>
@@ -119,7 +119,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="500">
                                 <!-- <i class="ri-radar-line"></i> -->
                                 <div>
-                                    <h4><a href="https://drive.google.com/drive/folders/1Jqhi6Yve1avPqBCoZkfxshJo6I-gw5Zw?usp=sharing" target="_blank">Hutan Desa Pematang Gadung</a></h4>
+                                    <h4><a href="https://drive.google.com/file/d/1KcWvPphzN3HdIf25rVuFWTI38qdnXJCJ/view?usp=sharing" target="_blank">Hutan Desa Pematang Gadung</a></h4>
                                     <p>Nomor SK: 896/MenLHK-PSKL/PKPS/PSL.0/3/2021</p>
                                 </div>
                             </div>
@@ -127,7 +127,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up">
                                 <!-- <i class="ri-line-chart-line"></i> -->
                                 <div>
-                                    <h4><a href="https://drive.google.com/drive/folders/1cJvJ3PFmaLparMiI5Hzluwfh4RxNYDA2?usp=sharing" target="_blank">Hutan Desa Rawa Gambut</a></h4>
+                                    <h4><a href="https://drive.google.com/file/d/1YA5a6YbOiYhY7maefUJTEsZx3KRuYLQS/view?usp=sharing" target="_blank">Hutan Desa Rawa Gambut</a></h4>
                                     <p>Nomor SK: 5883/MenLHK-PSKL/PKPS/PSL.0/10/2017</p>
                                 </div>
                             </div>
@@ -135,7 +135,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="100">
                                 <!-- <i class="ri-stack-line"></i> -->
                                 <div>
-                                    <h4><a href="https://drive.google.com/drive/folders/1FYbRV76Op4F0A-4_Xm3lQCLXh0CfAl8b?usp=sharing" target="_blank">Hutan Desa Wana Gambut</a></h4>
+                                    <h4><a href="https://drive.google.com/file/d/11KVTEy3YWmw8S8bIay_D7x8BqkFYhRlk/view?usp=sharing" target="_blank">Hutan Desa Wana Gambut</a></h4>
                                     <p>Nomor SK: 6688/MenLHK-PSKL/PKPS/PSL.0/12/2017</p>
                                 </div>
                             </div>
@@ -143,7 +143,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="200">
                                 <!-- <i class="ri-brush-4-line"></i> -->
                                 <div>
-                                    <h4><a href="https://drive.google.com/drive/folders/1TS_aRHR38DMhM-_HQJrFAFVLmWfro42k?usp=sharing" target="_blank">Hutan Desa Rimbak Sangiang</a></h4>
+                                    <h4><a href="https://drive.google.com/file/d/1pfeizUxHcfB_qDH-pDSvlqzIZ7Xq7eOc/view?usp=sharing" target="_blank">Hutan Desa Rimbak Sangiang</a></h4>
                                     <p>Nomor SK: 1539/MenLHK-PSKL/PKPS/PSL.0/3/2021</p>
                                 </div>
                             </div>
@@ -151,7 +151,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="300">
                                 <!-- <i class="ri-magic-line"></i> -->
                                 <div>
-                                    <h4><a href="https://drive.google.com/drive/folders/18lQ4VOnbfVGGe3wMYakbhMVDKYAeY0DE?usp=sharing" target="_blank">Hutan Desa Sembelangaan</a></h4>
+                                    <h4><a href="https://drive.google.com/file/d/1aqhs8CEjs2_7B_xyFFbGmi1fne3eIUZn/view?usp=sharing" target="_blank">Hutan Desa Sembelangaan</a></h4>
                                     <p>Nomor SK: 5973/MenLHK-PSKL/PKPS/PSL.0/12/2017</p>
                                 </div>
                             </div>
@@ -159,7 +159,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="400">
                                 <!-- <i class="ri-command-line"></i> -->
                                 <div>
-                                    <h4><a href="https://drive.google.com/drive/folders/1Gf16L78YDIdXSG0JZ2Bxq8TdHW6RgQTw?usp=sharing" target="_blank">Hutan Desa Manjau</a></h4>
+                                    <h4><a href="https://drive.google.com/file/d/1GHM3nlyOKIY44R6O3sr1i_1AaLr_pwXn/view?usp=sharing" target="_blank">Hutan Desa Manjau</a></h4>
                                     <p>Nomor SK: 6573/MenLHK-PSKL/PKPS/PSL.0/3/2021</p>
                                 </div>
                             </div>
@@ -167,7 +167,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="500">
                                 <!-- <i class="ri-radar-line"></i> -->
                                 <div>
-                                    <h4><a href="https://drive.google.com/drive/folders/1bFdL4LPTVp2SaczqtNVveuBIERBqdZuD?usp=sharing" target="_blank">Hutan Desa Bukit Banjar</a></h4>
+                                    <h4><a href="https://drive.google.com/file/d/1tTSjpMGiIHlbWzlxw2Z2zg_XFQJDqMnO/view?usp=sharing" target="_blank">Hutan Desa Bukit Banjar</a></h4>
                                     <p>Nomor SK: 6188/MenLHK-PSKL/PKPS/PSL.0/9/2018</p>
                                 </div>
                             </div>
@@ -175,7 +175,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="400">
                                 <!-- <i class="ri-command-line"></i> -->
                                 <div>
-                                    <h4><a href="https://drive.google.com/drive/folders/1gn_im5hsytAmJmbuVxUhQMFKpFGwSrwI?usp=sharing" target="_blank">Hutan Desa Mio Lestari</a></h4>
+                                    <h4><a href="https://drive.google.com/file/d/16ZOCtaXUJuegTERkNtTydgM80QGyUDJ3/view?usp=sharing" target="_blank">Hutan Desa Mio Lestari</a></h4>
                                     <p>Nomor SK: 1027/MenLHK-PSKL/PKPS/PSL.0/3/2021</p>
                                 </div>
                             </div>
@@ -183,7 +183,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="500">
                                 <!-- <i class="ri-radar-line"></i> -->
                                 <div>
-                                    <h4><a href="https://drive.google.com/drive/folders/1YcO4wekHukYKnZ6CmnEG88K_ubY74r7t?usp=sharing" target="_blank">Hutan Desa Tanoeh Menjuakng</a></h4>
+                                    <h4><a href="https://drive.google.com/file/d/1BCWUFl-Rz1s8B4MJo3j8mPY8u7vwmKFr/view?usp=sharing" target="_blank">Hutan Desa Tanoeh Menjuakng</a></h4>
                                     <p>Nomor SK: 5913/MenLHK-PSKL/PKPS/PSL.0/9/2018</p>
                                 </div>
                             </div>
