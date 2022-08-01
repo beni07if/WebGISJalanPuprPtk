@@ -13,13 +13,13 @@
 </head>
 
 <body>
-    <!-- ======= Headessrs ======= -->
+    <!-- ======= Headessrss ======= -->
     <header id="header" class="header fixed-top">
         <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
             <a href="{{ route('index') }}" class="logo d-flex align-items-center">
-                <img src="assets/img/foto/infografis-psktp/logo-webgis.png" alt="">
-                <!-- <span>WebGIS PS Ketapang</span> -->
+                <!-- <img src="assets/img/foto/infografis-psktp/logo-webgis.png" alt=""> -->
+                <span>WebGIS PS Ketapang</span>
             </a>
 
             <nav id="navbar" class="navbar">
