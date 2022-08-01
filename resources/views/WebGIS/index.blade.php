@@ -27,7 +27,7 @@
 </section><!-- End Hersosss -->
 
 <main id="main">
-    <!-- ======= Video section ======= -->
+    <!-- ======= Video ssection ======= -->
     <section id="counts" class="counts">
         <div class="container" data-aos="fade-up">
             <header class="section-header">
@@ -39,10 +39,10 @@
                 <source src="assets/img/video/sicomel.mp4" type="video/mp4" />
             </video> -->
 
-            <video controls>
+            <!-- <video controls>
                 <source src="assets/img/video/sicomel.mp4" type="video/mp4" />
                 Browsermu tidak mendukung tag ini, upgrade donk!
-            </video>
+            </video> -->
 
         </div>
     </section>
