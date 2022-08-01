@@ -19,12 +19,12 @@
                 </div>
             </div>
             <div class="col-lg-6 hero-img" data-aos="zoom-out" data-aos-delay="200">
-                <img src="assets/img/foto/ps-ktp/peta-ina.JPG" class="img-fluid" alt="">
+                <img src="assets/img/foto/ps-ktp/peta-ina.jpg" class="img-fluid" alt="">
             </div>
         </div>
     </div>
 
-</section><!-- End Hersoss -->
+</section><!-- End Hersosss -->
 
 <main id="main">
     <!-- ======= Counts Section ======= -->
