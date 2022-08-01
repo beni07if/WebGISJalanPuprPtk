@@ -322,25 +322,25 @@
                         <img src="assets/img/foto/ps-ktp/grafik2.PNG" class="img-fluid p-4" alt="">
                     </div> -->
 
-                    <!-- <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
-                        <img src="assets/img/foto/infografis/grafis/1.PNG" style="width: 100%;" class="img-fluid" alt="">
+                    <div class="col-lg-6 d-flex align-items-center" style="padding-top: 20px;" data-aos="zoom-out" data-aos-delay="200">
+                        <img src="assets/img/infografis/1.png" style="width: 100%;" class="img-fluid" alt="">
                     </div>
-                    <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
-                        <img src="assets/img/foto/infografis/grafis/2.PNG" style="width: 100%;" class="img-fluid" alt="">
+                    <div class="col-lg-6 d-flex align-items-center" style="padding-top: 20px;" data-aos="zoom-out" data-aos-delay="200">
+                        <img src="assets/img/infografis/2.png" style="width: 100%;" class="img-fluid" alt="">
                     </div>
-                    <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
-                        <img src="assets/img/foto/infografis/grafis/3.PNG" style="width: 100%;" class="img-fluid" alt="">
+                    <div class="col-lg-6 d-flex align-items-center" style="padding-top: 20px;" data-aos="zoom-out" data-aos-delay="200">
+                        <img src="assets/img/infografis/3.png" style="width: 100%;" class="img-fluid" alt="">
                     </div>
-                    <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
-                        <img src="assets/img/foto/infografis/grafis/4.PNG" style="width: 100%;" class="img-fluid" alt="">
-                    </div> -->
+                    <div class="col-lg-6 d-flex align-items-center" style="padding-top: 20px;" data-aos="zoom-out" data-aos-delay="200">
+                        <img src="assets/img/infografis/4.png" style="width: 100%;" class="img-fluid" alt="">
+                    </div>
 
-                    <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
+                    <!-- <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
                         <img src="assets/img/foto/ps-ktp/grafik1.png" style="width: 100%;" class="img-fluid" alt="">
                     </div>
                     <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
                         <img src="assets/img/foto/ps-ktp/grafik2.png" style="width: 100%;" class="img-fluid" alt="">
-                    </div>
+                    </div> -->
 
                 </div>
                 <img style="text-align: justify;" src="assets/img/logo/logo-mitra/mitra.png" style="width: 60%;" alt="">
