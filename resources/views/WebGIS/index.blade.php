@@ -11,16 +11,25 @@
                 <h2 data-aos="fade-up" data-aos-delay="400">Website penyedia persebaran Perhutanan Sosial (HD dan HKm) di Kabupaten Ketapang..</h2>
                 <div data-aos="fade-up" data-aos-delay="600">
                     <div class="text-center text-lg-start">
-                        <a href="{{ route('peta2') }}" class="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center">
+                        <!-- <a href="{{ route('peta2') }}" class="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center">
                             <span>Jelajah Peta</span>
                             <i class="bi bi-arrow-right"></i>
-                        </a>
+                        </a> -->
+                        <a href="assets/img/video/video-psktp.mp4" target="_blank" class="glightbox btn-watch-video btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center"><i class="bi bi-play-circle"></i><span>Video Singkat PS Ketapang</span></a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-6 hero-img" data-aos="zoom-out" data-aos-delay="200">
                 <img src="assets/img/foto/ps-ktp/peta-indonesia-update.png" class="img-fluid" alt="">
             </div>
+            <!-- <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
+                <h1>Better Solutions For Your Business</h1>
+                <h2>We are team of talented designers making websites with Bootstrap</h2>
+                <div class="d-flex justify-content-center justify-content-lg-start">
+                    <a href="#about" class="btn-get-started scrollto">Get Started</a>
+                    <a href="assets/img/video/video-psktp.mp4" target="_blank" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
+                </div>
+            </div> -->
         </div>
     </div>
 
@@ -40,7 +49,7 @@
             </video> -->
 
             <!-- <video controls>
-                <source src="assets/img/video/sicomel.mp4" type="video/mp4" />
+                <source src="assets/img/video/video-psktp.mp4" type="video/mp4" />
                 Browsermu tidak mendukung tag ini, upgrade donk!
             </video> -->
 
