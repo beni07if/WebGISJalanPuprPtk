@@ -641,7 +641,7 @@
 
     <img src="{{ asset('public/assets/img/foto/ps-ktp/indonesian-map.png')}}" class="img-fluid" alt="">
 
-    <!-- ======= Recent Blog Posts Section ======= -->
+    <!-- ======= Recent Bslog Posts Section ======= -->
     <!-- <section id="recent-blog-posts" class="recent-blog-posts">
 
         <div class="container" data-aos="fade-up">
