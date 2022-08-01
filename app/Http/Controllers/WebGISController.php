@@ -109,6 +109,10 @@ class WebGISController extends Controller
     {
         return view('WebGIS.tentang');
     }
+    public function SkPs()
+    {
+        return view('WebGIS.skps');
+    }
     public function galery()
     {
         return view('WebGIS.galery');
