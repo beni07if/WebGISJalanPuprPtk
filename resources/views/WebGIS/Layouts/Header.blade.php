@@ -3,8 +3,8 @@
         <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
             <a href="{{ route('index') }}" class="logo d-flex align-items-center">
-                <!-- <img src="{{ asset('assets/img/logo/logo-webgis.png') }}" alt=""> -->
-                <span>WebGIS PS Ketapang</span>
+                <img src="assets/img/logo/logo-lima-jari.png" alt="">
+                <!-- <span>WebGIS PS Ketapang</span> -->
             </a>
 
             <nav id="navbar" class="navbar">
