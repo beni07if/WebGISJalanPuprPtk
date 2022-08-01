@@ -639,6 +639,8 @@
     </section>
     <!-- End Clients Section -->
 
+    <img src="assets/img/foto/ps-ktp/indonesian-map.png" class="img-fluid" alt="">
+
     <!-- ======= Recent Blog Posts Section ======= -->
     <!-- <section id="recent-blog-posts" class="recent-blog-posts">
 
