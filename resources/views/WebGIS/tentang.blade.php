@@ -256,7 +256,7 @@
 
                 </div>
 
-            </div><!-- End Hutan Desa -->
+            </div><!-- End Hutan Dsesa -->
 
             <!-- Hutan Kemasyarakatan -->
             <!-- <div class="row feature-icons" data-aos="fade-up">
