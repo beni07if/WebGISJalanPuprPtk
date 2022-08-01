@@ -301,20 +301,20 @@
                                 Tanaman Rakyat (HTR/IPHPS), Hutan Adat (HA), dan Kemitraan Kehutanan.</p>
                             <div class="d-flex align-items-center mb-2">
                                 <i class="bi bi-check2"></i>
-                                <h4><a href="http://pkps.menlhk.go.id/assets/file/literatur/20211111120943-literatur-buku-saku-fasilitasi-permohonan-hutan-desa.pdf" target="_blank">Hutan Desa (HD)</a> </h4>
+                                <h4><a href="https://drive.google.com/file/d/1qno5GkZgBmKIKiHnZfBLRDqmd8Nu_Fw_/view?usp=sharing" target="_blank">Hutan Desa (HD)</a> </h4>
                             </div>
                             <p style="text-align: justify;">Hutan Desa (HD) adalah hutan negara yang dalam pengelolaannya dilakukan oleh
                                 lembaga desa dengan tujuan untuk menyejahterakan suatu desa.</p>
                             <div class="d-flex align-items-center mb-2">
                                 <i class="bi bi-check2"></i>
-                                <h4><a href="http://103.52.213.182/assets/file/literatur/20211111122345-literatur-buku-saku-verifikasi-teknis-hutan-kemasyarakatan.pdf" target="_blank">Hutan Kemasyarakatan (HKm)</a> </h4>
+                                <h4><a href="https://drive.google.com/file/d/1OUgdB72ngEaoK_8GukW9tnbMMqaKLeJV/view?usp=sharing" target="_blank">Hutan Kemasyarakatan (HKm)</a> </h4>
                             </div>
                             <p style="text-align: justify;">Hutan Kemasyarakatan (HKm) adalah hutan negara yang mana pengelolaannya dilakukan
                                 oleh masyarakat dengan tujuan untuk memberdayakan masyarakat sekitar agar tercipta
                                 kesejahteraan.</p>
                             <div class="d-flex align-items-center mb-2">
                                 <i class="bi bi-check2"></i>
-                                <h4><a href="http://pkps.menlhk.go.id/assets/file/literatur/20211111121358-literatur-buku-saku-fasilitasi-permohonan-hutan-tanaman-rakyat.pdf" target="_blank">Hutan Tanaman Rakyat (HTR)</a> </h4>
+                                <h4><a href="https://drive.google.com/file/d/10vyQldgXMVw5u051gVFn3xQDcixjBlVM/view?usp=sharing" target="_blank">Hutan Tanaman Rakyat (HTR)</a> </h4>
                             </div>
                             <p style="text-align: justify;">Hutan Tanaman Rakyat (HTR) adalah hutan tanaman pada hutan produksi yang dibangun
                                 oleh kelompok masyarakat untuk meningkatkan potensi dan kualitas hutan produksi dengan
