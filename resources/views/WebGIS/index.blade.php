@@ -639,7 +639,6 @@
     </section>
     <!-- End Clients Section -->
 
-    <img src="{{ asset('public/assets/img/foto/ps-ktp/indonesian-map.png')}}" class="img-fluid" alt="">
 
     <!-- ======= Recent Bsldog Posts Section ======= -->
     <!-- <section id="recent-blog-posts" class="recent-blog-posts">

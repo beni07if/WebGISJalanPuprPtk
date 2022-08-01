@@ -343,7 +343,7 @@
                     </div> -->
 
                 </div>
-                <img style="text-align: justify;" src="assets/img/logo/logo-mitra/mitra.png" style="width: 60%;" alt="">
+                <img style="text-align: justify;" src="assets/img/infografis/mitra.png" style="width: 60%;" alt="">
 
             </div><!-- End Hutan Desas -->
         </div>
