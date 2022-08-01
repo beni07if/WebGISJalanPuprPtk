@@ -27,7 +27,27 @@
 </section><!-- End Hersosss -->
 
 <main id="main">
-    <!-- ======= Counts Section ======= -->
+    <!-- ======= Video section ======= -->
+    <section id="counts" class="counts">
+        <div class="container" data-aos="fade-up">
+            <header class="section-header">
+                <!-- <h2>Contact</h2> -->
+                <!-- <p>Video Singkat PS Ketapang</p> -->
+            </header>
+
+            <!-- <video autoplay loop muted playsinline>
+                <source src="assets/img/video/sicomel.mp4" type="video/mp4" />
+            </video> -->
+
+            <!-- <video controls>
+                <source src="assets/img/video/sicomel.mp4" type="video/mp4" />
+                Browsermu tidak mendukung tag ini, upgrade donk!
+            </video> -->
+
+        </div>
+    </section>
+    <!-- End Video section -->
+
     <section id="counts" class="counts">
         <div class="container" data-aos="fade-up">
             <header class="section-header">
