@@ -15,7 +15,7 @@
                             <span>Jelajah Peta</span>
                             <i class="bi bi-arrow-right"></i>
                         </a> -->
-                        <a href="assets/img/video/video-psktp.mp4" target="_blank" class="glightbox btn-watch-video btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center"><i class="bi bi-play-circle"></i><span>Video Singkat PS Ketapang</span></a>
+                        <a href="repositories/WebGISPSKetapang/public/assets/img/video/video-psktp.mp4" target="_blank" class="glightbox btn-watch-video btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center"><i class="bi bi-play-circle"></i><span>Video Singkat PS Ketapang</span></a>
                     </div>
                 </div>
             </div>
