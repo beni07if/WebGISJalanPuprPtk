@@ -17,6 +17,8 @@
                         <li data-filter=".pangkalan-telok">Pangkalan Telok</li>
                         <li data-filter=".satong">Laman Satong</li>
                         <li data-filter=".pelang"> Pelang</li>
+                        <li data-filter=".sembelangaan">Sembelangaan</li>
+                        <li data-filter=".tanjung-medan">Tanjung Medan</li>
                     </ul>
                 </div>
             </div>
@@ -1062,6 +1064,50 @@
                     </div>
                 </div>
                 <!--  pelang end  -->
+
+                <!-- sembelangaan  -->
+                <div class="col-lg-4 col-md-6 portfolio-item sembelangaan">
+                    <div class="portfolio-wrap">
+                        <img src="{{ asset('assets/img/galery/sembelangaan/1.png') }}" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <!-- <h4>App 2</h4>
+                            <p>App</p> -->
+                            <div class="portfolio-links">
+                                <a href="{{ asset('assets/img/galery/sembelangaan/1.png') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
+                                <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-item sembelangaan">
+                    <div class="portfolio-wrap">
+                        <img src="{{ asset('assets/img/galery/sembelangaan/2.png') }}" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <!-- <h4>App 2</h4>
+                            <p>App</p> -->
+                            <div class="portfolio-links">
+                                <a href="{{ asset('assets/img/galery/sembelangaan/2.png') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
+                                <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end sembelangaan  -->
+                <!-- tanjung medan  -->
+                <div class="col-lg-4 col-md-6 portfolio-item tanjung-medan">
+                    <div class="portfolio-wrap">
+                        <img src="{{ asset('assets/img/galery/tanjung-medan/1.png') }}" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <!-- <h4>App 2</h4>
+                            <p>App</p> -->
+                            <div class="portfolio-links">
+                                <a href="{{ asset('assets/img/galery/tanjung-medan/1.png') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
+                                <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end tanjung medan  -->
 
             </div>
 
