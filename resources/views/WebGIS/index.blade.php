@@ -1,7 +1,7 @@
 @extends('WebGIS.Layouts.App')
 
 @section('Content')
-<!-- ======= Hero SectisonSss ======= -->
+<!-- ======= Hero SectisonSssd ======= -->
 <section id="hero" class="hero d-flex align-items-center">
 
     <div class="container">
