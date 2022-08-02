@@ -222,7 +222,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="400">
                                 <!-- <i class="ri-command-line"></i> -->
                                 <div>
-                                    <h4><a href="https://drive.google.com/file/d/1GHM3nlyOKIY44R6O3sr1i_1AaLr_pwXn/view?usp=sharing" target="_blank">Hutan Desa Manjau</a></h4>
+                                    <h4><a href="https://drive.google.com/file/d/1UKyE5NYoYvefMAvlNEMdQQfWK0OHRyaE/view?usp=sharing" target="_blank">Hutan Desa Manjau</a></h4>
                                     <p>Nomor SK: 6573/MenLHK-PSKL/PKPS/PSL.0/3/2021</p>
                                 </div>
                             </div>
