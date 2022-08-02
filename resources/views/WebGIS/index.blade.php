@@ -311,12 +311,12 @@
                                             </a>
                                         </div>
                                     </div>
-                                    <h4 style="padding-top: 50px;">Policy Breaf</h4>
+                                    <h4 style="padding-top: 50px;">Policy Brief</h4>
                                     <div class="col-md-6" data-aos="zoom-out" data-aos-delay="300">
                                         <div class="feature-box d-flex align-items-center">
                                             <i class="bi bi-check"></i>
                                             <a href="https://drive.google.com/file/d/1910ShsJZ7MzndhRweBFmThgGrGp6hIKv/view?usp=sharing" target="_blank">
-                                                <h4>Final Policy Paper Nov 2021</h4>
+                                                <h4>Peningkatan Ekonomi Masyarakat Melalui Regulasi Pengelolaan Komoditas</h4>
                                             </a>
                                         </div>
                                     </div>
