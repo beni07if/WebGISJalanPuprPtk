@@ -134,7 +134,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="500">
                                 <!-- <i class="ri-radar-line"></i> -->
                                 <div>
-                                    <h4><a href="https://drive.google.com/file/d/1ZE1d321_i6Z_zBCYRq_y097Tk6CnrfkM/view?usp=sharing" target="_blank">Hutan Desa Batu Batoah</a></h4>
+                                    <h4><a href="https://drive.google.com/file/d/1ZE1d321_i6Z_zBCYRq_y097Tk6CnrfkM/view?usp=sharing" target="_blank">Hutan Desa Batu Bolah</a></h4>
                                     <p>Nomor SK: 6704/MenLHK-PSKL/PKPS/PSL.0/7/2017</p>
                                 </div>
                             </div>
