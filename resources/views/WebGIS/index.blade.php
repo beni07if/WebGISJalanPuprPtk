@@ -20,7 +20,7 @@
                 </div>
             </div>
             <div class="col-lg-6 hero-img" data-aos="zoom-out" data-aos-delay="200">
-                <img src="assets/img/foto/ps-ktp/peta-indonesia-update3.png" class="img-fluid" alt="">
+                <img src="assets/img/foto/ps-ktp/peta-indonesia-update2.png" class="img-fluid" alt="">
             </div>
             <!-- <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
                 <h1>Better Solutions For Your Business</h1>
@@ -351,7 +351,7 @@
                             </p>
                             <div class="d-flex align-items-center mb-2">
                                 <i class="bi bi-check2"></i>
-                                <h4><a href="https://www.cifor.org/publications/pdf_files/Books/BFirdaus1801.pdf" target="_blank">Hutan Adat (HA)</a> </h4>
+                                <h4><a href="https://drive.google.com/file/d/1mhrymEfs-yPwk2bxiDGRAoENnNkPfnt_/view?usp=sharing" target="_blank">Hutan Adat (HA)</a> </h4>
                             </div>
                             <p style="text-align: justify;">Hutan adat adalah hutan yang dimiliki oleh masyarakat adat yang sebelumnya merupakan
                                 hutan negara ataupun bukan hutan negara
