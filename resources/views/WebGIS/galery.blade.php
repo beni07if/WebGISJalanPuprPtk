@@ -24,27 +24,27 @@
                             <div class="info-box">
                                 <i class="bi bi-geo-alt"></i>
                                 <h3>Alamat</h3>
-                                <p>Jalan .. No. .. ,<br>Ketapang, Indonesia</p>
+                                <p>UPT. KPH Wilayah Ketapang Utara<br>Jl. Letkol M. Thohir No 11 A Ketapang</p>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="info-box">
                                 <i class="bi bi-telephone"></i>
                                 <h3>Telephone</h3>
-                                <p>+1 5589 55488 55<br>+1 6678 254445 41</p>
+                                <p>+62 821-3855-1555 (Abdul Karim)</p>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="info-box">
                                 <i class="bi bi-envelope"></i>
                                 <h3>Email</h3>
-                                <p>info@webgis-psketapang.co.id</p>
+                                <p>limabelassamarinda@gmail.com</p>
                             </div>
                         </div>
                         <!-- <div class="col-md-6">
                             <div class="info-box">
                                 <i class="bi bi-clock"></i>
-                                <h3>Open Hourssss</h3>
+                                <h3>Open Hourss</h3>
                                 <p>Monday - Friday<br>9:00AM - 05:00PM</p>
                             </div>
                         </div> -->
