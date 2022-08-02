@@ -357,6 +357,19 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-lg-4 col-md-6 portfolio-item benua-krio">
+                    <div class="portfolio-wrap">
+                        <img src="{{ asset('assets/img/galery/benua-krio/13.jpg') }}" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <!-- <h4>App 2</h4>
+                            <p>App</p> -->
+                            <div class="portfolio-links">
+                                <a href="{{ asset('assets/img/galery/benua-krio/13.jpg') }}" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
+                                <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <!-- benua krio end  -->
 
 
