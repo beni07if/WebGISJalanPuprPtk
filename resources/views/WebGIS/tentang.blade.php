@@ -118,7 +118,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="300">
                                 <!-- <i class="ri-magic-line"></i> -->
                                 <div>
-                                    <h4><a href="https://drive.google.com/file/d/1LqYlmePnjQN_BtYhG1-UmRlfnYQibNLs/view?usp=sharing" target="_blank">Hutan Desa Bukit Layang</a></h4>
+                                    <h4><a href="https://drive.google.com/file/d/1aFts8Eug2o4olml3UWz0NaEXJTvt_-yE/view?usp=sharing" target="_blank">Hutan Desa Bukit Layang</a></h4>
                                     <p>Nomor SK: 6682/MenLHK-PSKL/PKPS/PSL.0/13/2017</p>
                                 </div>
                             </div>
@@ -126,7 +126,7 @@
                             <div class="col-md-4 icon-box" data-aos="fade-up" data-aos-delay="400">
                                 <!-- <i class="ri-command-line"></i> -->
                                 <div>
-                                    <h4><a href="https://drive.google.com/file/d/1HgQOGNUbGPi4tUAWPE7dl9Nh07UIt50g/view?usp=sharing" target="_blank">Hutan Desa Cuhai</a></h4>
+                                    <h4><a href="https://drive.google.com/file/d/1D2EE6ZWZ3tRnWKvJj7pC3qvR5G6Cy9al/view?usp=sharing" target="_blank">Hutan Desa Cuhai</a></h4>
                                     <p>Nomor SK: 6572/MenLHK-PSKL/PKPS/PSL.0/12/2017</p>
                                 </div>
                             </div>
