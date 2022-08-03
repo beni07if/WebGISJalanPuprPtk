@@ -12,6 +12,12 @@
   scroll-behavior: smooth;
 }
 
+/* .container {
+  width: 100%;
+  margin: 5px 5px 5px 5px;
+} */
+
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
@@ -42,7 +48,7 @@ h1, h2, h3, h4, h5, h6 {
 # Sectionsss
 --------------------------------------------------------------*/
 section {
-  padding: 60px 0;
+  padding: 20px 0;
   overflow: hidden;
 }
 
@@ -247,8 +253,7 @@ section {
   margin-left: 5px;
 }
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  /* color: #4fd4c7; */
-  color: red;
+  color: #4fd4c7;
 }
 .navbar .getstarted, .navbar .getstarted:focus {
   background: #4fd4c7;

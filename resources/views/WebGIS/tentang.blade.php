@@ -356,7 +356,7 @@
         <div class="container" data-aos="fade-up">
 
             <div class="section-title">
-                <h2>Sejarah Perhutanan Sosial</h2>
+                <h2>Sejarah Perhutanan Sosial Kabupaten Ketapang</h2>
                 <p style="text-align: justify;">Sejarah Perhutanan Sosial (PS) diawali dengan perubahan paradigma pengelolaan hutan dari pengelolaan hutan oleh negara ke arah pengelolaan hutan bersama masyarakat, yaitu pengelolaan hutan yang harus melibatkan dan mensejahterakan masyarakat sekitar hutan.</p>
             </div>
 
