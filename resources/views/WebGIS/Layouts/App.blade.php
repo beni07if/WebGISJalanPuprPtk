@@ -82,7 +82,7 @@
                         </div>
                     </div> -->
 
-                    <div class="col-lg-3 col-6 footer-links">
+                    <!-- <div class="col-lg-3 col-6 footer-links">
                         <h4>Layanan Kami</h4>
                         <ul>
                             <li><i class="bi bi-chevron-right"></i> <a href="{{ route('index') }}#hero">Beranda</a></li>
@@ -91,7 +91,7 @@
                             <li><i class="bi bi-chevron-right"></i> <a href="{{ route('index') }}#team">Kontak Kami</a></li>
                             <li><i class="bi bi-chevron-right"></i> <a href="{{ route('peta2') }}">Peta Interaktif</a></li>
                         </ul>
-                    </div>
+                    </div> -->
 
                     <!-- <div class="col-lg-2 col-6 footer-links">
                         <h4>Our Services</h4>
@@ -107,10 +107,23 @@
                     <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
                         <h4>Kontak Kami</h4>
                         <p>
-                            UPT. KPH Wilayah Ketapang Utara <br>
-                            Jl. Letkol M. Thohir No 11 A Ketapang<br>
-                            <!-- United States <br> -->
+                            <strong>Lembaga:</strong>Aidenvironment Asia/ Yayasan Sangga Bumi Lestari <br>
+                            <strong>Alamat:</strong>Jalan Kol Sugiono Gang Sulaiman Nomor 1A,Sampit, Kec Delta Pawan, Kabupaten Ketapang, Kalimantan Barat
+                            78811
                             <br>
+                            <!-- United States <br> -->
+                            <strong>Phone:</strong> (021) 502 001 97<br>
+                            <strong>Email:</strong> Info@aidenvironment.org<br>
+                            <strong>Website:</strong> <i><a href="https://aidenvironment.org" target="_blank">www.aidenvironment.org</a></i>
+                        </p>
+
+                    </div>
+                    <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
+                        <h4></h4> <br>
+                        <p>
+                            <strong>Instansi:</strong>UPT. KPH Wilayah Ketapang Utara <br>
+                            <strong>Alamat:</strong>Jl. Letkol M. Thohir No 11 A Ketapang<br>
+                            <!-- United States <br> -->
                             <strong>Phone:</strong> +62 821-3855-1555 (Abdul Karim)<br>
                             <strong>Email:</strong> limabelassamarinda@gmail.com<br>
                         </p>
@@ -119,10 +132,9 @@
                     <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
                         <h4></h4><br>
                         <p>
-                            UPT. KPH Wilayah Ketapang Selatan <br>
-                            Jl. M. Tohir no 11B Tengah, Kec. Delta Pawan, Kabupaten Ketapang, Kalimantan Barat 78811<br>
+                            <strong>Instansi:</strong>UPT. KPH Wilayah Ketapang Selatan <br>
+                            <strong>Alamat:</strong>Jl. M. Tohir no 11B Tengah, Kec. Delta Pawan, Kabupaten Ketapang, Kalimantan Barat 78811<br>
                             <!-- United States <br> -->
-                            <br>
                             <!-- <strong>Phone:</strong> +62 821-3855-1555 (Abdul Karim)<br> -->
                             <strong>Email:</strong> kphketapangselatan@gmail.com<br>
                         </p>
@@ -131,10 +143,9 @@
                     <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
                         <h4></h4><br>
                         <p>
-                            BAPPEDA Kabupaten Ketapang <br>
-                            Jl..<br>
+                            <strong>Instansi:</strong>BAPPEDA Kabupaten Ketapang <br>
+                            <strong>Alamat:</strong>Jl..<br>
                             <!-- United States <br> -->
-                            <br>
                             <strong>Phone:</strong> +62 8xxxxxxx<br>
                             <strong>Email:</strong> xx@bappedaketapang.com<br>
                         </p>
