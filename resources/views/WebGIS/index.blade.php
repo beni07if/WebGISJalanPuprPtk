@@ -15,7 +15,7 @@
                             <span>Jelajah Peta</span>
                             <i class="bi bi-arrow-right"></i>
                         </a> -->
-                        <a href="assets/img/video/peluncuran-webgis-psktp.mov" target="_blank" class="glightbox btn-watch-video btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center"><i class="bi bi-play-circle"></i><span>Video Singkat WebGIS PS Ketapang</span></a>
+                        <a href="assets/img/video/tutorial-webgis-psktp.mp4" target="_blank" class="glightbox btn-watch-video btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center"><i class="bi bi-play-circle"></i><span>Video Singkat WebGIS PS Ketapang</span></a>
                     </div>
                 </div>
             </div>
@@ -38,24 +38,24 @@
 
 <main id="main">
     <!-- ======= Video ssection ======= -->
-    <section id="counts" class="counts">
-        <div class="container" data-aos="fade-up">
-            <header class="section-header">
-                <!-- <h2>Contact</h2> -->
-                <!-- <p>Video Singkat PS Ketapang</p> -->
-            </header>
+    <!-- <section id="counts" class="counts"> -->
+    <!-- <div class="container" data-aos="fade-up"> -->
+    <!-- <header class="section-header">
+                <h2>Contact</h2>
+                <p>Video Singkat PS Ketapang</p>
+            </header> -->
 
-            <!-- <video autoplay loop muted playsinline>
+    <!-- <video autoplay loop muted playsinline>
                 <source src="assets/img/video/sicomel.mp4" type="video/mp4" />
             </video> -->
 
-            <!-- <video controls>
+    <!-- <video controls>
                 <source src="assets/img/video/peluncuran-webgis-psktp.mov" type="video/mp4" />
                 Browsermu tidak mendukung tag ini, upgrade donk!
             </video> -->
 
-        </div>
-    </section>
+    <!-- </div> -->
+    <!-- </section> -->
     <!-- End Video section -->
 
     <section id="counts" class="counts">
@@ -730,34 +730,81 @@
                 <div class="col-lg-6">
 
                     <div class="row gy-4">
-                        <div class="col-md-6">
-                            <div class="info-box">
-                                <i class="bi bi-geo-alt"></i>
-                                <h3>Alamat</h3>
-                                <p>UPT. KPH Wilayah Ketapang Utara<br>Jl. Letkol M. Thohir No 11 A Ketapang</p>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-1">
+                                    Aidenvironment Asia/ Yayasan Sangga Bumi Lestari
+                                </button>
+                            </h2>
+                            <div id="faq-content-1" class="accordion-collapse collapse" data-bs-parent="#faqlist1">
+                                <div class="accordion-body">
+                                    <p>
+                                        <strong>Lembaga:</strong>Aidenvironment Asia/ Yayasan Sangga Bumi Lestari <br>
+                                        <strong>Alamat:</strong>Jalan Kol Sugiono Gang Sulaiman Nomor 1A,Sampit, Kec Delta Pawan, Kabupaten Ketapang, Kalimantan Barat
+                                        78811
+                                        <br>
+                                        <!-- United States <br> -->
+                                        <strong>Phone:</strong> (021) 502 001 97<br>
+                                        <strong>Email:</strong> Info@aidenvironment.org<br>
+                                        <strong>Website:</strong> <i><a href="https://aidenvironment.org" target="_blank">www.aidenvironment.org</a></i>
+                                    </p>
+                                </div>
                             </div>
                         </div>
-                        <div class="col-md-6">
-                            <div class="info-box">
-                                <i class="bi bi-telephone"></i>
-                                <h3>Telephone</h3>
-                                <p>+62 821-3855-1555 (Abdul Karim)</p>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-2">
+                                    UPT. KPH Wilayah Ketapang Utara
+                                </button>
+                            </h2>
+                            <div id="faq-content-2" class="accordion-collapse collapse" data-bs-parent="#faqlist1">
+                                <div class="accordion-body">
+                                    <p>
+                                        <strong>Instansi:</strong>UPT. KPH Wilayah Ketapang Utara <br>
+                                        <strong>Alamat:</strong>Jl. Letkol M. Thohir No 11 A Ketapang<br>
+                                        <!-- United States <br> -->
+                                        <strong>Phone:</strong> +62 821-3855-1555 (Abdul Karim)<br>
+                                        <strong>Email:</strong> limabelassamarinda@gmail.com<br>
+                                    </p>
+                                </div>
                             </div>
                         </div>
-                        <div class="col-md-6">
-                            <div class="info-box">
-                                <i class="bi bi-envelope"></i>
-                                <h3>Email</h3>
-                                <p>limabelassamarinda@gmail.com</p>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-3">
+                                    UPT. KPH Wilayah Ketapang Selatan
+                                </button>
+                            </h2>
+                            <div id="faq-content-3" class="accordion-collapse collapse" data-bs-parent="#faqlist1">
+                                <div class="accordion-body">
+                                    <p>
+                                        <strong>Instansi:</strong>UPT. KPH Wilayah Ketapang Selatan <br>
+                                        <strong>Alamat:</strong>Jl. M. Tohir no 11B Tengah, Kec. Delta Pawan, Kabupaten Ketapang, Kalimantan Barat 78811<br>
+                                        <!-- United States <br> -->
+                                        <!-- <strong>Phone:</strong> +62 821-3855-1555 (Abdul Karim)<br> -->
+                                        <strong>Email:</strong> kphketapangselatan@gmail.com<br>
+                                    </p>
+                                </div>
                             </div>
                         </div>
-                        <!-- <div class="col-md-6">
-                            <div class="info-box">
-                                <i class="bi bi-clock"></i>
-                                <h3>Open Hourss</h3>
-                                <p>Monday - Friday<br>9:00AM - 05:00PM</p>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-4">
+                                    BAPPEDA Kabupaten Ketapang
+                                </button>
+                            </h2>
+                            <div id="faq-content-4" class="accordion-collapse collapse" data-bs-parent="#faqlist1">
+                                <div class="accordion-body">
+                                    <p>
+                                        <strong>Instansi:</strong>BAPPEDA Kabupaten Ketapang <br>
+                                        <strong>Alamat:</strong>Jl..<br>
+                                        <!-- United States <br> -->
+                                        <strong>Phone:</strong> +62 8xxxxxxx<br>
+                                        <strong>Email:</strong> xx@bappedaketapang.com<br>
+                                    </p>
+                                </div>
                             </div>
-                        </div> -->
+                        </div>
                     </div>
 
                 </div>
