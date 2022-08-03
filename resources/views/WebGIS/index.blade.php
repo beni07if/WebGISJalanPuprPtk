@@ -15,7 +15,7 @@
                             <span>Jelajah Peta</span>
                             <i class="bi bi-arrow-right"></i>
                         </a> -->
-                        <a href="assets/img/video/video-psktp.mp4" target="_blank" class="glightbox btn-watch-video btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center"><i class="bi bi-play-circle"></i><span>Video Singkat PS Ketapang</span></a>
+                        <a href="assets/img/video/peluncuran-webgis-psktp.mov" target="_blank" class="glightbox btn-watch-video btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center"><i class="bi bi-play-circle"></i><span>Video Singkat WebGIS PS Ketapang</span></a>
                     </div>
                 </div>
             </div>
@@ -30,6 +30,7 @@
                     <a href="assets/img/video/video-psktp.mp4" target="_blank" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
                 </div>
             </div> -->
+
         </div>
     </div>
 
@@ -49,7 +50,7 @@
             </video> -->
 
             <!-- <video controls>
-                <source src="assets/img/video/video-psktp.mp4" type="video/mp4" />
+                <source src="assets/img/video/peluncuran-webgis-psktp.mov" type="video/mp4" />
                 Browsermu tidak mendukung tag ini, upgrade donk!
             </video> -->
 

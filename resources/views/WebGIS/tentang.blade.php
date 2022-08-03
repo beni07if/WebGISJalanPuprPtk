@@ -98,9 +98,9 @@
                     <p>
                         Program perhutanan sosial merupakan salah satu upaya pemerintah memberikan ruang akses kepada masyarakat dan desa terutama yang berada di dalam dan sekitar kawasan hutan untuk dapat mengelola dan memanfaatkan potensi sumber daya alam yang terdapat dalam kawasan hutan guna peningkatan ekonomi dan kesejahteraan masyarakat. Akses kelola tersebut diusulkan oleh masyarakat dan pemerintah desa melalui sebuah lembaga desa yang disampaikan kepada Kementerian Lingkungan Hidup dan Kehutanan selaku kementerian terkait dalam pengelolaan dan perizinan pengelolaan kawasan hutan.</p>
                 </div>
-            </div>
+                <!-- </div>
 
-            <div class="row content" style="text-align: justify;">
+            <div class="row content" style="text-align: justify;"> -->
                 <p>
                     Di Kabupaten Ketapang, capaian program perhutanan sosial terutama terkait jumlah izin perhutanan sosial yang telah dikeluarkan oleh Kementerian Lingkungan Hidup dan Kehutanan berupa 20 izin kelola dengan skema Hutan Desa (HD) dan Hutan Kemasyarakatan (HKm).
                 </p>
