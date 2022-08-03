@@ -94,29 +94,25 @@
                 <div class="col-lg-6 pt-4 pt-lg-0">
                     <p>
                         Dengan adanya Undang-Undang Cipta Kerja, Peraturan Pemerintah nomor 23 Tahun 2021 tentang Penyelenggaraan Kehutanan dan Peraturan Menteri Lingkungan Hidup dan Kehutanan Nomor 9 Tahun 2021 tentang Pengelolaan Perhutanan Sosial, ditetapkan beberapa perubahan terkait PS dan pengelolaan PS, seperti perubahan luasan maksimum yang bisa diajukan sebesar 5.000 hektar (HD, HKm, HTR). Perubahan lainnya berupa penggunaan istilah LPHD (Lembaga Pengelola Hutan Desa) yang berubah menjadi LDPH (Lembaga Desa Pengelola Hutan).
+                        <br><br>
+                        Program perhutanan sosial merupakan salah satu upaya pemerintah memberikan ruang akses kepada masyarakat dan desa terutama yang berada di dalam dan sekitar kawasan hutan untuk dapat mengelola dan memanfaatkan potensi sumber daya alam yang terdapat dalam kawasan hutan guna peningkatan ekonomi dan kesejahteraan masyarakat. Akses kelola tersebut diusulkan oleh masyarakat dan pemerintah desa melalui sebuah lembaga desa yang disampaikan kepada Kementerian Lingkungan Hidup dan Kehutanan selaku kementerian terkait dalam pengelolaan dan perizinan pengelolaan kawasan hutan.
                     </p>
-                    <p>
-                        Program perhutanan sosial merupakan salah satu upaya pemerintah memberikan ruang akses kepada masyarakat dan desa terutama yang berada di dalam dan sekitar kawasan hutan untuk dapat mengelola dan memanfaatkan potensi sumber daya alam yang terdapat dalam kawasan hutan guna peningkatan ekonomi dan kesejahteraan masyarakat. Akses kelola tersebut diusulkan oleh masyarakat dan pemerintah desa melalui sebuah lembaga desa yang disampaikan kepada Kementerian Lingkungan Hidup dan Kehutanan selaku kementerian terkait dalam pengelolaan dan perizinan pengelolaan kawasan hutan.</p>
                 </div>
                 <!-- </div>
 
             <div class="row content" style="text-align: justify;"> -->
                 <p>
                     Di Kabupaten Ketapang, capaian program perhutanan sosial terutama terkait jumlah izin perhutanan sosial yang telah dikeluarkan oleh Kementerian Lingkungan Hidup dan Kehutanan berupa 20 izin kelola dengan skema Hutan Desa (HD) dan Hutan Kemasyarakatan (HKm).
-                </p>
-                <p>
+                    <br><br>
                     Perhutanan sosial di Kabupaten Ketapang mulai hadir pada tahun 2012, dengan keberadaan 3 desa yang memperoleh SK PAK (Penataan Areal Kerja) dari Kementerian Kehutanan, yaitu Desa Laman Satong, Desa Pematang Gadung dan Desa Sebadak Raya. SK PAK baru sebatas persetujuan lokasi, kegiatan yang dilakukan di area hutan desa berupa penataan dan perlindungan kawasan hutan dan belum ada pembentukan KUPS sebagai badan usaha yang mengelola Hasil Hutan Bukan Kayu (HHBK).
-                </p>
-                <p>
+                    <br><br>
                     Dua desa yang sebelumnya telah memperoleh SK PAK adalah Desa Laman Satong SK.6573/MENLHK-PSKL/PKPS/PSL.0/12/2017 dengan luas ±1.070 hektar, dan Desa Sebadak Raya SK.6572/MENLHK-PSKL/PKPS/PSL.0/12/2017 dengan luas ±1.645 hektar. Desa yang baru memperoleh izin pengelolaan adalah Desa Sungai Pelang SK.6688/MENLHK-PSKL/PKPS/PSL.0/12/2017 dengan luas ±540 hektar. Sedangkan Desa Pematang Gadung yang sebelumnya sudah memperoleh SK PAK, mengalami perubahan luas dan SK terbaru dikeluarkan pada tahun 2021 dengan perubahan penetapan luas sebagaimana tertuang dalam SK.896/MENLHK-PSKL/PKPS/PSL.0/3/2021 dengan luas ±7.004 hektar .
+                    <br><br>
+                    Luasan 20 izin kelola PS untuk areal perhutanan sosial di Kabupaten Ketapang terdiri dari skema Hutan Desa (18 izin) dengan total luas 63.425 hektar dan skema Hutan Kemasyarakatan (2 izin) dengan total luas 1.778 hektar, dan total luasan Perhutanan Sosial di Kabupaten Ketapang sebesar 65.203 Hektar (sumber data UPT KPH Wilayah Ketapang Selatan dan UPT KPH Wilayah Ketapang Utara).
                 </p>
-                <p>
-                    Luasan 20 izin kelola PS untuk areal perhutanan sosial di Kabupaten Ketapang terdiri dari skema Hutan Desa (18 izin) dengan total luas 63.425 hektar dan skema Hutan Kemasyarakatan (2 izin) dengan total luas 1.778 hektar, dan total luasan Perhutanan Sosial di Kabupaten Ketapang sebesar 65.203 Hektar (sumber data UPT KPH Wilayah Ketapang Selatan dan UPT KPH Wilayah Ketapang Utara).</p>
                 <!-- <p>
                     Hutan Desa yang sudah ada SK dari Kementrian Lingkungan Hidup dan Kehutanan ada 20 Hutan Desa. 2 dengan skema Hutan Kemasyarakatan dengan luas 1.778 hektar, luasan 18 Hutan Desa sebesar 63.425 Hektar. Total luasan Perhutanan Sosial di Kabupaten Ketapang sebesar 65.203 Hektar (sumber data UPT KPH Wilayah Ketapang Selatan dan UPT KPH Wilayah Ketapang Utara).
                 </p> -->
-
-
 
             </div>
 
@@ -351,7 +347,7 @@
             <!-- End Hutan Kemasyarakatan-->
         </div>
 
-    </section><br>
+    </section>
     <!-- End Features Section -->
 
     <!-- ======= Tantanngan Us Section ======= -->
@@ -365,8 +361,7 @@
                 <!-- tantangan  -->
                 <p>
                     Pasca perolehan izin, tantangan yang dihadapi masyarakat atau lembaga pemegang izin perhutanan di tingkat tapak adalah pengelolaan areal izin perhutanan sosial. Hal ini, disebabkan oleh beberapa hal seperti keterbatasan sumber daya manusia dan sumberdaya keuangan yang ada di tingkat tapak untuk melakukan pengelolaan. Adapun dalam izin perhutanan sosial yang telah diterima, terdapat beban kewajiban pemegang izin untuk melakukan pengelolaan sesuai dokumen rencana kelola perhutanan sosial dan rencana kerja tahunan yang disusun oleh pemegang izin.
-                </p>
-                <p>
+                    <br><br>
                     Dari hasil inventarisasi terhadap kendala dan tantangan yang dihadapi oleh pemegang izin perhutanan sosial pasca memperoleh izin, diantaranya:
                 <ol>
                     <li>Keterbatasan akses kepada pembiayaan yang dibutuhkan untuk melakukan pengelolaan areal izin perhutanan sosial mulai dari proses perencanaan, pelaksanaan, pengawasan hingga pertanggungjawaban.</li>
@@ -377,15 +372,12 @@
                     <li>Ancaman terhadap kerusakan areal izin perhutanan sosial seperti, kebakaran hutan dan lahan, penebangan liar dan pertambangan ilegal.</li>
                     <li>Rendahnya kualitas hasil-hasil produksi lembaga pengelola perhutanan sosial.</li>
                 </ol>
-                </p>
-                <p>
-                    Dalam upaya mengatasi kendala dan tantangan tersebut, diperlukan kerjasama multipihak dan terutama peran pemerintah kabupaten untuk mendukung program pembangunan daerah yang berkelanjutan melalui kebijakan-kebijakan yang disusun dan diterbitkan oleh pemerintah daerah Kabupaten Ketapang.
-                </p>
-                <p>
-                    Selain itu, dalam pengelolaan perhutanan sosial yang telah dilakukan oleh pemegang izin perhutanan sosial di Kabupaten Ketapang, terdapat banyak potensi dan peluang yang dapat dikembangkan dan membutuhkan peran multipihak termasuk pemerintah kabupaten untuk dapat memberikan dukungan melalui program pembangunan daerah.
-                </p>
-                <p>
-                    Beberapa peluang perhutanan sosial di tingkat tapak yang ada di Kabupaten Ketapang:
+                <br>
+                Dalam upaya mengatasi kendala dan tantangan tersebut, diperlukan kerjasama multipihak dan terutama peran pemerintah kabupaten untuk mendukung program pembangunan daerah yang berkelanjutan melalui kebijakan-kebijakan yang disusun dan diterbitkan oleh pemerintah daerah Kabupaten Ketapang.
+                <br><br>
+                Selain itu, dalam pengelolaan perhutanan sosial yang telah dilakukan oleh pemegang izin perhutanan sosial di Kabupaten Ketapang, terdapat banyak potensi dan peluang yang dapat dikembangkan dan membutuhkan peran multipihak termasuk pemerintah kabupaten untuk dapat memberikan dukungan melalui program pembangunan daerah.
+                <br><br>
+                Beberapa peluang perhutanan sosial di tingkat tapak yang ada di Kabupaten Ketapang:
                 <ol>
                     <li>Dalam pengelolaan perhutanan sosial, telah terbentuk KUPS-KUPS yang mengelola areal sesuai dengan potensi-potensi yang ada.</li>
                     <li>Dari KUPS yang telah terbentuk, hasil identifikasi yang dilakukan menunjukan bahwa 42% KUPS pada kondisi aktif dan berjalan, 33% belum berjalan dan 9% berjalan tetapi memiliki banyak kendala. Selebihnya pada kondisi tidak berjalan dan belum memiliki KUPS.</li>
@@ -393,15 +385,12 @@
                     <li>Izin-izin perhutanan sosial yang ada di Kabupaten Ketapang memiliki pendamping baik bersifat lembaga, KPH, mandiri dan pendamping yang ditugaskan oleh BPSKL. Dengan adanya tenaga pendamping tersebut dapat memberikan kontribusi yang signifikan terhadap pengelolaan perhutanan sosial di tingkat tapak.</li>
                     <li>Sebagian sebaran izin perhutanan sosial yang ada di Kabupaten Ketapang juga berdampingan dengan izin konsesi sektor swasta yang dapat didorong untuk memberikan kontribusi kepada masyarakat atau kelompok pemegang izin perhutanan sosial sebagai bagian dari tanggung jawab sosial dan lingkungan.</li>
                 </ol>
-                </p>
-                <p>
-                    Pengelolaan perhutanan sosial akan berdampak tidak hanya pada bidang kehutanan, melainkan seluruh bidang yang terkait lingkungan hidup, pemberdayaan masyarakat, pariwisata, usaha masyarakat, perdagangan dan sektor lainnya. Sehingga dalam pengelolaannya menjadi pekerjaan bersama yang melibatkan peran multipihak termasuk pemerintah kabupaten dan desa. Untuk menjawab kendala dan tantangan yang dihadapi oleh masyarakat dan lembaga pemegang izin dalam pengelolaan perhutanan sosial di tingkat tapak, dibutuhkan peran pemerintah kabupaten dan desa berdasarkan kewenangannya masing-masing.
-                </p>
-                <p>
-                    Peran pemerintah kabupaten dan desa dapat dilakukan melalui dukungan kebijakan dan program pembangunan daerah dan desa. Oleh karena itu, penting adanya kolaborasi dan sinergitas antara pengelolaan perhutanan sosial yang dilakukan oleh masyarakat dengan perencanaan pembangunan yang ada di kabupaten dan desa. Dengan adanya kolaborasi dan sinergi tersebut diharapkan pelaksanaan program pembangunan di kabupaten dan desa dapat berkontribusi terhadap pengelolaan dan pemanfaatan potensi sumber daya alam yang ada di area perhutanan sosial guna meningkatkan ekonomi dan kesejahteraan masyarakat. Selain itu, kolaborasi dan sinergi tersebut dapat menjawab berbagai kendala dan tantangan yang dihadapi lembaga pemegang izin perhutanan sosial.
-                </p>
-                <p>
-                    Pengelolaan perhutanan sosial yang baik juga akan memberikan dampak terhadap peningkatan kondisi ekonomi sosial masyarakat. Pengelolaan perhutanan sosial akan meningkatkan semangat gotong royong dan kepedulian masyarakat, juga berdampak pada perbaikan kualitas lingkungan hidup. Pemegang izin perhutanan sosial memiliki kewajiban menjaga areal perhutanan sosial dari ancaman yang dapat merugikan kondisi lingkungan. Kegiatan ekonomi alternatif yang muncul dari pengelolaan perhutanan sosial dapat memberikan solusi atau alternatif bagi masyarakat yang selama ini melakukan aktivitas ekonomi dengan memanfaatkan potensi sumber daya alam secara ilegal.
+                <br>
+                Pengelolaan perhutanan sosial akan berdampak tidak hanya pada bidang kehutanan, melainkan seluruh bidang yang terkait lingkungan hidup, pemberdayaan masyarakat, pariwisata, usaha masyarakat, perdagangan dan sektor lainnya. Sehingga dalam pengelolaannya menjadi pekerjaan bersama yang melibatkan peran multipihak termasuk pemerintah kabupaten dan desa. Untuk menjawab kendala dan tantangan yang dihadapi oleh masyarakat dan lembaga pemegang izin dalam pengelolaan perhutanan sosial di tingkat tapak, dibutuhkan peran pemerintah kabupaten dan desa berdasarkan kewenangannya masing-masing.
+                <br><br>
+                Peran pemerintah kabupaten dan desa dapat dilakukan melalui dukungan kebijakan dan program pembangunan daerah dan desa. Oleh karena itu, penting adanya kolaborasi dan sinergitas antara pengelolaan perhutanan sosial yang dilakukan oleh masyarakat dengan perencanaan pembangunan yang ada di kabupaten dan desa. Dengan adanya kolaborasi dan sinergi tersebut diharapkan pelaksanaan program pembangunan di kabupaten dan desa dapat berkontribusi terhadap pengelolaan dan pemanfaatan potensi sumber daya alam yang ada di area perhutanan sosial guna meningkatkan ekonomi dan kesejahteraan masyarakat. Selain itu, kolaborasi dan sinergi tersebut dapat menjawab berbagai kendala dan tantangan yang dihadapi lembaga pemegang izin perhutanan sosial.
+                <br><br>
+                Pengelolaan perhutanan sosial yang baik juga akan memberikan dampak terhadap peningkatan kondisi ekonomi sosial masyarakat. Pengelolaan perhutanan sosial akan meningkatkan semangat gotong royong dan kepedulian masyarakat, juga berdampak pada perbaikan kualitas lingkungan hidup. Pemegang izin perhutanan sosial memiliki kewajiban menjaga areal perhutanan sosial dari ancaman yang dapat merugikan kondisi lingkungan. Kegiatan ekonomi alternatif yang muncul dari pengelolaan perhutanan sosial dapat memberikan solusi atau alternatif bagi masyarakat yang selama ini melakukan aktivitas ekonomi dengan memanfaatkan potensi sumber daya alam secara ilegal.
                 </p>
                 <!-- end tantangan  -->
 
