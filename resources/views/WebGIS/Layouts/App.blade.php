@@ -68,19 +68,19 @@
         <div class="footer-top">
             <div class="container">
                 <div class="row gy-4">
-                    <div class="col-lg-5 col-md-12 footer-info">
-                        <!-- <a href="index.html" class="logo d-flex align-items-center">
+                    <!-- <div class="col-lg-5 col-md-12 footer-info">
+                        <a href="index.html" class="logo d-flex align-items-center">
                             <img src="assets/img/logo/aiden.png" alt="">
                             <span>PS Ketapang</span>
                         </a>
-                        <p>Website penyedia persebaran Perhutanan Sosial (HD dan HKm) di Kabupaten Ketapang..</p> -->
+                        <p>Website penyedia persebaran Perhutanan Sosial (HD dan HKm) di Kabupaten Ketapang..</p>
                         <div class="social-links mt-3">
                             <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
                             <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
                             <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
                             <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
                         </div>
-                    </div>
+                    </div> -->
 
                     <div class="col-lg-3 col-6 footer-links">
                         <h4>Layanan Kami</h4>
@@ -113,6 +113,30 @@
                             <br>
                             <strong>Phone:</strong> +62 821-3855-1555 (Abdul Karim)<br>
                             <strong>Email:</strong> limabelassamarinda@gmail.com<br>
+                        </p>
+
+                    </div>
+                    <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
+                        <h4></h4><br>
+                        <p>
+                            UPT. KPH Wilayah Ketapang Selatan <br>
+                            Jl. M. Tohir no 11B Tengah, Kec. Delta Pawan, Kabupaten Ketapang, Kalimantan Barat 78811<br>
+                            <!-- United States <br> -->
+                            <br>
+                            <!-- <strong>Phone:</strong> +62 821-3855-1555 (Abdul Karim)<br> -->
+                            <strong>Email:</strong> kphketapangselatan@gmail.com<br>
+                        </p>
+
+                    </div>
+                    <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
+                        <h4></h4><br>
+                        <p>
+                            BAPPEDA Kabupaten Ketapang <br>
+                            Jl..<br>
+                            <!-- United States <br> -->
+                            <br>
+                            <strong>Phone:</strong> +62 8xxxxxxx<br>
+                            <strong>Email:</strong> xx@bappedaketapang.com<br>
                         </p>
 
                     </div>
