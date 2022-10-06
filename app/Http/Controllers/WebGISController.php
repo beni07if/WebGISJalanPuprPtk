@@ -101,6 +101,11 @@ class WebGISController extends Controller
         return view('WebGIS.peta2');
     }
 
+    public function pupr()
+    {
+        return view('WebGIS.pupr');
+    }
+
     public function peta3()
     {
         return view('WebGIS.peta3');

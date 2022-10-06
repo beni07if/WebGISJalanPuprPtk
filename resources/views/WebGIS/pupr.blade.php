@@ -5,21 +5,21 @@
 <header id="header" class="header fixed-top">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
-        <a href="{{ route('index') }}" class="logo d-flex align-items-center">
-            <img src="assets/img/logo/logo-lima-jari.png" alt="">
-            <!-- <span>WebGIS PS Ketapang</span> -->
+        <a href="" class="logo d-flex align-items-center">
+            <img src="assets/img/pupr-ptk/logo-webgis-pupr-ptk2.JPG" alt="">
+            <!-- <span>WebGIS PUPR Kota Pontianak</span> -->
         </a>
 
         <nav id="navbar" class="navbar">
             <ul>
-                <li><a class="nav-link scrollto active" href="{{ route('index') }}">Beranda</a></li>
-                <li><a class="nav-link scrollto" href="{{ route('tentang') }}">Tentang PS Ketapang</a></li>
-                <li><a class="nav-link scrollto" href="{{ route('galery') }}">Galery</a></li>
+                <!-- <li><a class="nav-link scrollto active" href="{{ route('index') }}">Beranda</a></li> -->
+                <!-- <li><a class="nav-link scrollto" href="{{ route('tentang') }}">Tentang PS Ketapang</a></li> -->
+                <!-- <li><a class="nav-link scrollto" href="{{ route('galery') }}">Galery</a></li> -->
                 <!-- <li><a class="nav-link scrollto" href="#services">Services</a></li> -->
                 <!-- <li><a class="nav-link scrollto" href="#team">Team</a></li> -->
-                <li><a class="nav-link scrollto" href="#contact">Kontak Kami</a></li>
+                <!-- <li><a class="nav-link scrollto" href="#contact">Kontak Kami</a></li> -->
                 <!-- <li><a class="getstarted scrollto" href="{{ route('peta') }}">Peta</a></li> -->
-                <li><a class="getstarted scrollto" href="{{ route('peta2') }}">Peta</a></li>
+                <!-- <li><a class="getstarted scrollto" href="{{ route('peta2') }}">Peta</a></li> -->
                 <!-- <li><a class="getstarted scrollto" href="{{ route('petaJs') }}">PetaJs</a></li> -->
                 <!-- <li><a class="getstarted scrollto" href="{{ route('peta3') }}">Peta 3</a></li> -->
             </ul>
@@ -60,8 +60,7 @@
             margin-bottom: -15px;
         }
     </style>
-    <div class="embed-container"><small><a href="//beni07if.maps.arcgis.com/apps/Embed/index.html?webmap=46dc18914d91487eaad1b1134bd7c3de&extent=106.6646,-3.8056,114.778,0.4214&home=true&zoom=true&scale=true&search=true&searchextent=true&details=true&legendlayers=true&active_panel=legend&basemap_gallery=true&disable_scroll=false&theme=light" style="color:#0000FF;text-align:left" target="_blank"></a></small><br><iframe width="800" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="WebGIS PS Ketapang" src="//beni07if.maps.arcgis.com/apps/Embed/index.html?webmap=46dc18914d91487eaad1b1134bd7c3de&extent=106.6646,-3.8056,114.778,0.4214&home=true&zoom=true&previewImage=true&scale=true&search=true&searchextent=true&details=true&legendlayers=true&active_panel=legend&basemap_gallery=true&disable_scroll=false&theme=light"></iframe></div>
-
+    <div class="embed-container"><small><a href="//www.arcgis.com/apps/Embed/index.html?webmap=f8cdfbba91ec4b019e22a4db96b3e722&extent=109.1127,-0.188,109.6123,0.0475&home=true&zoom=true&scale=true&search=true&searchextent=true&details=true&legendlayers=true&active_panel=legend&basemap_gallery=true&disable_scroll=false&theme=light" style="color:#0000FF;text-align:left" target="_blank">View larger map</a></small><br><iframe width="800" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="WebGIS Testing" src="//www.arcgis.com/apps/Embed/index.html?webmap=f8cdfbba91ec4b019e22a4db96b3e722&extent=109.1127,-0.188,109.6123,0.0475&home=true&zoom=true&previewImage=false&scale=true&search=true&searchextent=true&details=true&legendlayers=true&active_panel=legend&basemap_gallery=true&disable_scroll=false&theme=light"></iframe></div>
     <!-- <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1aIemFq2ONA3cUjGuypuXHQABdTWMIxE&usp=sharing" width="100%" height="880"></iframe> -->
     <!-- <iframe src="https://maps.arcgis.com/apps/mapviewer/index.html?webmap=de97d7b8e92b4cb489cf530554ce03a8" width="100%" height="880"></iframe> -->
 
