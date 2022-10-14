@@ -7,20 +7,20 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-6 d-flex flex-column justify-content-center">
-                <h1 data-aos="fade-up">WebGIS PS Ketapang</h1>
-                <h2 data-aos="fade-up" data-aos-delay="400">Website penyedia persebaran Perhutanan Sosial (HD dan HKm) di Kabupaten Ketapang..</h2>
+                <h1 data-aos="fade-up">WebGIS Jalan PUPR Kota Pontianak</h1>
+                <h2 data-aos="fade-up" data-aos-delay="400">Website Pembangunan jalan oleh Dinas PUPR Kota Pontianak</h2>
                 <div data-aos="fade-up" data-aos-delay="600">
                     <div class="text-center text-lg-start">
                         <!-- <a href="{{ route('peta2') }}" class="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center">
                             <span>Jelajah Peta</span>
                             <i class="bi bi-arrow-right"></i>
                         </a> -->
-                        <a href="assets/img/video/tutorial-webgis-psktp.mp4" target="_blank" class="glightbox btn-watch-video btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center"><i class="bi bi-play-circle"></i><span>Video Singkat WebGIS PS Ketapang</span></a>
+                        <!-- <a href="assets/img/video/tutorial-webgis-psktp.mp4" target="_blank" class="glightbox btn-watch-video btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center"><i class="bi bi-play-circle"></i><span>Video Singkat WebGIS PS Ketapang</span></a> -->
                     </div>
                 </div>
             </div>
             <div class="col-lg-6 hero-img" data-aos="zoom-out" data-aos-delay="200">
-                <img src="assets/img/foto/ps-ktp/peta-indonesia-update3.png" class="img-fluid" alt="">
+                <img src="assets/img/peta-pontianak/peta-pontianak.png" class="img-fluid" alt="">
             </div>
             <!-- <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
                 <h1>Better Solutions For Your Business</h1>
@@ -58,10 +58,9 @@
     <!-- </section> -->
     <!-- End Video section -->
 
-    <section id="counts" class="counts">
+    <!-- <section id="counts" class="counts">
         <div class="container" data-aos="fade-up">
             <header class="section-header">
-                <!-- <h2>Contact</h2> -->
                 <p>Skema Perhutanan Sosial Ketapang</p>
             </header>
 
@@ -100,7 +99,8 @@
             </div>
 
         </div>
-    </section><!-- End Counts Section -->
+    </section> -->
+    <!-- End Counts Section -->
 
     <!-- ======= Values Section ======= -->
     <!-- <section id="values" class="values">
@@ -266,16 +266,16 @@
             <!-- Feature Tabs -->
             <div class="row feture-tabs" data-aos="fade-up">
                 <div class="col-lg-6">
-                    <h3>Tentang Perhutanan Sosial (PS)</h3>
+                    <h3>Deskripsi Singkat WebGIS Jalan PUPR Kota Pontianak</h3>
 
                     <!-- Tabs -->
                     <ul class="nav nav-pills mb-3">
-                        <li>
+                        <!-- <li>
                             <a class="nav-link active" data-bs-toggle="pill" href="#tab1">Perhutanan Sosial</a>
-                        </li>
-                        <li>
+                        </li> -->
+                        <!-- <li>
                             <a class="nav-link" data-bs-toggle="pill" href="#tab2">Skema PS</a>
-                        </li>
+                        </li> -->
                         <!-- <li>
                             <a class="nav-link" data-bs-toggle="pill" href="#tab3">Corrupti</a>
                         </li> -->
@@ -285,21 +285,20 @@
                     <div class="tab-content">
 
                         <div class="tab-pane fade show active" id="tab1">
-                            <p style="text-align: justify;">Perhutanan sosial (PS) adalah sistem pengelolaan hutan lestari yang dilaksanakan dalam
-                                kawasan hutan negara atau hutan hak/hutan adat yang dilaksanakan oleh masyarakat
-                                setempat atau masyarakat hukum adat sebagai pelaku utama untuk meningkatkan
-                                kesejahteraannya, keseimbangan lingkungan dan dinamika sosial budaya dalam bentuk Hutan
-                                Desa, Hutan Kemasyarakatan, Hutan Tanaman Rakyat, Hutan Rakyat, Hutan Adat, dan
-                                Kemitraan Kehutanan. Sampai dengan 25 Januari 2022, PS sudah menjangkau luasan 4,9 juta hektar, dari total alokasi 12,7 juta hektar. Jumlah persetujuan yang sudah dikeluarkan oleh Kementerian LHK menaungi lebih dari 1 juta KK (Dewi, 2022).
+                            <p style="text-align: justify;">
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex earum, ducimus aliquam vero unde doloremque libero tempore facere quibusdam fuga odio praesentium consequatur necessitatibus minus nesciunt velit veritatis? Enim, ducimus?
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex earum, ducimus aliquam vero unde doloremque libero tempore facere quibusdam fuga odio praesentium consequatur necessitatibus minus nesciunt velit veritatis? Enim, ducimus?
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex earum, ducimus aliquam vero unde doloremque libero tempore facere quibusdam fuga odio praesentium consequatur necessitatibus minus nesciunt velit veritatis? Enim, ducimus?
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex earum, ducimus aliquam vero unde doloremque libero tempore facere quibusdam fuga odio praesentium consequatur necessitatibus minus nesciunt velit veritatis? Enim, ducimus?
                             </p>
-                            <h4>Dokumen Terkait Perhutanan Sosial</h4>
+                            <h4>Link Terkait</h4>
                             <div class="col-lg-12 mt-5 mt-lg-0 d-flex">
                                 <div class="row align-self-center gy-4">
                                     <div class="col-md-6" data-aos="zoom-out" data-aos-delay="200">
                                         <div class="feature-box d-flex align-items-center">
                                             <i class="bi bi-check"></i>
                                             <a href="https://jdih.maritim.go.id/en/peraturan-menteri-lingkungan-hidup-dan-kehutanan-no-9-tahun-2021" target="_blank">
-                                                <h4>PermenLHK No.9 Tahun 2021</h4>
+                                                <h4>Link Terkait 1</h4>
                                             </a>
                                         </div>
                                     </div>
@@ -308,16 +307,7 @@
                                         <div class="feature-box d-flex align-items-center">
                                             <i class="bi bi-check"></i>
                                             <a href="https://jdih.setkab.go.id/PUUdoc/176365/PP_Nomor_23_Tahun_2021.pdf" target="_blank">
-                                                <h4>PP No. 23 Tahun 2021</h4>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <h4 style="padding-top: 50px;">Policy Brief</h4>
-                                    <div class="col-md-6" data-aos="zoom-out" data-aos-delay="300">
-                                        <div class="feature-box d-flex align-items-center">
-                                            <i class="bi bi-check"></i>
-                                            <a href="https://drive.google.com/file/d/1910ShsJZ7MzndhRweBFmThgGrGp6hIKv/view?usp=sharing" target="_blank">
-                                                <h4>Peningkatan Ekonomi Masyarakat Melalui Regulasi Pengelolaan Komoditas</h4>
+                                                <h4>Link Terkait 2</h4>
                                             </a>
                                         </div>
                                     </div>
@@ -325,7 +315,7 @@
                             </div>
                         </div><!-- End Tab 1 Content -->
 
-                        <div class="tab-pane fade show" id="tab2">
+                        <!-- <div class="tab-pane fade show" id="tab2">
                             <p style="text-align: justify;">Program Perhutanan Sosial memiliki berbagai skema yang memiliki inti yang masih sama. Skema yang
                                 diusung dalam program ini adalah Hutan Desa (HD), Hutan Kemasyarakatan (HKm), Hutan
                                 Tanaman Rakyat (HTR/IPHPS), Hutan Adat (HA), dan Kemitraan Kehutanan.</p>
@@ -364,7 +354,8 @@
                             <p style="text-align: justify;">Kemitraan kehutanan (KK) adalah bentuk kerja sama antara masyarakat dengan pihak tertentu yang memiliki/memegang hak pengelolaan hutan/hak pengusahaan hutan/hak pemanfaatan hutan maupun pemegang izin pinjam pakai kawasan hutan/izin usaha industri hasil hutan.
                                 Misalnya suatu daerah dimana ada perusahaan hutan tanaman industri bentuk kemitraannya dapat berupa kerja sama menampung kayu hasil tanaman warga untuk dibantu dipasarkan, atau bisa juga bentuk kerja samanya menjadikan masyarakat sebagai tenaga tanam tanaman tertentu yang menjadi komoditas perusahaan pemegang hak kelola ataupun izin atas kawasan hutan tersebut.
                             </p>
-                        </div><!-- End Tab 2 Content -->
+                        </div> -->
+                        <!-- End Tab 2 Content -->
 
                         <!-- <div class="tab-pane fade show" id="tab3">
                             <p>Consequuntur inventore voluptates consequatur aut vel et. Eos doloribus expedita. Sapiente atque consequatur minima nihil quae aspernatur quo suscipit voluptatem.</p>
@@ -386,7 +377,7 @@
                 </div>
 
                 <div class="col-lg-6">
-                    <img src="assets/img/foto/ps-ktp/skema-ps.png" class="img-fluid" alt="">
+                    <img src="assets/img/peta-pontianak/peta-indonesia.png" class="img-fluid" alt="">
                 </div>
 
             </div><!-- End Feature Tabs -->
@@ -655,12 +646,12 @@
 
             <div class="clients-slider swiper">
                 <div class="swiper-wrapper align-items-center">
-                    <div class="swiper-slide"><img src="assets/img/logo/logo-mitra/klhk.png" class="img-fluid" alt=""></div>
-                    <div class="swiper-slide"><img src="assets/img/logo/logo-mitra/kabupaten-ketapang.png" class="img-fluid" alt=""></div>
-                    <div class="swiper-slide"><img src="assets/img/logo/logo-mitra/kph.png" class="img-fluid" alt=""></div>
-                    <div class="swiper-slide"><img src="assets/img/logo/logo-mitra/aid.png" class="img-fluid" alt=""></div>
-                    <div class="swiper-slide"><img src="assets/img/logo/logo-mitra/sbl.png" class="img-fluid" alt=""></div>
-                    <div class="swiper-slide"><img src="assets/img/logo/logo-mitra/jari.png" class="img-fluid" alt=""></div>
+                    <div class="swiper-slide"><img src="assets/img/peta-pontianak/logo-pontianak.jpg" class="img-fluid" alt=""></div>
+                    <div class="swiper-slide"><img src="assets/img/peta-pontianak/logo-pupr.png" class="img-fluid" alt=""></div>
+                    <!-- <div class="swiper-slide"><img src="assets/img/peta-pontianak/kph.png" class="img-fluid" alt=""></div>
+                    <div class="swiper-slide"><img src="assets/img/peta-pontianak/aid.png" class="img-fluid" alt=""></div>
+                    <div class="swiper-slide"><img src="assets/img/peta-pontianak/sbl.png" class="img-fluid" alt=""></div>
+                    <div class="swiper-slide"><img src="assets/img/peta-pontianak/jari.png" class="img-fluid" alt=""></div> -->
                 </div>
                 <div class="swiper-pagination"></div>
             </div>
@@ -715,138 +706,6 @@
     </section> -->
     <!-- End Recent Blog Posts Section -->
 
-    <!-- ======= Contact Section ======= -->
-    <section id="contact" class="contact">
-
-        <div class="container" data-aos="fade-up">
-
-            <header class="section-header">
-                <!-- <h2>Contact</h2> -->
-                <p>Kontak Kami</p>
-            </header>
-
-            <div class="row gy-4">
-
-                <div class="col-lg-6">
-
-                    <div class="row gy-4">
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-1">
-                                    Aidenvironment Asia/ Yayasan Sangga Bumi Lestari
-                                </button>
-                            </h2>
-                            <div id="faq-content-1" class="accordion-collapse collapse" data-bs-parent="#faqlist1">
-                                <div class="accordion-body">
-                                    <p>
-                                        <strong>Lembaga:</strong>Aidenvironment Asia/ Yayasan Sangga Bumi Lestari <br>
-                                        <strong>Alamat:</strong>Jalan Kol Sugiono Gang Sulaiman Nomor 1A,Sampit, Kec Delta Pawan, Kabupaten Ketapang, Kalimantan Barat
-                                        78811
-                                        <br>
-                                        <!-- United States <br> -->
-                                        <strong>Phone:</strong> (021) 502 001 97<br>
-                                        <strong>Email:</strong> Info@aidenvironment.org<br>
-                                        <strong>Website:</strong> <i><a href="https://aidenvironment.org" target="_blank">www.aidenvironment.org</a></i>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-2">
-                                    UPT. KPH Wilayah Ketapang Utara
-                                </button>
-                            </h2>
-                            <div id="faq-content-2" class="accordion-collapse collapse" data-bs-parent="#faqlist1">
-                                <div class="accordion-body">
-                                    <p>
-                                        <strong>Instansi:</strong>UPT. KPH Wilayah Ketapang Utara <br>
-                                        <strong>Alamat:</strong>Jl. Letkol M. Thohir No 11 A Ketapang<br>
-                                        <!-- United States <br> -->
-                                        <strong>Phone:</strong> +62 821-3855-1555 (Abdul Karim)<br>
-                                        <strong>Email:</strong> limabelassamarinda@gmail.com<br>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-3">
-                                    UPT. KPH Wilayah Ketapang Selatan
-                                </button>
-                            </h2>
-                            <div id="faq-content-3" class="accordion-collapse collapse" data-bs-parent="#faqlist1">
-                                <div class="accordion-body">
-                                    <p>
-                                        <strong>Instansi:</strong>UPT. KPH Wilayah Ketapang Selatan <br>
-                                        <strong>Alamat:</strong>Jl. M. Tohir no 11B Tengah, Kec. Delta Pawan, Kabupaten Ketapang, Kalimantan Barat 78811<br>
-                                        <!-- United States <br> -->
-                                        <!-- <strong>Phone:</strong> +62 821-3855-1555 (Abdul Karim)<br> -->
-                                        <strong>Email:</strong> kphketapangselatan@gmail.com<br>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-4">
-                                    BAPPEDA Kabupaten Ketapang
-                                </button>
-                            </h2>
-                            <div id="faq-content-4" class="accordion-collapse collapse" data-bs-parent="#faqlist1">
-                                <div class="accordion-body">
-                                    <p>
-                                        <strong>Instansi:</strong>BAPPEDA Kabupaten Ketapang <br>
-                                        <strong>Alamat:</strong>Jl..<br>
-                                        <!-- United States <br> -->
-                                        <strong>Phone:</strong> +62 8xxxxxxx<br>
-                                        <strong>Email:</strong> xx@bappedaketapang.com<br>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-
-                <div class="col-lg-6">
-                    <form action="forms/contact.php" method="post" class="php-email-form">
-                        <div class="row gy-4">
-
-                            <div class="col-md-6">
-                                <input type="text" name="name" class="form-control" placeholder="Nama Anda" required>
-                            </div>
-
-                            <div class="col-md-6 ">
-                                <input type="email" class="form-control" name="email" placeholder="Email" required>
-                            </div>
-
-                            <!-- <div class="col-md-12">
-                                <input type="text" class="form-control" name="subject" placeholder="Judul" required>
-                            </div> -->
-
-                            <div class="col-md-12">
-                                <textarea class="form-control" name="message" rows="6" placeholder="Isi pesan" required></textarea>
-                            </div>
-
-                            <div class="col-md-12 text-center">
-                                <div class="loading">Loading..</div>
-                                <div class="error-message"></div>
-                                <div class="sent-message">Your message has been sent. Thank you!</div>
-
-                                <button type="submit">Kirim pesan</button>
-                            </div>
-
-                        </div>
-                    </form>
-
-                </div>
-
-            </div>
-
-        </div>
-
-    </section><!-- End Contact Section -->
 
 </main>
 <!-- End #main -->

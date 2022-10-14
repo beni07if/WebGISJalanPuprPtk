@@ -18,20 +18,19 @@
         <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
             <a href="{{ route('index') }}" class="logo d-flex align-items-center">
-                <img src="assets/img/logo/logo-lima-jari.png" alt="">
+                <img src="assets/img/pupr-ptk/logo-webgis-pupr-ptk2.JPG" alt="">
                 <!-- <span>WebGIS PS Ketapang</span> -->
             </a>
 
             <nav id="navbar" class="navbar">
                 <ul>
-                    <li><a class="nav-link scrollto" href="{{ route('index') }}">Beranda</a></li>
-                    <li><a class="nav-link scrollto" href="{{ route('tentang') }}">Tentang PS Ketapang</a></li>
+                    <li><a class="nav-link scrollto" href="{{ route('index') }}">Home</a></li>
+                    <li><a class="nav-link scrollto" href="{{ route('tentang') }}">Data</a></li>
+                    <li><a class="nav-link scrollto" href="{{ route('peta2') }}">Peta</a></li>
                     <li><a class="nav-link scrollto" href="{{ route('galery') }}">Galery</a></li>
-                    <!-- <li><a class="nav-link scrollto" href="#services">Services</a></li> -->
-                    <!-- <li><a class="nav-link scrollto" href="#team">Team</a></li> -->
-                    <li><a class="nav-link scrollto" href="{{ route('index') }}#contact ">Kontak Kami</a></li>
+                    <li><a class="nav-link scrollto" href="{{ route('index') }}#contact ">Download</a></li>
+                    <li><a class="nav-link scrollto" href="{{ route('index') }}#contact ">Contact</a></li>
                     <!-- <li><a class="getstarted scrollto" href="{{ route('peta') }}">Peta</a></li> -->
-                    <li><a class="getstarted scrollto" href="{{ route('peta2') }}">Peta</a></li>
                     <!-- <li><a class="getstarted scrollto" href="{{ route('petaJs') }}">PetaJs</a></li> -->
                     <!-- <li><a class="getstarted scrollto" href="{{ route('peta3') }}">Peta 3</a></li> -->
                 </ul>
@@ -85,11 +84,12 @@
                     <div class="col-lg-4 col-6 footer-links">
                         <h4>Layanan Kami</h4>
                         <ul>
-                            <li><i class="bi bi-chevron-right"></i> <a href="{{ route('index') }}#hero">Beranda</a></li>
-                            <li><i class="bi bi-chevron-right"></i> <a href="{{ route('index') }}#about">Tentang PS Ketapang</a></li>
+                            <li><i class="bi bi-chevron-right"></i> <a href="{{ route('index') }}#hero">Home</a></li>
+                            <li><i class="bi bi-chevron-right"></i> <a href="{{ route('index') }}#about">Data</a></li>
+                            <li><i class="bi bi-chevron-right"></i> <a href="{{ route('peta2') }}">Peta</a></li>
                             <li><i class="bi bi-chevron-right"></i> <a href="{{ route('index') }}#portfolio">Galery</a></li>
-                            <li><i class="bi bi-chevron-right"></i> <a href="{{ route('index') }}#team">Kontak Kami</a></li>
-                            <li><i class="bi bi-chevron-right"></i> <a href="{{ route('peta2') }}">Peta Interaktif</a></li>
+                            <li><i class="bi bi-chevron-right"></i> <a href="{{ route('index') }}#portfolio">Download</a></li>
+                            <li><i class="bi bi-chevron-right"></i> <a href="{{ route('index') }}#team">Contact</a></li>
                         </ul>
                     </div>
 

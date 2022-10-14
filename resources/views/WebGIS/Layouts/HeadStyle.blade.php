@@ -1,14 +1,14 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>PS Ketapang</title>
+    <title>WebGIS Jalan PUPR Pontianak</title>
     <meta content="" name="description">
 
     <meta content="" name="keywords">
 
     <!-- Favicons -->
-    <link href="{{ asset('assets/img/logo/aiden1.png') }}" rel="icon">
-    <link href="{{ asset('assets/img/logo/logo-aid1.jpg') }}" rel="apple-touch-icon">
+    <link href="{{ asset('assets/img/peta-pontianak/logo-pontianak.jpg') }}" rel="icon">
+    <link href="{{ asset('assets/img/peta-pontianak/logo-aid1.jpg') }}" rel="apple-touch-icon">
 
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
