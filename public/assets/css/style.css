@@ -426,7 +426,8 @@ section {
   margin: 0;
   font-size: 48px;
   font-weight: 700;
-  color: #087880;
+  /* color: #087880; */
+  color: red;
 }
 .hero h2 {
   color: #444444;
