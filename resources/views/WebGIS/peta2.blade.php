@@ -12,12 +12,12 @@
 
         <nav id="navbar" class="navbar">
             <ul>
-                <li><a class="nav-link scrollto" href="{{ route('index') }}">Home</a></li>
-                <li><a class="nav-link scrollto" href="{{ route('tentang') }}">Data</a></li>
-                <li><a class="nav-link scrollto" href="{{ route('peta2') }}">Peta</a></li>
-                <li><a class="nav-link scrollto" href="{{ route('galery') }}">Galery</a></li>
-                <li><a class="nav-link scrollto" href="{{ route('index') }}#contact ">Download</a></li>
-                <li><a class="nav-link scrollto" href="{{ route('index') }}#contact ">Contact</a></li>
+                <li><a class="nav-link scrollto" href="{{ route('index') }}">HOME</a></li>
+                <li><a class="nav-link scrollto" href="{{ route('tentang') }}">DATA</a></li>
+                <li><a class="nav-link scrollto" href="{{ route('peta2') }}">PETA</a></li>
+                <li><a class="nav-link scrollto" href="{{ route('galery') }}">GALERY</a></li>
+                <li><a class="nav-link scrollto" href="{{ route('index') }}#contact ">DOWNLOAD</a></li>
+                <li><a class="nav-link scrollto" href="{{ route('index') }}#contact ">CONTACT</a></li>
             </ul>
             <i class="bi bi-list mobile-nav-toggle"></i>
         </nav><!-- .navbar -->
@@ -56,7 +56,7 @@
             margin-bottom: -15px;
         }
     </style>
-    <div class="embed-container"><small><a href="//beni07if.maps.arcgis.com/apps/Embed/index.html?webmap=46dc18914d91487eaad1b1134bd7c3de&extent=106.6646,-3.8056,114.778,0.4214&home=true&zoom=true&scale=true&search=true&searchextent=true&details=true&legendlayers=true&active_panel=legend&basemap_gallery=true&disable_scroll=false&theme=light" style="color:#0000FF;text-align:left" target="_blank"></a></small><br><iframe width="800" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="WebGIS PS Ketapang" src="//beni07if.maps.arcgis.com/apps/Embed/index.html?webmap=46dc18914d91487eaad1b1134bd7c3de&extent=106.6646,-3.8056,114.778,0.4214&home=true&zoom=true&previewImage=true&scale=true&search=true&searchextent=true&details=true&legendlayers=true&active_panel=legend&basemap_gallery=true&disable_scroll=false&theme=light"></iframe></div>
+    <div class="embed-container"><small><a href="//www.arcgis.com/apps/Embed/index.html?webmap=f8cdfbba91ec4b019e22a4db96b3e722&extent=109.0978,-0.1683,109.5974,0.0834&home=true&zoom=true&scale=true&search=true&searchextent=true&details=true&legendlayers=true&active_panel=legend&basemap_gallery=true&disable_scroll=false&theme=light" style="color:#0000FF;text-align:left" target="_blank">View larger map</a></small><br><iframe width="800" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="WebGIS Jalan PUPR Ppntianak" src="//www.arcgis.com/apps/Embed/index.html?webmap=f8cdfbba91ec4b019e22a4db96b3e722&extent=109.0978,-0.1683,109.5974,0.0834&home=true&zoom=true&previewImage=false&scale=true&search=true&searchextent=true&details=true&legendlayers=true&active_panel=legend&basemap_gallery=true&disable_scroll=false&theme=light"></iframe></div>
 
     <!-- <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1aIemFq2ONA3cUjGuypuXHQABdTWMIxE&usp=sharing" width="100%" height="880"></iframe> -->
     <!-- <iframe src="https://maps.arcgis.com/apps/mapviewer/index.html?webmap=de97d7b8e92b4cb489cf530554ce03a8" width="100%" height="880"></iframe> -->

@@ -24,12 +24,12 @@
 
             <nav id="navbar" class="navbar">
                 <ul>
-                    <li><a class="nav-link scrollto" href="{{ route('index') }}">Home</a></li>
-                    <li><a class="nav-link scrollto" href="{{ route('tentang') }}">Data</a></li>
-                    <li><a class="nav-link scrollto" href="{{ route('peta2') }}">Peta</a></li>
-                    <li><a class="nav-link scrollto" href="{{ route('galery') }}">Galery</a></li>
-                    <li><a class="nav-link scrollto" href="{{ route('index') }}#contact ">Download</a></li>
-                    <li><a class="nav-link scrollto" href="{{ route('index') }}#contact ">Contact</a></li>
+                    <li><a class="nav-link scrollto" href="{{ route('index') }}">HOME</a></li>
+                    <li><a class="nav-link scrollto" href="{{ route('tentang') }}">DATA</a></li>
+                    <li><a class="nav-link scrollto" href="{{ route('peta2') }}">PETA</a></li>
+                    <li><a class="nav-link scrollto" href="{{ route('galery') }}">GALERY</a></li>
+                    <li><a class="nav-link scrollto" href="{{ route('index') }} ">DOWNLOAD</a></li>
+                    <li><a class="nav-link scrollto" href="{{ route('contact') }} ">CONTACT</a></li>
                     <!-- <li><a class="getstarted scrollto" href="{{ route('peta') }}">Peta</a></li> -->
                     <!-- <li><a class="getstarted scrollto" href="{{ route('petaJs') }}">PetaJs</a></li> -->
                     <!-- <li><a class="getstarted scrollto" href="{{ route('peta3') }}">Peta 3</a></li> -->
@@ -95,7 +95,7 @@
 
                     <div class="col-lg-6 col-6 footer-links">
                         <h4>Map Lokasi</h4>
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1443907.4886581474!2d110.46348637644253!3d-1.5969582592237144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e044cf6da61153f%3A0x201126c1f8e4178!2sKabupaten%20Ketapang%2C%20Kalimantan%20Barat!5e0!3m2!1sid!2sid!4v1659549974921!5m2!1sid!2sid" width="600" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63837.080944634115!2d109.29653098007158!3d-0.035394843388718976!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e1d58f604b0799b%3A0x511ef9501fc9ffe3!2sPontianak%2C%20Kota%20Pontianak%2C%20Kalimantan%20Barat!5e0!3m2!1sid!2sid!4v1666024228457!5m2!1sid!2sid" width="450" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
 
                     <!-- <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">

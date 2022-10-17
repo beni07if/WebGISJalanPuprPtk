@@ -122,4 +122,8 @@ class WebGISController extends Controller
     {
         return view('WebGIS.galery');
     }
+    public function contact()
+    {
+        return view('WebGIS.contact');
+    }
 }

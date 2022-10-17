@@ -291,12 +291,12 @@
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex earum, ducimus aliquam vero unde doloremque libero tempore facere quibusdam fuga odio praesentium consequatur necessitatibus minus nesciunt velit veritatis? Enim, ducimus?
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex earum, ducimus aliquam vero unde doloremque libero tempore facere quibusdam fuga odio praesentium consequatur necessitatibus minus nesciunt velit veritatis? Enim, ducimus?
                             </p>
-                            <h4>Link Terkait</h4>
+                            <h4>Link Terkait</h4><br>
                             <div class="col-lg-12 mt-5 mt-lg-0 d-flex">
                                 <div class="row align-self-center gy-4">
                                     <div class="col-md-6" data-aos="zoom-out" data-aos-delay="200">
                                         <div class="feature-box d-flex align-items-center">
-                                            <i class="bi bi-check"></i>
+                                            <!-- <i class="bi bi-check"></i> -->
                                             <a href="https://jdih.maritim.go.id/en/peraturan-menteri-lingkungan-hidup-dan-kehutanan-no-9-tahun-2021" target="_blank">
                                                 <h4>Link Terkait 1</h4>
                                             </a>
@@ -305,7 +305,7 @@
 
                                     <div class="col-md-6" data-aos="zoom-out" data-aos-delay="300">
                                         <div class="feature-box d-flex align-items-center">
-                                            <i class="bi bi-check"></i>
+                                            <!-- <i class="bi bi-check"></i> -->
                                             <a href="https://jdih.setkab.go.id/PUUdoc/176365/PP_Nomor_23_Tahun_2021.pdf" target="_blank">
                                                 <h4>Link Terkait 2</h4>
                                             </a>
@@ -377,7 +377,7 @@
                 </div>
 
                 <div class="col-lg-6">
-                    <img src="assets/img/peta-pontianak/peta-indonesia.png" class="img-fluid" alt="">
+                    <img src="assets/img/peta-pontianak/jalan-ptk.JPG" class="img-fluid" alt="">
                 </div>
 
             </div><!-- End Feature Tabs -->

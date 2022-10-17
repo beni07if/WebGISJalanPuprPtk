@@ -34,7 +34,7 @@ a:hover {
 }
 
 .features .feature-icons .content h4 a {
-  color: #087880;
+  color: #2F4F4F;
 }
 .features .feature-icons .content h4 a:hover {
   color: #4fd4c7;
@@ -70,7 +70,7 @@ section {
   font-size: 38px;
   line-height: 42px;
   font-weight: 700;
-  color: #087880;
+  color: #2F4F4F;
 }
 @media (max-width: 768px) {
   .section-header p {
@@ -98,10 +98,10 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 15px 0;
-  background: #087880;
+  background: #FAFBFF;
   min-height: 40px;
   margin-top: 82px;
-  color: #fff;
+  color: #2F4F4F;
 }
 @media (max-width: 992px) {
   .breadcrumbs {
@@ -121,7 +121,7 @@ section {
   font-size: 14px;
 }
 .breadcrumbs ol a {
-  color: #fff;
+  color: #2F4F4F;
   transition: 0.3s;
 }
 .breadcrumbs ol a:hover {
@@ -133,7 +133,7 @@ section {
 .breadcrumbs ol li + li::before {
   display: inline-block;
   padding-right: 10px;
-  color: #8894f6;
+  color: #2F4F4F;
   content: "/";
 }
 
@@ -243,7 +243,7 @@ section {
   font-family: "Nunito", sans-serif;
   font-size: 16px;
   font-weight: 700;
-  color: #087880;
+  color: #2F4F4F;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -427,7 +427,7 @@ section {
   font-size: 48px;
   font-weight: 700;
   /* color: #087880; */
-  color: red;
+  color: #2F4F4F;
 }
 .hero h2 {
   color: #444444;
@@ -513,7 +513,7 @@ section {
 .about h2 {
   font-size: 24px;
   font-weight: 700;
-  color: #087880;
+  color: #2F4F4F;
 }
 .about p {
   margin: 15px 0 30px 0;
@@ -615,7 +615,7 @@ section {
 }
 .features .feature-box h3 {
   font-size: 18px;
-  color: #087880;
+  color: #2F4F4F;
   font-weight: 700;
   margin: 0;
 }
@@ -636,7 +636,7 @@ section {
   margin-top: 120px;
 }
 .features .feture-tabs h3 {
-  color: #087880;
+  color: #2F4F4F;
   font-weight: 700;
   font-size: 32px;
   margin-bottom: 10px;
@@ -680,7 +680,7 @@ section {
   margin-top: 120px;
 }
 .features .feature-icons h3 {
-  color: #087880;
+  color: #2F4F4F;
   font-weight: 700;
   font-size: 32px;
   margin-bottom: 20px;
@@ -1427,11 +1427,11 @@ section {
 .contact .info-box i {
   font-size: 38px;
   line-height: 0;
-  color: #4fd4c7;
+  color: #008080;
 }
 .contact .info-box h3 {
   font-size: 20px;
-  color: #087880;
+  color: #2F4F4F;
   font-weight: 700;
   margin: 20px 0 10px 0;
 }
@@ -1499,7 +1499,7 @@ section {
   padding: 12px 15px;
 }
 .contact .php-email-form button[type=submit] {
-  background: #4fd4c7;
+  background: #008080;
   border: 0;
   padding: 10px 30px;
   color: #fff;

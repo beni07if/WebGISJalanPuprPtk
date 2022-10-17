@@ -26,6 +26,7 @@ Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name
 Route::get('/index', 'App\Http\Controllers\WebGISController@index')->name('index');
 Route::get('/sk-perhutanan-sosial', 'App\Http\Controllers\WebGISController@SkPs')->name('SkPs');
 Route::get('/tentang', 'App\Http\Controllers\WebGISController@tentang')->name('tentang');
+Route::get('/contact', 'App\Http\Controllers\WebGISController@contact')->name('contact');
 Route::get('/galery', 'App\Http\Controllers\WebGISController@galery')->name('galery');
 Route::get('/blog', 'App\Http\Controllers\WebGISController@blog')->name('blog');
 Route::get('/peta', 'App\Http\Controllers\WebGISController@peta')->name('peta');
