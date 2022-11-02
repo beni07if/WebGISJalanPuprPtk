@@ -16,6 +16,18 @@ class DashboardController extends Controller
     {
         return view('NiceAdmin.Content.Dashboard');
     }
+    public function index2()
+    {
+        return view('AdminPanel.Dashboard2');
+    }
+    public function jalanKota()
+    {
+        return view('AdminPanel.Jalan');
+    }
+    public function tambahJalan()
+    {
+        return view('AdminPanel.TambahJalan');
+    }
 
     /**
      * Show the form for creating a new resource.

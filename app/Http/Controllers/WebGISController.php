@@ -126,4 +126,16 @@ class WebGISController extends Controller
     {
         return view('WebGIS.contact');
     }
+    public function datatable()
+    {
+        return view('WebGIS.datatable');
+    }
+    public function chart()
+    {
+        return view('WebGIS.chart');
+    }
+    public function detailJalan()
+    {
+        return view('WebGIS.detailJalan');
+    }
 }
