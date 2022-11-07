@@ -32,7 +32,7 @@ Route::get('/jalan-detail/{id}', 'App\Http\Controllers\WebGISController@jalanDet
 Route::get('/contact', 'App\Http\Controllers\WebGISController@contact')->name('contact');
 Route::get('/galery', 'App\Http\Controllers\WebGISController@galery')->name('galery');
 Route::get('/blog', 'App\Http\Controllers\WebGISController@blog')->name('blog');
-Route::get('/peta', 'App\Http\Controllers\WebGISController@peta')->name('peta');
+// Route::get('/peta', 'App\Http\Controllers\WebGISController@peta')->name('peta');
 Route::get('/petaJs', 'App\Http\Controllers\WebGISController@petaJs')->name('petaJs');
 Route::get('/peta2', 'App\Http\Controllers\WebGISController@peta2')->name('peta2');
 Route::get('/pupr-pontianak', 'App\Http\Controllers\WebGISController@pupr')->name('pupr');
