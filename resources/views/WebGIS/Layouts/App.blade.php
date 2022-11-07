@@ -18,19 +18,18 @@
         <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
             <a href="{{ route('index') }}" class="logo d-flex align-items-center">
-                <img src="assets/img/pupr-ptk/logo-webgis-pupr-ptk2.JPG" alt="">
+                <img src="assets/img/logo/logo-webgis-pupr-blue.png" alt="">
                 <!-- <span>WebGIS PS Ketapang</span> -->
             </a>
 
             <nav id="navbar" class="navbar">
                 <ul>
                     <li><a class="nav-link scrollto" href="{{ route('index') }}">HOME</a></li>
-                    <li><a class="nav-link scrollto" href="{{ route('tentang') }}">DATA</a></li>
+                    <li><a class="nav-link scrollto" href="{{ route('data') }}">DATA</a></li>
                     <li><a class="nav-link scrollto" href="{{ route('peta2') }}">PETA</a></li>
                     <li><a class="nav-link scrollto" href="{{ route('galery') }}">GALERY</a></li>
-                    <li><a class="nav-link scrollto" href="{{ route('index') }} ">DOWNLOAD</a></li>
+                    <li><a class="nav-link scrollto" href="{{ route('download') }} ">DOWNLOAD</a></li>
                     <li><a class="nav-link scrollto" href="{{ route('contact') }} ">CONTACT</a></li>
-                    <!-- <li><a class="getstarted scrollto" href="{{ route('peta') }}">Peta</a></li> -->
                     <!-- <li><a class="getstarted scrollto" href="{{ route('petaJs') }}">PetaJs</a></li> -->
                     <!-- <li><a class="getstarted scrollto" href="{{ route('peta3') }}">Peta 3</a></li> -->
                 </ul>
@@ -87,9 +86,10 @@
                             <li><i class="bi bi-chevron-right"></i> <a href="{{ route('index') }}#hero">Home</a></li>
                             <li><i class="bi bi-chevron-right"></i> <a href="{{ route('index') }}#about">Data</a></li>
                             <li><i class="bi bi-chevron-right"></i> <a href="{{ route('peta2') }}">Peta</a></li>
-                            <li><i class="bi bi-chevron-right"></i> <a href="{{ route('index') }}#portfolio">Galery</a></li>
-                            <li><i class="bi bi-chevron-right"></i> <a href="{{ route('index') }}#portfolio">Download</a></li>
-                            <li><i class="bi bi-chevron-right"></i> <a href="{{ route('index') }}#team">Contact</a></li>
+                            <li><i class="bi bi-chevron-right"></i> <a href="{{ route('galery') }}">Galery</a></li>
+                            <li><i class="bi bi-chevron-right"></i> <a href="{{ route('download') }}">Download</a></li>
+                            <li><i class="bi bi-chevron-right"></i> <a href="{{ route('contact') }}">Contact</a></li>
+                            <li><i class="bi bi-chevron-right"></i> <a href="{{ route('dashboard2') }}">Login</a></li>
                         </ul>
                     </div>
 
@@ -216,6 +216,199 @@
         });
     </script>
     <!-- end datatable adminlte  -->
+
+    <!-- Grafik  -->
+    <!-- jQuery -->
+    <!-- <script src="{{ asset('adminlte/plugins/jquery/jquery.min.js') }}"></script> -->
+    <!-- Bootstrap 4 -->
+    <!-- <script src="{{ asset('adminlte/plugins/bootstrap/js/bootstrap.bundle.min.js') }}"></script> -->
+    <!-- ChartJS -->
+    <script src="{{ asset('adminlte/plugins/chart.js/Chart.min.js') }}"></script>
+    <!-- AdminLTE App -->
+    <script src="{{ asset('adminlte/dist/js/adminlte.min.js') }}"></script>
+    <!-- AdminLTE for demo purposes -->
+    <script src="{{ asset('adminlte/dist/js/demo.js') }}"></script>
+    <!-- Page specific script -->
+    <script>
+        $(function() {
+            /* ChartJS
+             * -------
+             * Here we will create a few charts using ChartJS
+             */
+
+            //--------------
+            //- AREA CHART -
+            //--------------
+
+            // Get context with jQuery - using jQuery's .get() method.
+            var areaChartCanvas = $('#areaChart').get(0).getContext('2d')
+
+            var areaChartData = {
+                labels: ['January', 'February', 'March', 'April', 'May', 'June', 'July'],
+                datasets: [{
+                        label: 'Digital Goods',
+                        backgroundColor: 'rgba(60,141,188,0.9)',
+                        borderColor: 'rgba(60,141,188,0.8)',
+                        pointRadius: false,
+                        pointColor: '#3b8bba',
+                        pointStrokeColor: 'rgba(60,141,188,1)',
+                        pointHighlightFill: '#fff',
+                        pointHighlightStroke: 'rgba(60,141,188,1)',
+                        data: [28, 48, 40, 19, 86, 27, 90]
+                    },
+                    {
+                        label: 'Electronics',
+                        backgroundColor: 'rgba(210, 214, 222, 1)',
+                        borderColor: 'rgba(210, 214, 222, 1)',
+                        pointRadius: false,
+                        pointColor: 'rgba(210, 214, 222, 1)',
+                        pointStrokeColor: '#c1c7d1',
+                        pointHighlightFill: '#fff',
+                        pointHighlightStroke: 'rgba(220,220,220,1)',
+                        data: [65, 59, 80, 81, 56, 55, 40]
+                    },
+                ]
+            }
+
+            var areaChartOptions = {
+                maintainAspectRatio: false,
+                responsive: true,
+                legend: {
+                    display: false
+                },
+                scales: {
+                    xAxes: [{
+                        gridLines: {
+                            display: false,
+                        }
+                    }],
+                    yAxes: [{
+                        gridLines: {
+                            display: false,
+                        }
+                    }]
+                }
+            }
+
+            // This will get the first returned node in the jQuery collection.
+            new Chart(areaChartCanvas, {
+                type: 'line',
+                data: areaChartData,
+                options: areaChartOptions
+            })
+
+            //-------------
+            //- LINE CHART -
+            //--------------
+            var lineChartCanvas = $('#lineChart').get(0).getContext('2d')
+            var lineChartOptions = $.extend(true, {}, areaChartOptions)
+            var lineChartData = $.extend(true, {}, areaChartData)
+            lineChartData.datasets[0].fill = false;
+            lineChartData.datasets[1].fill = false;
+            lineChartOptions.datasetFill = false
+
+            var lineChart = new Chart(lineChartCanvas, {
+                type: 'line',
+                data: lineChartData,
+                options: lineChartOptions
+            })
+
+            //-------------
+            //- DONUT CHART -
+            //-------------
+            // Get context with jQuery - using jQuery's .get() method.
+            var donutChartCanvas = $('#donutChart').get(0).getContext('2d')
+            var donutData = {
+                labels: [
+                    'Aspal (%)',
+                    'Beton (%)',
+                    'Kerikil (%)',
+                    'Tanah',
+                ],
+                datasets: [{
+                    data: [100, 0, 0, 0],
+                    backgroundColor: ['#00c0ef', '#f56954', '#00a65a', '#f39c12'],
+                }]
+            }
+            var donutOptions = {
+                maintainAspectRatio: false,
+                responsive: true,
+            }
+            //Create pie or douhnut chart
+            // You can switch between pie and douhnut using the method below.
+            new Chart(donutChartCanvas, {
+                type: 'doughnut',
+                data: donutData,
+                options: donutOptions
+            })
+
+            //-------------
+            //- PIE CHART -
+            //-------------
+            // Get context with jQuery - using jQuery's .get() method.
+            var pieChartCanvas = $('#pieChart').get(0).getContext('2d')
+            var pieData = donutData;
+            var pieOptions = {
+                maintainAspectRatio: false,
+                responsive: true,
+            }
+            //Create pie or douhnut chart
+            // You can switch between pie and douhnut using the method below.
+            new Chart(pieChartCanvas, {
+                type: 'pie',
+                data: pieData,
+                options: pieOptions
+            })
+
+            //-------------
+            //- BAR CHART -
+            //-------------
+            var barChartCanvas = $('#barChart').get(0).getContext('2d')
+            var barChartData = $.extend(true, {}, areaChartData)
+            var temp0 = areaChartData.datasets[0]
+            var temp1 = areaChartData.datasets[1]
+            barChartData.datasets[0] = temp1
+            barChartData.datasets[1] = temp0
+
+            var barChartOptions = {
+                responsive: true,
+                maintainAspectRatio: false,
+                datasetFill: false
+            }
+
+            new Chart(barChartCanvas, {
+                type: 'bar',
+                data: barChartData,
+                options: barChartOptions
+            })
+
+            //---------------------
+            //- STACKED BAR CHART -
+            //---------------------
+            var stackedBarChartCanvas = $('#stackedBarChart').get(0).getContext('2d')
+            var stackedBarChartData = $.extend(true, {}, barChartData)
+
+            var stackedBarChartOptions = {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    xAxes: [{
+                        stacked: true,
+                    }],
+                    yAxes: [{
+                        stacked: true
+                    }]
+                }
+            }
+
+            new Chart(stackedBarChartCanvas, {
+                type: 'bar',
+                data: stackedBarChartData,
+                options: stackedBarChartOptions
+            })
+        })
+    </script>
+    <!-- End grafik  -->
 
 </body>
 

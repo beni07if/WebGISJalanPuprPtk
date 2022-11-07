@@ -3,10 +3,21 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Models\Jalan;
 use App\Http\Controllers\DashboardController;
 
 class DashboardController extends Controller
 {
+    /**
+     * Create a new controller instance.
+     *
+     * @return void
+     */
+    public function __construct()
+    {
+        // $this->middleware('auth:mahasiswa');
+        $this->middleware('auth');
+    }
     /**
      * Display a listing of the resource.
      *
@@ -22,7 +33,8 @@ class DashboardController extends Controller
     }
     public function jalanKota()
     {
-        return view('AdminPanel.Jalan');
+        $dataJalan = Jalan::all();
+        return view('AdminPanel.Jalan', compact('dataJalan'));
     }
     public function tambahJalan()
     {
@@ -72,6 +84,12 @@ class DashboardController extends Controller
         //
     }
 
+    public function editJalan($id)
+    {
+        $jalanDetail = Jalan::where('id', $id)->get();
+        return view('AdminPanel.editJalan', compact('jalanDetail'));
+    }
+
     /**
      * Update the specified resource in storage.
      *
@@ -82,6 +100,34 @@ class DashboardController extends Controller
     public function update(Request $request, $id)
     {
         //
+    }
+
+    public function updateJalan(Request $request, $id)
+    {
+        $validasi = $request->validate([
+            // 'user_id' => 'required',
+            // 'keluarga' => 'required',
+            'nomor_ruas' => 'required',
+            'nama_ruas' => 'required',
+            'panjang' => 'required',
+            'kecamatan' => 'required',
+            'kelurahan' => 'required',
+            'koordinat_pangkal' => 'required',
+            'koordinat_ujung' => 'required',
+
+            'kondisi_baik' => 'required',
+            'kondisi_sedang' => 'required',
+            'kondisi_rusak_ringan' => 'required',
+            'kondisi_rusak_berat' => 'required',
+
+            'jp_aspal' => 'required',
+            'jp_beton' => 'required',
+            'jp_kerikil' => 'required',
+            'jp_tanah' => 'required'
+        ]);
+
+        Jalan::whereId($id)->update($validasi);
+        return redirect('jalan-kota-pontianak')->with('success', 'Data Berhasil Diubah..');
     }
 
     /**

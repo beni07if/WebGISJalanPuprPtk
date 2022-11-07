@@ -3,6 +3,8 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Models\Jalan;
+use App\Models\Dokumentasi;
 
 class WebGISController extends Controller
 {
@@ -13,6 +15,7 @@ class WebGISController extends Controller
      */
     public function index()
     {
+        // $dataJalan = Jalan::all();
         return view('WebGIS.index');
     }
 
@@ -110,9 +113,12 @@ class WebGISController extends Controller
     {
         return view('WebGIS.peta3');
     }
-    public function tentang()
+    public function data()
     {
-        return view('WebGIS.tentang');
+        // $dataJalan = Jalan::all()->get()->getResultArray();
+        $dataJalan = Jalan::all();
+        $test = 200;
+        return view('WebGIS.data', compact('dataJalan', 'test'));
     }
     public function SkPs()
     {
@@ -120,7 +126,13 @@ class WebGISController extends Controller
     }
     public function galery()
     {
-        return view('WebGIS.galery');
+        $dokumentasi = Dokumentasi::all();
+        return view('WebGIS.galery', compact('dokumentasi'));
+    }
+    public function download()
+    {
+        $dataJalan = Jalan::all();
+        return view('WebGIS.download', compact('dataJalan'));
     }
     public function contact()
     {
@@ -132,10 +144,25 @@ class WebGISController extends Controller
     }
     public function chart()
     {
-        return view('WebGIS.chart');
+        $test = 200;
+        return view('WebGIS.chart', compact('test'));
     }
-    public function detailJalan()
+    public function jalanDetail($id)
     {
-        return view('WebGIS.detailJalan');
+        $jalanDetail = Jalan::where('id', $id)->get();
+        // $baik = $jalanDetail->kondisi_baik;
+        $baik = Jalan::where('id', $id)->first()->kondisi_baik;
+        // $baik = Jalan::where('id', $id)->first()->kondisi_baik;
+        // $baik = Jalan::where('id', $id)->first()->kondisi_baik;
+        // $baik = Jalan::where('id', $id)->first()->kondisi_baik;
+        return view('WebGIS.jalanDetail', compact('jalanDetail', 'baik'));
+        // dd($baik);
     }
+
+    // admin
+    public function jalanKeseluruhan()
+    {
+        return view('AdminPanel.jalanKeseluruhan');
+    }
+    // end admin
 }

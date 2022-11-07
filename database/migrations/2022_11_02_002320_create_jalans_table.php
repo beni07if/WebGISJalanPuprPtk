@@ -15,21 +15,21 @@ class CreateJalansTable extends Migration
     {
         Schema::create('jalans', function (Blueprint $table) {
             $table->bigIncrements('id');
-            $table->integer('nomor_ruas');
-            $table->string('nama_ruas');
-            $table->float('panjang');
-            $table->string('kecamatan');
-            $table->string('kelurahan');
-            $table->float('koordinat_pangkal');
-            $table->float('koordinat_ujung');
-            $table->float('kondisi_baik');
-            $table->float('kondisi_sedang');
-            $table->float('kondisi_rusak_ringan');
-            $table->float('kondisi_rusak_berat');
-            $table->integer('jp_aspal');
-            $table->integer('jp_beton');
-            $table->integer('jp_kerikil');
-            $table->integer('jp_tanah');
+            $table->string('nomor_ruas')->nullable();
+            $table->string('nama_ruas')->nullable();
+            $table->string('panjang')->nullable();
+            $table->string('kecamatan')->nullable();
+            $table->string('kelurahan')->nullable();
+            $table->string('koordinat_pangkal')->nullable();
+            $table->string('koordinat_ujung')->nullable();
+            $table->string('kondisi_baik')->nullable();
+            $table->string('kondisi_sedang')->nullable();
+            $table->string('kondisi_rusak_ringan')->nullable();
+            $table->string('kondisi_rusak_berat')->nullable();
+            $table->string('jp_aspal')->nullable();
+            $table->string('jp_beton')->nullable();
+            $table->string('jp_kerikil')->nullable();
+            $table->string('jp_tanah')->nullable();
             $table->timestamps();
         });
     }

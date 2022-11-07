@@ -2,6 +2,8 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\DashboardController;
+use App\Http\Controllers\DokumentasiController;
+use App\Models\Dokumentasi;
 
 /*
 |--------------------------------------------------------------------------
@@ -25,8 +27,8 @@ Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name
 
 Route::get('/index', 'App\Http\Controllers\WebGISController@index')->name('index');
 Route::get('/sk-perhutanan-sosial', 'App\Http\Controllers\WebGISController@SkPs')->name('SkPs');
-Route::get('/tentang', 'App\Http\Controllers\WebGISController@tentang')->name('tentang');
-Route::get('/jalan-detail', 'App\Http\Controllers\WebGISController@detailJalan')->name('detailJalan');
+Route::get('/data-jalan', 'App\Http\Controllers\WebGISController@data')->name('data');
+Route::get('/jalan-detail/{id}', 'App\Http\Controllers\WebGISController@jalanDetail')->name('jalanDetail');
 Route::get('/contact', 'App\Http\Controllers\WebGISController@contact')->name('contact');
 Route::get('/galery', 'App\Http\Controllers\WebGISController@galery')->name('galery');
 Route::get('/blog', 'App\Http\Controllers\WebGISController@blog')->name('blog');
@@ -37,14 +39,26 @@ Route::get('/pupr-pontianak', 'App\Http\Controllers\WebGISController@pupr')->nam
 Route::get('/peta3', 'App\Http\Controllers\WebGISController@peta3')->name('peta3');
 Route::get('/datatable', 'App\Http\Controllers\WebGISController@datatable')->name('datatable');
 Route::get('/chart', 'App\Http\Controllers\WebGISController@chart')->name('chart');
-
+Route::get('/download', 'App\Http\Controllers\WebGISController@download')->name('download');
 
 // Admin routes
 Route::get('/dashboard', 'App\Http\Controllers\DashboardController@index')->name('dashboard');
 Route::get('/dashboard2', 'App\Http\Controllers\DashboardController@index2')->name('dashboard2');
 Route::get('/jalan-kota-pontianak', 'App\Http\Controllers\DashboardController@jalanKota')->name('jalanKota');
+Route::get('/edit-jalan/{id}', 'App\Http\Controllers\DashboardController@editJalan')->name('editJalan');
+Route::put('/update-jalan/{id}', 'App\Http\Controllers\DashboardController@updateJalan')->name('updateJalan');
 Route::get('/add-jalan', 'App\Http\Controllers\DashboardController@tambahJalan')->name('tambahJalan');
+Route::get('/jalan-keseluruhan', 'App\Http\Controllers\WebGISController@jalanKeseluruhan')->name('jalanKeseluruhan');
+
+Route::resource('jalan', 'App\Http\Controllers\JalanController');
+Route::resource('dokumentasi', 'App\Http\Controllers\DokumentasiController');
+Route::resource('peta', 'App\Http\Controllers\PetaController');
 
 Route::post('simpan-jalan', 'App\Http\Controllers\JalanController@store')->name('simpanJalan');
+
+// Route::get('/show-pdf/{id}', function ($id) {
+//     $file = Dokumentasi::find($id);
+//     return response()->file("assets/img/dokumentasi/" . $file);
+// })->name('show-pdf');
 // Route::resource('jalan', 'JalanController');
 // End Admin route

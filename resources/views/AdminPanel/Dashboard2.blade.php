@@ -1,4 +1,4 @@
-@extends('AdminPanel.Layout.App')
+@extends('AdminPanel.Layout.App2')
 
 @section('content')
 <div class="content-wrapper">
@@ -23,73 +23,154 @@
     <!-- Main content -->
     <section class="content">
         <div class="container-fluid">
-            <!-- Small boxes (Stat box) -->
             <div class="row">
-                <div class="col-lg-3 col-6">
-                    <!-- small box -->
-                    <div class="small-box bg-info">
-                        <div class="inner">
-                            <h3>150</h3>
-
-                            <p>New Orders</p>
+                <div class="col-md-4">
+                    <!-- AREA CHART -->
+                    <div class="card card-primary" hidden>
+                        <div class="card-header">
+                            <h3 class="card-title">Area Chart</h3>
                         </div>
-                        <div class="icon">
-                            <i class="ion ion-bag"></i>
+                        <div class="card-body">
+                            <div class="chart">
+                                <canvas id="areaChart" style="min-height: 250px; height: 250px; max-height: 250px; max-width: 100%;"></canvas>
+                            </div>
                         </div>
-                        <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+                        <!-- /.card-body -->
                     </div>
-                </div>
-                <!-- ./col -->
-                <div class="col-lg-3 col-6">
-                    <!-- small box -->
-                    <div class="small-box bg-success">
-                        <div class="inner">
-                            <h3>53<sup style="font-size: 20px">%</sup></h3>
+                    <!-- /.card -->
 
-                            <p>Bounce Rate</p>
+                    <!-- DONUT CHART -->
+                    <div class="card card-danger" hidden>
+                        <div class="card-header">
+                            <h3 class="card-title">Donut Chart</h3>
                         </div>
-                        <div class="icon">
-                            <i class="ion ion-stats-bars"></i>
+                        <div class="card-body">
+                            <canvas id="donutChart" style="min-height: 250px; height: 250px; max-height: 250px; max-width: 100%;"></canvas>
                         </div>
-                        <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+                        <!-- /.card-body -->
                     </div>
-                </div>
-                <!-- ./col -->
-                <div class="col-lg-3 col-6">
-                    <!-- small box -->
-                    <div class="small-box bg-warning">
-                        <div class="inner">
-                            <h3>44</h3>
+                    <!-- /.card -->
 
-                            <p>User Registrations</p>
+                    <!-- PIE CHART -->
+                    <div class="card card-info">
+                        <div class="card-header">
+                            <h3 class="card-title">Grafik Kondisi Mantap dan Tidak Mantap</h3>
+                            <div class="card-tools">
+                                <button type="button" class="btn btn-info btn-xs">
+                                    Edit
+                                </button>
+                            </div>
                         </div>
-                        <div class="icon">
-                            <i class="ion ion-person-add"></i>
+                        <div class="card-body">
+                            <canvas id="pieChart" style="min-height: 250px; height: 250px; max-height: 250px; max-width: 100%;"></canvas>
                         </div>
-                        <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+                        <!-- /.card-body -->
                     </div>
-                </div>
-                <!-- ./col -->
-                <div class="col-lg-3 col-6">
-                    <!-- small box -->
-                    <div class="small-box bg-danger">
-                        <div class="inner">
-                            <h3>65</h3>
+                    <!-- /.card -->
 
-                            <p>Unique Visitors</p>
-                        </div>
-                        <div class="icon">
-                            <i class="ion ion-pie-graph"></i>
-                        </div>
-                        <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
-                    </div>
                 </div>
-                <!-- ./col -->
+                <!-- /.col (LEFT) -->
+                <div class="col-md-4">
+                    <!-- LINE CHART -->
+                    <div class="card card-info" hidden>
+                        <div class="card-header">
+                            <h3 class="card-title">Line Chart</h3>
+                        </div>
+                        <div class="card-body">
+                            <div class="chart">
+                                <canvas id="lineChart" style="min-height: 250px; height: 250px; max-height: 250px; max-width: 100%;"></canvas>
+                            </div>
+                        </div>
+                        <!-- /.card-body -->
+                    </div>
+                    <!-- /.card -->
+
+                    <!-- BAR CHART -->
+                    <div class="card card-success">
+                        <div class="card-header">
+                            <h3 class="card-title">Panjang Tiap Kondisi Jalan</h3>
+                            <div class="card-tools">
+                                <button type="button" class="btn btn-info btn-xs">
+                                    Edit
+                                </button>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="chart">
+                                <canvas id="barChart" style="min-height: 250px; height: 250px; max-height: 250px; max-width: 100%;"></canvas>
+                            </div>
+                        </div>
+                        <!-- /.card-body -->
+                    </div>
+                    <!-- /.card -->
+
+                    <!-- STACKED BAR CHART -->
+                    <div class="card card-success" hidden>
+                        <div class="card-header">
+                            <h3 class="card-title">Stacked Bar Chart</h3>
+                        </div>
+                        <div class="card-body">
+                            <div class="chart">
+                                <canvas id="stackedBarChart" style="min-height: 250px; height: 250px; max-height: 250px; max-width: 100%;"></canvas>
+                            </div>
+                        </div>
+                        <!-- /.card-body -->
+                    </div>
+                    <!-- /.card -->
+
+                </div>
+                <!-- /.col (RIGHT) -->
+                <div class="col-md-4">
+                    <!-- LINE CHART -->
+                    <div class="card card-info" hidden>
+                        <div class="card-header">
+                            <h3 class="card-title">Line Chart</h3>
+                        </div>
+                        <div class="card-body">
+                            <div class="chart">
+                                <canvas id="lineChart" style="min-height: 250px; height: 250px; max-height: 250px; max-width: 100%;"></canvas>
+                            </div>
+                        </div>
+                        <!-- /.card-body -->
+                    </div>
+                    <!-- /.card -->
+
+                    <!-- BAR CHART -->
+                    <div class="card card-success" hidden>
+                        <div class="card-header">
+                            <h3 class="card-title">Bar Chart</h3>
+                        </div>
+                        <div class="card-body">
+                            <div class="chart">
+                                <canvas id="barChart" style="min-height: 250px; height: 250px; max-height: 250px; max-width: 100%;"></canvas>
+                            </div>
+                        </div>
+                        <!-- /.card-body -->
+                    </div>
+                    <!-- /.card -->
+
+                    <!-- STACKED BAR CHART -->
+                    <div class="card card-warning">
+                        <div class="card-header">
+                            <h3 class="card-title">Panjang Tiap Jenis Permukaan</h3>
+                            <div class="card-tools">
+                                <button type="button" class="btn btn-info btn-xs">
+                                    Edit
+                                </button>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="chart">
+                                <canvas id="stackedBarChart" style="min-height: 250px; height: 250px; max-height: 250px; max-width: 100%;"></canvas>
+                            </div>
+                        </div>
+                        <!-- /.card-body -->
+                    </div>
+                    <!-- /.card -->
+
+                </div>
             </div>
             <!-- /.row -->
-            <!-- Main row -->
-
-            <!-- /.row (main row) -->
         </div><!-- /.container-fluid -->
     </section>
     <!-- /.content -->

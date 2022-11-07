@@ -1,5 +1,13 @@
+    <!-- ======= Counts Section ======= -->
+    <section id="counts" class="counts">
+        <div class="container" data-aos="fade-up">
+
+        </div>
+    </section>
+    <!-- End Counts Section -->
+
     <!-- ======= Portfolio Section ======= -->
-    <section id="portfolio" class="portfolio">
+    <section id="portfolio" class="portfolio" hidden>
 
         <div class="container" data-aos="fade-up">
 
@@ -220,3 +228,57 @@
         </div>
 
     </section><!-- End Portfolio Section -->
+
+
+    <!-- ======= About Us Section ======= -->
+    <section id="about" class="about">
+        <div class="container" data-aos="fade-up">
+            <h2>DOKUMENTASI</h2>
+            <div class="card">
+                <div class="card-header">
+                    <!-- <h3 class="card-title">DATA JALAN</h3> -->
+                </div>
+                <!-- /.card-header -->
+                <div class="card-body">
+                    <table id="example1" class="table table-bordered table-striped">
+                        <thead>
+                            <tr>
+                                <th>No</th>
+                                <th>Nomor Ruas</th>
+                                <th>Nama Ruas</th>
+                                <th>Kecamatan</th>
+                                <th>Kelurahan</th>
+                                <th>Dokumentasi</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <?php $no = 0; ?>
+                            @foreach($dokumentasi as $doc)
+                            <?php $no++ ?>
+                            <tr>
+                                <td>{{$no}}</td>
+                                <td>{{$doc->nomor_ruas}}</td>
+                                <td>{{$doc->nama_ruas}}</td>
+                                <td>{{$doc->kecamatan}}</td>
+                                <td>{{$doc->kelurahan}}</td>
+                                <td><a href="assets/img/dokumentasi/{{$doc->dokumentasi}}" class="btn btn-info btn-xs"> {{$doc->dokumentasi}}</a></td>
+                            </tr>
+                            @endforeach
+                        </tbody>
+                        <!-- <tfoot>
+                            <tr>
+                                <th>Rendering engine</th>
+                                <th>Browser</th>
+                                <th>Platform(s)</th>
+                                <th>Engine version</th>
+                                <th>CSS grade</th>
+                            </tr>
+                        </tfoot> -->
+                    </table>
+                </div>
+                <!-- /.card-body -->
+            </div>
+            <!-- /.card -->
+
+        </div>
+    </section><!-- End About Us Section -->
