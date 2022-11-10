@@ -76,7 +76,7 @@
                         <td>{{$doc->nama_ruas}}</td>
                         <td>{{$doc->kecamatan}}</td>
                         <td>{{$doc->kelurahan}}</td>
-                        <td><a href="assets/img/dokumentasi/{{$doc->dokumentasi}}" class="btn btn-info btn-xs"> {{$doc->dokumentasi}}</a></td>
+                        <td><a href="assets/img/dokumentasi/{{$doc->dokumentasi}}" target="_blank" class="btn btn-info btn-xs"> {{$doc->dokumentasi}}</a></td>
                         <td><a href="{{route('dokumentasi.edit', $doc->id)}}" class="btn btn-warning btn-xs swallDefaulSuccess">Edit</a></td>
                         <td>
                             <form action="{{ route('dokumentasi.destroy', $doc->id)}}" method="post">
