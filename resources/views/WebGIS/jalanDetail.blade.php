@@ -286,7 +286,7 @@
             datasets: [{
                 // data: [100, 0, 0, 0, 200],
                 data: [aspal1, beton1, kerikil1, tanah1],
-                backgroundColor: ['#00c0ef', '#f56954', '#00a65a', '#f39c12'],
+                backgroundColor: ['#198754', '#0D6EFD', '#FFC107', '#DC3545'],
             }]
         }
         var donutOptions = {
