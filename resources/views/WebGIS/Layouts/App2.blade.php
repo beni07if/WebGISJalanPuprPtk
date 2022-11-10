@@ -168,6 +168,8 @@
 
     @include('WebGIS.Layouts.Script')
 
+    @yield('ScriptGrafik')
+
 
 </body>
 
