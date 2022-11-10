@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Models\Jalan;
 use App\Models\Dokumentasi;
+use App\Models\Peta;
 
 class WebGISController extends Controller
 {
@@ -133,8 +134,8 @@ class WebGISController extends Controller
     }
     public function download()
     {
-        $dataJalan = Jalan::all();
-        return view('WebGIS.download', compact('dataJalan'));
+        $peta = Peta::all();
+        return view('WebGIS.download', compact('peta'));
     }
     public function contact()
     {
