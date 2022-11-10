@@ -18,6 +18,8 @@ use App\Models\Dokumentasi;
 |
 */
 
+Auth::routes(['register' => false]);
+
 Route::get('/', function () {
     // return view('welcome');
     return view('WebGIS.index');
