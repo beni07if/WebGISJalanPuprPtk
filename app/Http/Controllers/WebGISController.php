@@ -117,8 +117,10 @@ class WebGISController extends Controller
     {
         // $dataJalan = Jalan::all()->get()->getResultArray();
         $dataJalan = Jalan::all();
-        $test = 200;
-        return view('WebGIS.data', compact('dataJalan', 'test'));
+        $tes1 = 254.119;
+        $tes2 = 31.959;
+        $tes3 = 500;
+        return view('WebGIS.data', compact('dataJalan', 'tes1', 'tes2', 'tes3'));
     }
     public function SkPs()
     {
@@ -144,18 +146,28 @@ class WebGISController extends Controller
     }
     public function chart()
     {
-        $test = 200;
-        return view('WebGIS.chart', compact('test'));
+
+        $dataJalan = Jalan::all();
+        return view('WebGIS.chart', compact('dataJalan'));
     }
     public function jalanDetail($id)
     {
         $jalanDetail = Jalan::where('id', $id)->get();
+        $aspal = Jalan::where('id', $id)->get();
+        $beton = Jalan::where('id', $id)->get();
+        $kerikil = Jalan::where('id', $id)->get();
+        $tanah = Jalan::where('id', $id)->get();
+
+        // $aspal = 10;
+        // $beton = 20;
+        // $kerikil = 30;
+        // $tanah = 40;
         // $baik = $jalanDetail->kondisi_baik;
         $baik = Jalan::where('id', $id)->first()->kondisi_baik;
         // $baik = Jalan::where('id', $id)->first()->kondisi_baik;
         // $baik = Jalan::where('id', $id)->first()->kondisi_baik;
         // $baik = Jalan::where('id', $id)->first()->kondisi_baik;
-        return view('WebGIS.jalanDetail', compact('jalanDetail', 'baik'));
+        return view('WebGIS.jalanDetail', compact('jalanDetail', 'aspal', 'beton', 'kerikil', 'tanah', 'baik'));
         // dd($baik);
     }
 
@@ -165,4 +177,10 @@ class WebGISController extends Controller
         return view('AdminPanel.jalanKeseluruhan');
     }
     // end admin
+
+    public function coba()
+    {
+        $tes = 300;
+        return view('AdminPanel.coba', compact('tes'));
+    }
 }

@@ -3,6 +3,8 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\DashboardController;
 use App\Http\Controllers\DokumentasiController;
+
+use App\Http\Controllers\WebGISController;
 use App\Models\Dokumentasi;
 
 /*
@@ -55,6 +57,11 @@ Route::resource('dokumentasi', 'App\Http\Controllers\DokumentasiController');
 Route::resource('peta', 'App\Http\Controllers\PetaController');
 
 Route::post('simpan-jalan', 'App\Http\Controllers\JalanController@store')->name('simpanJalan');
+
+// Route::get('/tes', 'App\Http\Controllers\WebGISController@tes')->name('tes');
+Route::get('/tes', [WebGISController::class, 'coba']);
+
+
 
 // Route::get('/show-pdf/{id}', function ($id) {
 //     $file = Dokumentasi::find($id);

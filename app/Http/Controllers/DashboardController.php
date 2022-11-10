@@ -29,7 +29,11 @@ class DashboardController extends Controller
     }
     public function index2()
     {
-        return view('AdminPanel.Dashboard2');
+        $dataJalan = Jalan::all();
+        $tes1 = 254.119;
+        $tes2 = 31.959;
+        $tes3 = 500;
+        return view('AdminPanel.Dashboard2', compact('dataJalan', 'tes1', 'tes2', 'tes3'));
     }
     public function jalanKota()
     {
