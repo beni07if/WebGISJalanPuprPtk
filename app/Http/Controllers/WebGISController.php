@@ -184,4 +184,55 @@ class WebGISController extends Controller
         $tes = 300;
         return view('AdminPanel.coba', compact('tes'));
     }
+
+    public function kondisiJalan()
+    {
+        $dataJalan = Jalan::all();
+        return view('WebGIS.kondisiJalan', compact('dataJalan'));
+    }
+    public function kegiatan2020()
+    {
+        $dataJalan = Jalan::all();
+        return view('WebGIS.kegiatan2020', compact('dataJalan'));
+    }
+    public function k2020Pembangunan()
+    {
+        $dataJalan = Jalan::all();
+        return view('WebGIS.kegiatan2020.k2020Pembangunan', compact('dataJalan'));
+    }
+    public function k2020Peningkatan()
+    {
+        $dataJalan = Jalan::all();
+        return view('WebGIS.kegiatan2020.k2020Peningkatan', compact('dataJalan'));
+    }
+    public function k2020Pemeliharaan()
+    {
+        $dataJalan = Jalan::all();
+        return view('WebGIS.kegiatan2020.k2020Pemeliharaan', compact('dataJalan'));
+    }
+    public function kegiatan2021()
+    {
+        $dataJalan = Jalan::all();
+        return view('WebGIS.kegiatan2021', compact('dataJalan'));
+    }
+    public function k2021Pembangunan()
+    {
+        $dataJalan = Jalan::all();
+        return view('WebGIS.kegiatan2021.k2021Pembangunan', compact('dataJalan'));
+    }
+    public function k2021Rekonstruksi()
+    {
+        $dataJalan = Jalan::all();
+        return view('WebGIS.kegiatan2021.k2021Rekonstruksi', compact('dataJalan'));
+    }
+    public function k2021Berkala()
+    {
+        $dataJalan = Jalan::all();
+        return view('WebGIS.kegiatan2021.k2021Berkala', compact('dataJalan'));
+    }
+    public function k2021Trotoar()
+    {
+        $dataJalan = Jalan::all();
+        return view('WebGIS.kegiatan2021.k2021Trotoar', compact('dataJalan'));
+    }
 }

@@ -44,6 +44,16 @@ Route::get('/peta3', 'App\Http\Controllers\WebGISController@peta3')->name('peta3
 Route::get('/datatable', 'App\Http\Controllers\WebGISController@datatable')->name('datatable');
 Route::get('/chart', 'App\Http\Controllers\WebGISController@chart')->name('chart');
 Route::get('/download', 'App\Http\Controllers\WebGISController@download')->name('download');
+Route::get('/kondisi-jalan', 'App\Http\Controllers\WebGISController@kondisiJalan')->name('kondisiJalan');
+Route::get('/kegiatan-2020', 'App\Http\Controllers\WebGISController@kegiatan2020')->name('kegiatan2020');
+Route::get('/kegiatan-2021', 'App\Http\Controllers\WebGISController@kegiatan2021')->name('kegiatan2021');
+Route::get('/kegiatan-2020-pembangunan', 'App\Http\Controllers\WebGISController@k2020Pembangunan')->name('k2020Pembangunan');
+Route::get('/kegiatan-2020-peningkatan', 'App\Http\Controllers\WebGISController@k2020Peningkatan')->name('k2020Peningkatan');
+Route::get('/kegiatan-2020-pemeliharaan', 'App\Http\Controllers\WebGISController@k2020Pemeliharaan')->name('k2020Pemeliharaan');
+Route::get('/kegiatan-2021-pembangunan', 'App\Http\Controllers\WebGISController@k2021Pembangunan')->name('k2021Pembangunan');
+Route::get('/kegiatan-2021-rekonstruksi', 'App\Http\Controllers\WebGISController@k2021Rekonstruksi')->name('k2021Rekonstruksi');
+Route::get('/kegiatan-2021-berkala', 'App\Http\Controllers\WebGISController@k2021Berkala')->name('k2021Berkala');
+Route::get('/kegiatan-2021-trotoar', 'App\Http\Controllers\WebGISController@k2021Trotoar')->name('k2021Trotoar');
 
 // Admin routes
 Route::get('/dashboard', 'App\Http\Controllers\DashboardController@index')->name('dashboard');
@@ -57,6 +67,8 @@ Route::get('/jalan-keseluruhan', 'App\Http\Controllers\WebGISController@jalanKes
 Route::resource('jalan', 'App\Http\Controllers\JalanController');
 Route::resource('dokumentasi', 'App\Http\Controllers\DokumentasiController');
 Route::resource('peta', 'App\Http\Controllers\PetaController');
+Route::resource('parent-jalan', 'App\Http\Controllers\ParentJalanController');
+Route::resource('child-jalan', 'App\Http\Controllers\ChildJalanController');
 
 Route::post('simpan-jalan', 'App\Http\Controllers\JalanController@store')->name('simpanJalan');
 

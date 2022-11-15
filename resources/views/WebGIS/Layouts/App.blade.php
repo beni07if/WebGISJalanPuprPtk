@@ -25,7 +25,29 @@
             <nav id="navbar" class="navbar">
                 <ul>
                     <li><a class="nav-link scrollto" href="{{ route('index') }}">HOME</a></li>
-                    <li><a class="nav-link scrollto" href="{{ route('data') }}">DATA</a></li>
+                    <!-- <li><a class="nav-link scrollto" href="{{ route('data') }}">DATA</a></li> -->
+                    <li class="dropdown"><a href="#"><span>DATA</span> <i class="bi bi-chevron-down"></i></a>
+                        <ul>
+                            <li><a href="{{ route('data') }}">JALAN UMUM</a></li>
+                            <li><a href="{{ route('kondisiJalan') }}">KONDISI JALAN</a></li>
+                            <!-- <li><a href="{{ route('kegiatan2020') }}">KEGIATAN 2020</a></li> -->
+                            <li class="dropdown"><a href="#"><span>KEGIATAN 2020</span> <i class="bi bi-chevron-right"></i></a>
+                                <ul>
+                                    <li><a href="{{route('k2020Pembangunan')}}">Pembangunan</a></li>
+                                    <li><a href="{{route('k2020Peningkatan')}}">Peningkatan</a></li>
+                                    <li><a href="{{route('k2020Pemeliharaan')}}">Pemeliharaan</a></li>
+                                </ul>
+                            </li>
+                            <li class="dropdown"><a href="#"><span>KEGIATAN 2021</span> <i class="bi bi-chevron-right"></i></a>
+                                <ul>
+                                    <li><a href="{{route('k2021Pembangunan')}}">Pembangunan</a></li>
+                                    <li><a href="{{route('k2021Rekonstruksi')}}">Rekonstruksi</a></li>
+                                    <li><a href="{{route('k2021Berkala')}}">Berkala</a></li>
+                                    <li><a href="{{route('k2021Trotoar')}}">Trotoar</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
                     <li><a class="nav-link scrollto" href="{{ route('peta2') }}">PETA</a></li>
                     <li><a class="nav-link scrollto" href="{{ route('galery') }}">GALERY</a></li>
                     <li><a class="nav-link scrollto" href="{{ route('download') }} ">DOWNLOAD</a></li>
@@ -84,7 +106,7 @@
                         <h4>Layanan Kami</h4>
                         <ul>
                             <li><i class="bi bi-chevron-right"></i> <a href="{{ route('index') }}#hero">Home</a></li>
-                            <li><i class="bi bi-chevron-right"></i> <a href="{{ route('index') }}#about">Data</a></li>
+                            <li><i class="bi bi-chevron-right"></i> <a href="{{ route('data') }}">Data</a></li>
                             <li><i class="bi bi-chevron-right"></i> <a href="{{ route('peta2') }}">Peta</a></li>
                             <li><i class="bi bi-chevron-right"></i> <a href="{{ route('galery') }}">Galery</a></li>
                             <li><i class="bi bi-chevron-right"></i> <a href="{{ route('download') }}">Download</a></li>
@@ -98,73 +120,20 @@
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63837.080944634115!2d109.29653098007158!3d-0.035394843388718976!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e1d58f604b0799b%3A0x511ef9501fc9ffe3!2sPontianak%2C%20Kota%20Pontianak%2C%20Kalimantan%20Barat!5e0!3m2!1sid!2sid!4v1666024228457!5m2!1sid!2sid" width="450" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
 
-                    <!-- <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
-                        <h4>Kontak Kami</h4>
-                        <p>
-                            <strong>Lembaga:</strong>Aidenvironment Asia/ Yayasan Sangga Bumi Lestari <br>
-                            <strong>Alamat:</strong>Jalan Kol Sugiono Gang Sulaiman Nomor 1A,Sampit, Kec Delta Pawan, Kabupaten Ketapang, Kalimantan Barat
-                            78811
-                            <br>
-                            <strong>Phone:</strong> (021) 502 001 97<br>
-                            <strong>Email:</strong> Info@aidenvironment.org<br>
-                            <strong>Website:</strong> <i><a href="https://aidenvironment.org" target="_blank">www.aidenvironment.org</a></i>
-                        </p>
-
-                    </div>
-                    <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
-                        <h4></h4> <br>
-                        <p>
-                            <strong>Instansi:</strong>UPT. KPH Wilayah Ketapang Utara <br>
-                            <strong>Alamat:</strong>Jl. Letkol M. Thohir No 11 A Ketapang<br>
-                            <strong>Phone:</strong> +62 821-3855-1555 (Abdul Karim)<br>
-                            <strong>Email:</strong> limabelassamarinda@gmail.com<br>
-                        </p>
-
-                    </div>
-                    <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
-                        <h4></h4><br>
-                        <p>
-                            <strong>Instansi:</strong>UPT. KPH Wilayah Ketapang Selatan <br>
-                            <strong>Alamat:</strong>Jl. M. Tohir no 11B Tengah, Kec. Delta Pawan, Kabupaten Ketapang, Kalimantan Barat 78811<br>
-                           
-                            <strong>Email:</strong> kphketapangselatan@gmail.com<br>
-                        </p>
-
-                    </div>
-                    <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
-                        <h4></h4><br>
-                        <p>
-                            <strong>Instansi:</strong>BAPPEDA Kabupaten Ketapang <br>
-                            <strong>Alamat:</strong>Jl..<br>
-                            <strong>Phone:</strong> +62 8xxxxxxx<br>
-                            <strong>Email:</strong> xx@bappedaketapang.com<br>
-                        </p>
-
-                    </div> -->
-
                 </div>
             </div>
         </div>
 
-        <!-- <div class="container">
-            <div class="copyright">
-                &copy; Copyright <strong><span>FlexStart</span></strong>. All Rights Reserved
-            </div>
-            <div class="credits">
-                All the links in the footer should remain intact.
-                You can delete the links only if you purchased the pro version.
-                Licensing information: https://bootstrapmade.com/license/
-                Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/flexstart-bootstrap-startup-template/
-                Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-                Designed by <a href="">BootstrapMade</a>
-            </div>
-        </div> -->
     </footer>
     <!-- End Footer -->
 
     <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
     @yield('IndexJs')
+
+    <!-- tambahan  -->
+
+    <!-- end tambahan  -->
 
     <!-- start datatable -->
     <!-- Vendor JS Files -->
@@ -213,6 +182,40 @@
                 "autoWidth": false,
                 "responsive": true,
             });
+        });
+        $(function() {
+            $("#example2").DataTable({
+                "responsive": true,
+                "lengthChange": false,
+                "autoWidth": false,
+                "buttons": ["copy", "csv", "excel", "pdf", "print", "colvis"]
+            }).buttons().container().appendTo('#example2_wrapper .col-md-6:eq(0)');
+            // $('#example2').DataTable({
+            //     "paging": true,
+            //     "lengthChange": false,
+            //     "searching": false,
+            //     "ordering": true,
+            //     "info": true,
+            //     "autoWidth": false,
+            //     "responsive": true,
+            // });
+        });
+        $(function() {
+            $("#example3").DataTable({
+                "responsive": true,
+                "lengthChange": false,
+                "autoWidth": false,
+                "buttons": ["copy", "csv", "excel", "pdf", "print", "colvis"]
+            }).buttons().container().appendTo('#example3_wrapper .col-md-6:eq(0)');
+            // $('#example2').DataTable({
+            //     "paging": true,
+            //     "lengthChange": false,
+            //     "searching": false,
+            //     "ordering": true,
+            //     "info": true,
+            //     "autoWidth": false,
+            //     "responsive": true,
+            // });
         });
     </script>
     <!-- end datatable adminlte  -->
