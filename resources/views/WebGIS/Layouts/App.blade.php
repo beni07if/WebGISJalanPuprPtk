@@ -19,7 +19,7 @@
 
             <a href="{{ route('index') }}" class="logo d-flex align-items-center">
                 <img src="{{ asset ('assets/img/logo/logo-webgis-pupr-blue.png')}}" alt="">
-                <!-- <span>WebGIS PS Ketapang</span> -->
+                <!-- <span>WebGIS PS Ketapangs</span> -->
             </a>
 
             <nav id="navbar" class="navbar">
@@ -29,7 +29,8 @@
                     <li class="dropdown"><a href="#"><span>DATA</span> <i class="bi bi-chevron-down"></i></a>
                         <ul>
                             <li><a href="{{ route('data') }}">JALAN UMUM</a></li>
-                            <li><a href="{{ url('kondisi-jalan') }}">KONDISI JALAN</a></li>
+                            <li><a href="{{ route('kondisiJalan') }}">KONDISI JALAN</a></li>
+                            <!-- <li><a href="{{ route('kegiatan2020') }}">KEGIATAN 2020</a></li> -->
                             <li class="dropdown"><a href="#"><span>KEGIATAN 2020</span> <i class="bi bi-chevron-right"></i></a>
                                 <ul>
                                     <li><a href="{{route('k2020Pembangunan')}}">Pembangunan</a></li>
