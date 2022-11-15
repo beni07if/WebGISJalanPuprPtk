@@ -45,6 +45,7 @@ Route::get('/datatable', 'App\Http\Controllers\WebGISController@datatable')->nam
 Route::get('/chart', 'App\Http\Controllers\WebGISController@chart')->name('chart');
 Route::get('/download', 'App\Http\Controllers\WebGISController@download')->name('download');
 Route::get('/kondisi-jalan', 'App\Http\Controllers\WebGISController@kondisiJalan')->name('kondisiJalan');
+Route::get('/kondisi-jalan-detail/{id}', 'App\Http\Controllers\WebGISController@kondisiJalanDetail')->name('kondisiJalanDetail');
 Route::get('/kegiatan-2020', 'App\Http\Controllers\WebGISController@kegiatan2020')->name('kegiatan2020');
 Route::get('/kegiatan-2021', 'App\Http\Controllers\WebGISController@kegiatan2021')->name('kegiatan2021');
 Route::get('/kegiatan-2020-pembangunan', 'App\Http\Controllers\WebGISController@k2020Pembangunan')->name('k2020Pembangunan');

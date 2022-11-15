@@ -25,40 +25,26 @@
                         <thead>
                             <tr>
                                 <th>No</th>
-                                <th>Nomor Ruas</th>
+                                <th>No. Ruas</th>
                                 <th>Nama Ruas</th>
-                                <th>Patok Dari</th>
-                                <th>Patok Ke</th>
-                                <th>Panjang (KM)</th>
-                                <th>Lebar (M)</th>
-                                <th>Kondisi Jalan</th>
+                                <th>Provinsi</th>
+                                <th>Detail</th>
                             </tr>
                         </thead>
                         <tbody>
                             <?php $no = 0; ?>
-                            @foreach($dataJalan as $jalan)
-                            <?php $no++ ?>
+                            @foreach($parentJalan as $jalan)
+                            <?php $no++; ?>
                             <tr>
                                 <td>{{$no}}</td>
                                 <td>{{$jalan->nomor_ruas}}</td>
                                 <td>{{$jalan->nama_ruas}}</td>
-                                <td>200</td>
-                                <td>400</td>
-                                <td>0.200</td>
-                                <td>5.0</td>
-                                <td>Baik</td>
+                                <td>{{$jalan->provinsi}}</td>
+                                <td><a href="{{route('kondisiJalanDetail', $jalan->id)}}" class="btn btn-info btn-xs">Detail</a></td>
+
                             </tr>
                             @endforeach
                         </tbody>
-                        <!-- <tfoot>
-                            <tr>
-                                <th>Rendering engine</th>
-                                <th>Browser</th>
-                                <th>Platform(s)</th>
-                                <th>Engine version</th>
-                                <th>CSS grade</th>
-                            </tr>
-                        </tfoot> -->
                     </table>
                 </div>
                 <!-- /.card-body -->

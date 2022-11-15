@@ -45,6 +45,47 @@
             </div>
             @endif
         </div>
+        <!-- Jalan umum  -->
+        <div class="col-md-4">
+            <!-- /.card -->
+            <div class="card">
+                <!-- <h2>Kondisi</h2> -->
+                <!-- <div class="card-header">
+                            <h3 class="card-title">Condensed Full Width Table</h3>
+                        </div> -->
+                <!-- /.card-header -->
+                <div class="card-body p-0">
+                    <table class="table table-sm">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Keterangan</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach($parentJalanUniq as $jalan)
+                            <tr>
+                                <td>Nomor Ruas</td>
+                                <td><span class="badge bg-success">{{$jalan->nomor_ruas}}</span></td>
+                            </tr>
+                            <tr>
+                                <td>Nama Ruas</td>
+                                <td><span>{{$jalan->nama_ruas}}</span></td>
+                            </tr>
+                            <tr>
+                                <td>Provinsi</td>
+                                <td><span>{{$jalan->provinsi}}</span></td>
+                            </tr>
+                            @endforeach
+                        </tbody>
+                    </table>
+                </div>
+                <!-- /.card-body -->
+            </div>
+            <!-- /.card -->
+        </div>
+        <!-- /.col -->
+        <!-- End jalan umum  -->
         <div class="card-footer">
             <a href="{{ route('child-jalan.create') }}" class="btn btn-info">Tambah Data Kondisi Jalan</a>
         </div>
@@ -52,14 +93,12 @@
             <h3 class="card-title">Data Kondisi Jalan</h3>
         </div>
         <!-- /.card-header -->
+
         <div class="card-body">
             <table id="example1" class="table table-bordered table-striped">
                 <thead>
                     <tr>
                         <th>No</th>
-                        <th>No. Ruas</th>
-                        <th>Nama Ruas</th>
-                        <th>Provinsi</th>
                         <th>Patok Dari</th>
                         <th>Patok Ke</th>
                         <th>Panjang (KM)</th>
@@ -76,9 +115,6 @@
                     <?php $no++; ?>
                     <tr>
                         <td>{{$no}}</td>
-                        <td>{{$jalans->nomor_ruas}}</td>
-                        <td>{{$jalans->nama_ruas}}</td>
-                        <td>{{$jalans->provinsi}}</td>
                         <td>{{$jalan->patok_dari}}</td>
                         <td>{{$jalan->patok_ke}}</td>
                         <td>{{$jalan->panjang}}</td>

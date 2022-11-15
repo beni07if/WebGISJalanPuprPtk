@@ -72,9 +72,10 @@ class ChildJalanController extends Controller
      */
     public function show($id)
     {
+        $parentJalanUniq = Parentjalan::where('id', $id)->distinct()->get();
         $parentJalan = Parentjalan::where('id', $id)->get();
         $childJalan = Childjalan::where('parentjalan_id', $id)->get();
-        return view('AdminPanel.kondisiJalan.childJalan.show', compact('parentJalan', 'childJalan'));
+        return view('AdminPanel.kondisiJalan.childJalan.show', compact('parentJalan', 'childJalan', 'parentJalanUniq'));
     }
 
     /**

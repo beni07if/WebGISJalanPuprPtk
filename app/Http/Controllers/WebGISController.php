@@ -6,6 +6,8 @@ use Illuminate\Http\Request;
 use App\Models\Jalan;
 use App\Models\Dokumentasi;
 use App\Models\Peta;
+use App\Models\Parentjalan;
+use App\Models\Childjalan;
 
 class WebGISController extends Controller
 {
@@ -187,9 +189,17 @@ class WebGISController extends Controller
 
     public function kondisiJalan()
     {
-        $dataJalan = Jalan::all();
-        return view('WebGIS.kondisiJalan', compact('dataJalan'));
+        $parentJalan = Parentjalan::all();
+        return view('WebGIS.kondisiJalan', compact('parentJalan'));
     }
+    public function kondisiJalanDetail($id)
+    {
+        $parentJalanUniq = Parentjalan::where('id', $id)->distinct()->get();
+        $parentJalan = Parentjalan::where('id', $id)->get();
+        $childJalan = Childjalan::where('parentjalan_id', $id)->get();
+        return view('WebGIS.kondisiJalanDetail', compact('parentJalan', 'childJalan', 'parentJalanUniq'));
+    }
+
     public function kegiatan2020()
     {
         $dataJalan = Jalan::all();
